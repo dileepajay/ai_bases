@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robot Gallery</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 90%;
+            margin: 0 auto;
+            padding-top: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        .robot-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .robot-card {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            transition: transform 0.2s;
+        }
+
+        .robot-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .robot-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .robot-details {
+            padding: 15px;
+        }
+
+        .robot-details h3 {
+            margin-top: 0;
+            color: #444;
+        }
+
+        .robot-details p {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+
+        .features {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        .features li {
+            background-color: #e0f7fa;
+            margin: 5px 0;
+            padding: 5px;
+            border-radius: 4px;
+            font-size: 12px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #333;
+            color: #fff;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Robot Gallery</h1>
+        <div id="robotGrid" class="robot-grid">
+            <!-- Robot cards will be injected here dynamically -->
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Robot Gallery</p>
+    </footer>
+
+    <script>
+          var robots = [
+  {
+    "robot_name": "GlowBuddy",
+    "robot_very_short_description": "A soft, glowing robot designed to be both a companion and a nightlight for kids.",
+    "short_features_list": ["Nightlight mode", "Soft glowing colors", "Voice-activated lullabies", "Soothing sound effects"],
+    "short_tech_spec": "15 cm diameter, 12 cm height, LED color-changing lights, AI voice recognition, rechargeable battery",
+    "detailed_image_prompt": "A small, rounded robot designed with soft, smooth curves and a glowing body. The robot is primarily white, with a semi-translucent shell that softly changes colors between pastel hues like blue, purple, and pink. Its body has no sharp edges, ensuring it looks safe and child-friendly. At the front, it has a cute, smiling face with big round eyes displayed on a small, circular screen, making the robot seem friendly and approachable. The face changes expressions subtly, adding to the comforting presence. The robot is seated on a clean, white surface with soft studio lighting, highlighting its glowing effect. The two small wheels at the base are integrated smoothly into the body, almost hidden, making the robot look sleek. Surrounding the base, there’s a faint glow where the soft nightlight feature radiates, giving the feeling of warmth and security. The lighting in the studio is balanced to emphasize the robot’s gentle glow without casting harsh shadows."
+  },
+  {
+    "robot_name": "RoboPet",
+    "robot_very_short_description": "A pet-like robot that mimics a friendly dog with interactive features.",
+    "short_features_list": ["Tail wagging", "Sound recognition", "Voice commands", "Cute pet behaviors"],
+    "short_tech_spec": "12 cm height, 4-legged, AI voice control, tactile sensors, rechargeable battery",
+    "detailed_image_prompt": "A dog-like robot with four small legs and a wagging tail. It has a cute, animated face with big, round eyes and ears that move when it responds to commands. The body is white with blue accents, designed to look sleek and minimal. The tail wags in response to touch, and the robot is shown seated on a white floor. The studio lighting emphasizes the soft reflections on the robot’s glossy surface, creating a playful and engaging look. The robot’s legs are sturdy but rounded, giving it a friendly, pet-like feel."
+  },
+  {
+    "robot_name": "ArtBot",
+    "robot_very_short_description": "A creative robot designed to help kids draw and create art.",
+    "short_features_list": ["Holds markers", "Draws shapes", "Interactive learning", "Voice-guided art lessons"],
+    "short_tech_spec": "10 cm diameter, AI art generator, 4 marker holders, rechargeable battery, voice-guided learning",
+    "detailed_image_prompt": "A small, round robot with a smooth white body and arms that hold colorful markers. The robot’s face is displayed on a small screen, showing a happy, animated expression. Its body has a built-in rotating mechanism that allows it to draw on paper placed beneath it. The markers are displayed in bright colors, and the robot is placed on a white table with sheets of paper and colorful drawings scattered around. Soft studio lighting highlights the robot’s creative design and colorful outputs."
+  },
+  {
+    "robot_name": "MiniNavigator",
+    "robot_very_short_description": "A robot that helps kids learn navigation and map exploration.",
+    "short_features_list": ["Maps rooms", "Obstacle detection", "Voice interaction", "Educational guidance"],
+    "short_tech_spec": "14 cm height, 360° sensors, obstacle detection, AI map learning, rechargeable battery",
+    "detailed_image_prompt": "A compact, cylindrical robot with a sensor array on top, designed to look like a tiny explorer. It has small wheels at the base and a camera-like eye at the front for scanning the environment. The body is metallic gray with neon blue lights outlining its features. The robot is shown on a white studio floor, with soft lighting emphasizing its sensor equipment and wheels. The sensors on top rotate, suggesting its scanning ability, and its LED lights glow faintly, indicating its high-tech mapping capabilities."
+  },
+  {
+    "robot_name": "StoryTime Bot",
+    "robot_very_short_description": "A storytelling robot that reads and narrates bedtime stories.",
+    "short_features_list": ["Story library", "Voice modulation", "Interactive storytelling", "Soothing lights"],
+    "short_tech_spec": "12 cm height, voice recognition, AI story generator, soft LED lights, rechargeable battery",
+    "detailed_image_prompt": "A small, square-shaped robot with rounded corners, designed to resemble a friendly storyteller. Its front screen displays animated characters from stories, with soft LED lights around the edges of the body that change color during storytelling. The robot’s body is light gray, with pastel-colored buttons on top for selecting stories. The robot sits on a white surface, illuminated by soft studio lighting that highlights its gentle glow. The animated face on the screen smiles, and its arms are designed to gesture as if narrating a tale."
+  },
+  {
+    "robot_name": "DanceBot",
+    "robot_very_short_description": "A robot that dances to music with glowing lights and smooth moves.",
+    "short_features_list": ["Dance moves", "Music sync", "LED lights", "Interactive voice commands"],
+    "short_tech_spec": "10 cm diameter, AI-powered dance moves, built-in speaker, LED lights, rechargeable battery",
+    "detailed_image_prompt": "A round, disco-themed robot with LED lights along its body that flash to the beat of the music. The robot is primarily silver with bright neon accents, and its small legs and arms move rhythmically when music plays. The LED lights change color and flash as the robot dances, creating a fun, party-like atmosphere. It’s placed on a white surface with studio lighting emphasizing its shiny, reflective body and colorful lights."
+  },
+  {
+    "robot_name": "QuizMaster Bot",
+    "robot_very_short_description": "An educational robot that quizzes kids on various topics, helping them learn interactively.",
+    "short_features_list": ["Quiz games", "Voice interaction", "Customizable questions", "Interactive learning"],
+    "short_tech_spec": "12 cm height, voice recognition, AI quiz generator, speaker, rechargeable battery",
+    "detailed_image_prompt": "A small, boxy robot with a bright display on the front showing multiple-choice questions. The body is colorful, with large buttons on the top that kids can press to answer questions. The screen is interactive, displaying fun icons and quiz results. The robot is shown on a white table in a studio setting with soft lighting that highlights its playful, educational design. Its face on the display is smiling, encouraging interaction, and the buttons glow when touched."
+  },
+  {
+    "robot_name": "EcoBot",
+    "robot_very_short_description": "A robot designed to teach kids about recycling and environmental sustainability.",
+    "short_features_list": ["Teaches recycling", "Interactive lessons", "Eco-friendly materials", "Voice guidance"],
+    "short_tech_spec": "14 cm height, recycled plastic body, AI eco-lessons, sensors for object detection, rechargeable battery",
+    "detailed_image_prompt": "A robot made from eco-friendly materials, with a green and brown color scheme to represent nature. It has a small display that shows images of recycling symbols and environmental tips. The body is slightly textured to resemble recycled materials, and it has a friendly, nature-themed face on the display. The robot is placed on a white surface with soft lighting, highlighting its unique, eco-conscious design. Leaves and plants are subtly engraved on its body, adding to its environmentally friendly appearance."
+  },
+  {
+    "robot_name": "ScribbleBot",
+    "robot_very_short_description": "A fun robot that helps kids create scribbles and doodles with ease.",
+    "short_features_list": ["Scribble mode", "Interactive art tutorials", "Colorful drawings", "Marker holders"],
+    "short_tech_spec": "10 cm diameter, built-in marker holders, AI art generator, rechargeable battery",
+    "detailed_image_prompt": "A small, round robot designed to hold markers in its arms and create colorful scribbles on paper. The body is smooth and white, with colorful marker slots on both sides. Its screen shows an animated face that encourages creativity, and the robot is positioned over a sheet of paper filled with vibrant scribbles. The studio lighting is soft, emphasizing the fun and creative nature of the robot. The robot’s arms move in different directions, mimicking the motion of drawing."
+  },
+  {
+    "robot_name": "ZippyBot",
+    "robot_very_short_description": "A fast-moving racing robot with sleek design and customizable LED lights.",
+    "short_features_list": ["High-speed racing", "Custom LED lights", "Remote control", "Interactive racing modes"],
+    "short_tech_spec": "15 cm width, 8 cm height, LED strips, remote control, rechargeable battery",
+    "detailed_image_prompt": "A sleek, aerodynamic robot with neon LED strips running along the sides of its body. The robot is designed like a futuristic race car, with small, sturdy wheels and a low-profile chassis. Its body is metallic silver with bright blue and red LED accents that glow in the studio lighting. The robot is placed on a white surface, with shadows emphasizing its fast, high-tech design. The LED lights flash in patterns as the robot moves, adding to its sense of speed and excitement."
+  }
+];
+        // Function to fetch and display robots
+        async function loadRobots() {
+        
+
+            const robotGrid = document.getElementById('robotGrid');
+
+            robots.forEach((robot, index) => {
+                const robotCard = document.createElement('div');
+                robotCard.classList.add('robot-card');
+
+                robotCard.innerHTML = `
+                    <img src="images/r__0000${index + 1}_.png" alt="${robot.robot_name}" class="robot-image">
+                    <div class="robot-details">
+                        <h3>${robot.robot_name}</h3>
+                        <p>${robot.robot_very_short_description}</p>
+                        <ul class="features">
+                            ${robot.short_features_list.map(feature => `<li>${feature}</li>`).join('')}
+                        </ul>
+                        <p><strong>Tech Specs:</strong> ${robot.short_tech_spec}</p>
+                    </div>
+                `;
+
+                robotGrid.appendChild(robotCard);
+            });
+        }
+
+        // Load robots on page load
+        window.onload = loadRobots;
+    </script>
+
+</body>
+</html>
