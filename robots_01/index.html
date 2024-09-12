@@ -332,7 +332,7 @@
                                 <h3>${robot.robot_name}</h3>
                                 <p>${robot.robot_very_short_description}</p>
                                 <ul class="features">
-                                    ${robot.short_features_list.map(feature => `<li>${feature}</li>`).join('')}
+                                    ${robot.short_features_list_icons.map(feature => `<li>${feature.icon} ${feature.feature}</li>`).join('')}
                                 </ul>
                                 <p><strong>Tech Specs:</strong> ${typeof robot.short_tech_spec === 'string' ? robot.short_tech_spec : ''}</p>
                             </div>
