@@ -316,7 +316,7 @@
         async function loadRobots() {
             const robotGrid = document.getElementById('robotGrid');
 
-            fetch('https://raw.githubusercontent.com/dileepajay/ai_bases/dev/robots_01/robots.json')
+            fetch('https://raw.githubusercontent.com/dileepajay/ai_bases/dev/robots_01/robots_detailed.json')
                 .then(response => response.json())
                 .then(data => {
                     robots = data;
