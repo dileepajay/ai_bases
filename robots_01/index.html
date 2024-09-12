@@ -16,60 +16,64 @@
 
         /* Header Styling */
         .header {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background: linear-gradient(135deg, #3a6073, #16222a);
+            background: linear-gradient(135deg, #a0e9ff, #70bfff);
+            /* Light blue gradient */
             color: white;
-            padding: 40px 20px;
-            position: relative;
+            padding: 50px 20px;
             text-align: center;
+            border-bottom: 5px solid #009fdc;
+            /* A vibrant blue border at the bottom */
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            /* Subtle shadow for depth */
         }
 
         .header h1 {
             font-size: 3rem;
-            font-weight: bold;
-            letter-spacing: 1.5px;
+            font-weight: 700;
             color: #fff;
             margin: 0;
-            padding: 0;
         }
 
         .header h1 span {
-            color: #f4d03f;
-            font-weight: 800;
+            color: #009fdc;
+            /* Highlight '100' in vibrant blue */
+            font-weight: 900;
         }
 
-        .header::before {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 5px;
-            background: linear-gradient(90deg, #f4d03f, #ff5f6d);
-        }
-
-        .header::after {
-            content: "";
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            height: 5px;
-            background: linear-gradient(90deg, #ff5f6d, #f4d03f);
-        }
-
-        /* Subheading */
         .header p {
             font-size: 1.2rem;
-            color: #eee;
+            color: #f0f0f0;
+            /* Slightly lighter white for the subheading */
             margin-top: 10px;
             margin-bottom: 0;
         }
 
+        /* Add subtle animation for modern feel */
+        .header h1 span {
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(1.05);
+                /* Small scaling effect */
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
+
         /* Responsive Design for smaller screens */
         @media (max-width: 768px) {
+            .header {
+                padding: 40px 10px;
+            }
+
             .header h1 {
                 font-size: 2.5rem;
             }
@@ -251,7 +255,7 @@
             width: 100%;
             padding: 10px;
             font-size: 16px;
-            background-color: #007BFF;
+            background-color: #50beff;
             color: white;
             border: none;
             border-radius: 5px;
@@ -391,7 +395,7 @@
 <body>
     <div class="header">
         <div>
-            <h1><span>Robot</span> Concepts Gallery</h1>
+            <h1><span>100</span> Robot Concepts</h1>
             <p>Explore futuristic robotic concepts and their innovations</p>
         </div>
     </div>
@@ -402,7 +406,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2024 Robot Gallery</p>
+        <p>&copy; 2024 DYAY</p>
     </footer>
 
     <!-- Modal for Image Carousel -->
