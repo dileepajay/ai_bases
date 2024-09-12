@@ -389,19 +389,15 @@
             modalDescription.innerText = robot.robot_very_short_description;
             modalFeatures.innerHTML = robot.short_features_list.map(feature => `<li>${feature.icon} ${feature.feature}</li>`).join('');
 
-            // Reset and update tech specs (handle JSON arrays)
-            techSpecList.innerHTML = '';
-            if (Array.isArray(robot.short_tech_spec)) {
-                robot.short_tech_spec.forEach(spec => {
-                    const li = document.createElement('li');
-                    li.textContent = spec;
-                    techSpecList.appendChild(li);
-                });
-            } else {
-                const li = document.createElement('li');
-                li.textContent = robot.short_tech_spec;
-                techSpecList.appendChild(li);
-            }
+            // Clear existing tech specs
+            techSpecTableBody.innerHTML = '';
+
+            // Update tech specs table
+            robot.short_tech_spec_array.forEach(spec => {
+                const row = document.createElement('tr');
+                row.innerHTML = `<td>${spec.specification}</td><td>${spec.value}</td>`;
+                techSpecTableBody.appendChild(row);
+            });
 
             // Update thumbnail gallery
             thumbnailGallery.innerHTML = ''; // Clear existing thumbnails
@@ -416,15 +412,7 @@
                 thumbnailGallery.appendChild(thumbnail);
             }
 
-            // Clear existing tech specs
-            techSpecTableBody.innerHTML = '';
 
-            // Update tech specs table
-            robot.short_tech_spec_array.forEach(spec => {
-                const row = document.createElement('tr');
-                row.innerHTML = `<td>${spec.specification}</td><td>${spec.value}</td>`;
-                techSpecTableBody.appendChild(row);
-            });
 
             modal.style.display = 'flex';
         }
