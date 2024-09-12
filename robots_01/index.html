@@ -263,6 +263,59 @@
             background-color: #0056b3;
         }
 
+        /* Tech specs table */
+        .tech-spec-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+            font-size: 0.9rem;
+        }
+
+        .tech-spec-table th,
+        .tech-spec-table td {
+            padding: 8px 12px;
+            /* Reducing padding to minimize spaces */
+            border: 1px solid #ccc;
+            /* Light grey border for a clean look */
+            text-align: left;
+        }
+
+        .tech-spec-table th {
+            background-color: #f4d03f;
+            /* Light yellow for table headers */
+            color: white;
+            font-weight: bold;
+        }
+
+        .tech-spec-table td {
+            background-color: #f9f9f9;
+            /* Light grey for table cells */
+            color: #333;
+        }
+
+        .tech-spec-table tbody tr:nth-child(even) {
+            background-color: #f1f1f1;
+            /* Slight alternate row color for readability */
+        }
+
+        /* Add some minimal spacing to ensure table is not too cramped */
+        .tech-spec-table {
+            margin: 0 auto;
+            /* Centering the table */
+        }
+
+        .tech-spec-table td,
+        .tech-spec-table th {
+            padding: 6px 10px;
+            /* Compact padding for smaller spaces */
+        }
+
+        .tech-spec-table thead th {
+            font-size: 0.95rem;
+            text-transform: uppercase;
+            /* Adding uppercase styling to headers */
+        }
+
         /* Responsive Design */
         @media (min-width: 768px) {
             .modal-content {
@@ -319,7 +372,7 @@
                         <thead>
                             <tr>
                                 <th>Specification</th>
-                                <th>Value</th>
+                                <th></th>
                             </tr>
                         </thead>
                         <tbody>
@@ -379,7 +432,6 @@
             const modalRobotName = document.getElementById('modalRobotName');
             const modalDescription = document.getElementById('modalDescription');
             const modalFeatures = document.getElementById('modalFeatures');
-            const techSpecList = document.getElementById('techSpecList');
             const thumbnailGallery = document.getElementById('thumbnailGallery');
             const techSpecTableBody = document.querySelector('#techSpecTable tbody');
 
@@ -387,7 +439,7 @@
             modalImage.src = `images/robot_${robotIndex}-0.jpg`; // Load original size image
             modalRobotName.innerText = robot.robot_name;
             modalDescription.innerText = robot.robot_very_short_description;
-            modalFeatures.innerHTML = robot.short_features_list.map(feature => `<li>${feature.icon} ${feature.feature}</li>`).join('');
+            modalFeatures.innerHTML = robot.short_features_list_icons.map(feature => `<li>${feature.icon} ${feature.feature}</li>`).join('');
 
             // Clear existing tech specs
             techSpecTableBody.innerHTML = '';
