@@ -215,7 +215,8 @@
 
         .modal-details {
             text-align: center;
-            margin-right: 20px;;
+            margin-right: 20px;
+            ;
         }
 
         .modal-details h3 {
@@ -244,6 +245,22 @@
             padding: 10px;
             border-radius: 5px;
             font-size: 0.9rem;
+        }
+
+        .robot-details button {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .robot-details button:hover {
+            background-color: #0056b3;
         }
 
         /* Responsive Design */
@@ -298,10 +315,17 @@
                     <!-- Features will be injected dynamically -->
                 </ul>
                 <div class="tech-specs" id="modalTechSpecs">
-                    <strong>Tech Specs:</strong>
-                    <ul id="techSpecList">
-                        <!-- Tech specs will be injected dynamically -->
-                    </ul>
+                    <table class="tech-spec-table" id="techSpecTable">
+                        <thead>
+                            <tr>
+                                <th>Specification</th>
+                                <th>Value</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Tech specs will be injected dynamically -->
+                        </tbody>
+                    </table>
                 </div>
             </div>
         </div>
@@ -334,7 +358,7 @@
                                 <ul class="features">
                                     ${robot.short_features_list_icons.map(feature => `<li>${feature.icon} ${feature.feature}</li>`).join('')}
                                 </ul>
-                                <p><strong>Tech Specs:</strong> ${typeof robot.short_tech_spec === 'string' ? robot.short_tech_spec : ''}</p>
+                                <p><button>Show Details</button></p>
                             </div>
                         `;
 
@@ -347,52 +371,63 @@
 
         // Function to open modal and display carousel images and details
         // Function to open modal and display carousel images and details
-function openModal(robotIndex) {
-    currentRobotIndex = robotIndex;
-    const robot = robots[robotIndex];
-    const modal = document.getElementById('modal');
-    const modalImage = document.getElementById('modalImage');
-    const modalRobotName = document.getElementById('modalRobotName');
-    const modalDescription = document.getElementById('modalDescription');
-    const modalFeatures = document.getElementById('modalFeatures');
-    const techSpecList = document.getElementById('techSpecList');
-    const thumbnailGallery = document.getElementById('thumbnailGallery');
+        function openModal(robotIndex) {
+            currentRobotIndex = robotIndex;
+            const robot = robots[robotIndex];
+            const modal = document.getElementById('modal');
+            const modalImage = document.getElementById('modalImage');
+            const modalRobotName = document.getElementById('modalRobotName');
+            const modalDescription = document.getElementById('modalDescription');
+            const modalFeatures = document.getElementById('modalFeatures');
+            const techSpecList = document.getElementById('techSpecList');
+            const thumbnailGallery = document.getElementById('thumbnailGallery');
+            const techSpecTableBody = document.querySelector('#techSpecTable tbody');
 
-    // Reset and update modal content
-    modalImage.src = `images/robot_${robotIndex}-0.jpg`; // Load original size image
-    modalRobotName.innerText = robot.robot_name;
-    modalDescription.innerText = robot.robot_very_short_description;
-    modalFeatures.innerHTML = robot.short_features_list.map(feature => `<li>${feature}</li>`).join('');
+            // Reset and update modal content
+            modalImage.src = `images/robot_${robotIndex}-0.jpg`; // Load original size image
+            modalRobotName.innerText = robot.robot_name;
+            modalDescription.innerText = robot.robot_very_short_description;
+            modalFeatures.innerHTML = robot.short_features_list.map(feature => `<li>${feature.icon} ${feature.feature}</li>`).join('');
 
-    // Reset and update tech specs (handle JSON arrays)
-    techSpecList.innerHTML = '';
-    if (Array.isArray(robot.short_tech_spec)) {
-        robot.short_tech_spec.forEach(spec => {
-            const li = document.createElement('li');
-            li.textContent = spec;
-            techSpecList.appendChild(li);
-        });
-    } else {
-        const li = document.createElement('li');
-        li.textContent = robot.short_tech_spec;
-        techSpecList.appendChild(li);
-    }
+            // Reset and update tech specs (handle JSON arrays)
+            techSpecList.innerHTML = '';
+            if (Array.isArray(robot.short_tech_spec)) {
+                robot.short_tech_spec.forEach(spec => {
+                    const li = document.createElement('li');
+                    li.textContent = spec;
+                    techSpecList.appendChild(li);
+                });
+            } else {
+                const li = document.createElement('li');
+                li.textContent = robot.short_tech_spec;
+                techSpecList.appendChild(li);
+            }
 
-    // Update thumbnail gallery
-    thumbnailGallery.innerHTML = ''; // Clear existing thumbnails
-    for (let i = 0; i < 4; i++) {
-        const thumbnail = document.createElement('img');
-        thumbnail.src = `images/robot_${robotIndex}-${i}.jpg`;
-        // Ensure that the first image gets the 'active' class, others do not
-        if (i === 0) {
-            thumbnail.classList.add('active');
+            // Update thumbnail gallery
+            thumbnailGallery.innerHTML = ''; // Clear existing thumbnails
+            for (let i = 0; i < 4; i++) {
+                const thumbnail = document.createElement('img');
+                thumbnail.src = `images/robot_${robotIndex}-${i}.jpg`;
+                // Ensure that the first image gets the 'active' class, others do not
+                if (i === 0) {
+                    thumbnail.classList.add('active');
+                }
+                thumbnail.addEventListener('click', () => selectImage(i));
+                thumbnailGallery.appendChild(thumbnail);
+            }
+
+            // Clear existing tech specs
+            techSpecTableBody.innerHTML = '';
+
+            // Update tech specs table
+            robot.short_tech_spec_array.forEach(spec => {
+                const row = document.createElement('tr');
+                row.innerHTML = `<td>${spec.specification}</td><td>${spec.value}</td>`;
+                techSpecTableBody.appendChild(row);
+            });
+
+            modal.style.display = 'flex';
         }
-        thumbnail.addEventListener('click', () => selectImage(i));
-        thumbnailGallery.appendChild(thumbnail);
-    }
-
-    modal.style.display = 'flex';
-}
 
 
         // Function to close modal

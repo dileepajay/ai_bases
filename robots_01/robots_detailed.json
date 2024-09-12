@@ -15,6 +15,22 @@
     "feature": "Soothing sound effects",
     "icon": "\u1f3c9"}],
   "short_tech_spec": "15 cm diameter, 12 cm height, LED color-changing lights, AI voice recognition, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Diameter",
+    "value": "15 cm"},
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Lights",
+    "value": "LED color-changing lights"},
+   {
+    "specification": "Voice Recognition",
+    "value": "AI voice recognition"},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable battery"}],
   "robot_name": "GlowBuddy",
   "short_features_list": [
    "Nightlight mode",
@@ -39,6 +55,22 @@
     "feature": "\ud83d\udc36",
     "icon": "Cute pet behaviors"}],
   "short_tech_spec": "12 cm height, 4-legged, AI voice control, tactile sensors, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Number of legs",
+    "value": "4-legged"},
+   {
+    "specification": "Control method",
+    "value": "AI voice control"},
+   {
+    "specification": "Sensors",
+    "value": "Tactile sensors"},
+   {
+    "specification": "Power source",
+    "value": "Rechargeable battery"}],
   "robot_name": "RoboPet",
   "short_features_list": [
    "Tail wagging",
@@ -63,6 +95,22 @@
     "feature": "Voice-guided art lessons",
     "icon": "&#9835;"}],
   "short_tech_spec": "10 cm diameter, AI art generator, 4 marker holders, rechargeable battery, voice-guided learning",
+  "short_tech_spec_array": [
+   {
+    "specification": "Diameter",
+    "value": "10 cm"},
+   {
+    "specification": "AI Feature",
+    "value": "AI art generator"},
+   {
+    "specification": "Number of markers",
+    "value": "4"},
+   {
+    "specification": "Power source",
+    "value": "Rechargeable battery"},
+   {
+    "specification": "Learning method",
+    "value": "Voice-guided learning"}],
   "robot_name": "ArtBot",
   "short_features_list": [
    "Holds markers",
@@ -87,6 +135,22 @@
     "feature": "\uf7bb Educational guidance",
     "icon": "\uead1"}],
   "short_tech_spec": "14 cm height, 360\u00b0 sensors, obstacle detection, AI map learning, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "14 cm"},
+   {
+    "specification": "Rotation Sensors",
+    "value": "360\u00b0"},
+   {
+    "specification": "Feature",
+    "value": "Obstacle detection"},
+   {
+    "specification": "Navigation",
+    "value": "AI map learning"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable battery"}],
   "robot_name": "MiniNavigator",
   "short_features_list": [
    "Maps rooms",
@@ -111,6 +175,22 @@
     "feature": "Soothing lights",
     "icon": "\u00f0\u009f\u0094\u00b5"}],
   "short_tech_spec": "12 cm height, voice recognition, AI story generator, soft LED lights, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Voice Recognition",
+    "value": ""},
+   {
+    "specification": "AI Story Generator",
+    "value": ""},
+   {
+    "specification": "Soft LED Lights",
+    "value": ""},
+   {
+    "specification": "Rechargeable Battery",
+    "value": ""}],
   "robot_name": "StoryTime Bot",
   "short_features_list": [
    "Story library",
@@ -135,6 +215,22 @@
     "feature": "Interactive voice commands",
     "icon": "&#9743;"}],
   "short_tech_spec": "10 cm diameter, AI-powered dance moves, built-in speaker, LED lights, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Diameter",
+    "value": "10 cm"},
+   {
+    "specification": "AI Functionality",
+    "value": "AI-powered dance moves"},
+   {
+    "specification": "Audio",
+    "value": "built-in speaker"},
+   {
+    "specification": "Lighting",
+    "value": "LED lights"},
+   {
+    "specification": "Power Source",
+    "value": "rechargeable battery"}],
   "robot_name": "DanceBot",
   "short_features_list": [
    "Dance moves",
@@ -159,6 +255,22 @@
     "feature": "Interactive learning",
     "icon": "&#x1F4D2;"}],
   "short_tech_spec": "12 cm height, voice recognition, AI quiz generator, speaker, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Voice Recognition",
+    "value": "Yes"},
+   {
+    "specification": "AI Quiz Generator",
+    "value": "Yes"},
+   {
+    "specification": "Speaker",
+    "value": "Yes"},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
   "robot_name": "QuizMaster Bot",
   "short_features_list": [
    "Quiz games",
@@ -183,6 +295,22 @@
     "feature": "Voice guidance",
     "icon": "&#x1F4AC;"}],
   "short_tech_spec": "14 cm height, recycled plastic body, AI eco-lessons, sensors for object detection, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "14 cm"},
+   {
+    "specification": "Body Material",
+    "value": "Recycled Plastic"},
+   {
+    "specification": "Eco-lessons",
+    "value": "AI"},
+   {
+    "specification": "Object Detection",
+    "value": "Sensors"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
   "robot_name": "EcoBot",
   "short_features_list": [
    "Teaches recycling",
@@ -207,6 +335,19 @@
     "feature": "U0001F58C Marker holders",
     "icon": ""}],
   "short_tech_spec": "10 cm diameter, built-in marker holders, AI art generator, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Diameter",
+    "value": "10 cm"},
+   {
+    "specification": "Marker Holder",
+    "value": "Built-In"},
+   {
+    "specification": "Art Generation Capability",
+    "value": "AI Art Generator"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
   "robot_name": "ScribbleBot",
   "short_features_list": [
    "Scribble mode",
@@ -231,6 +372,22 @@
     "feature": "Interactive racing modes",
     "icon": "\u21e1"}],
   "short_tech_spec": "15 cm width, 8 cm height, LED strips, remote control, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Width",
+    "value": "15 cm"},
+   {
+    "specification": "Height",
+    "value": "8 cm"},
+   {
+    "specification": "Lighting Type",
+    "value": "LED strips"},
+   {
+    "specification": "Control Method",
+    "value": "Remote control"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable battery"}],
   "robot_name": "ZippyBot",
   "short_features_list": [
    "High-speed racing",
@@ -255,6 +412,22 @@
     "feature": "Timer functionality",
     "icon": "&#x1F554;"}],
   "short_tech_spec": "12 cm height, touchscreen, voice guidance, built-in timer, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Display",
+    "value": "Touchscreen"},
+   {
+    "specification": "Guidance",
+    "value": "Voice Guidance"},
+   {
+    "specification": "Features",
+    "value": "Built-in Timer"},
+   {
+    "specification": "Power",
+    "value": "Rechargeable Battery"}],
   "robot_name": "CookBot",
   "short_features_list": [
    "Recipe tutorials",
@@ -279,6 +452,22 @@
     "feature": "Voice alerts",
     "icon": "\ud83d\udd0e"}],
   "short_tech_spec": "12 cm height, night vision, motion sensors, AI safety alerts, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Vision Capability",
+    "value": "Night Vision"},
+   {
+    "specification": "Sensor Technology",
+    "value": "Motion Sensors"},
+   {
+    "specification": "Safety Features",
+    "value": "AI Safety Alerts"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
   "robot_name": "GuardianBot",
   "short_features_list": [
    "Night vision camera",
@@ -303,6 +492,19 @@
     "feature": "Voice guidance",
     "icon": "\u1f4bB"}],
   "short_tech_spec": "10 cm height, AI plant care assistant, sensors for moisture detection, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "10 cm"},
+   {
+    "specification": "Type",
+    "value": "AI Plant Care Assistant"},
+   {
+    "specification": "Features",
+    "value": "Moisture Detection Sensors"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
   "robot_name": "PlantBot",
   "short_features_list": [
    "Plant care tips",
@@ -327,6 +529,19 @@
     "feature": "Storm alerts",
     "icon": "&#x1F34A;"}],
   "short_tech_spec": "11 cm height, AI weather updates, built-in screen for visuals, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "11 cm"},
+   {
+    "specification": "Weather Updates",
+    "value": "AI"},
+   {
+    "specification": "Screen Type",
+    "value": "built-in"},
+   {
+    "specification": "Battery Type",
+    "value": "rechargeable"}],
   "robot_name": "WeatherBot",
   "short_features_list": [
    "Weather forecasts",
@@ -351,6 +566,22 @@
     "feature": "Light shows",
     "icon": "\u1f525"}],
   "short_tech_spec": "13 cm height, Bluetooth speaker, LED lights, voice recognition, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "13 cm"},
+   {
+    "specification": "Features",
+    "value": "Bluetooth speaker"},
+   {
+    "specification": "",
+    "value": "LED lights"},
+   {
+    "specification": "",
+    "value": "Voice recognition"},
+   {
+    "specification": "",
+    "value": "Rechargeable battery"}],
   "robot_name": "MusicBot",
   "short_features_list": [
    "Music playback",
@@ -375,6 +606,22 @@
     "feature": "Interactive challenges",
     "icon": "&#x1F937;"}],
   "short_tech_spec": "12 cm height, AI fitness tracker, voice reminders, movement sensors, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "AI Functionality",
+    "value": "Fitness Tracker"},
+   {
+    "specification": "Alert System",
+    "value": "Voice Reminders"},
+   {
+    "specification": "Sensors",
+    "value": "Movement Sensors"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
   "robot_name": "HealthBot",
   "short_features_list": [
    "Fitness tracking",
@@ -399,6 +646,22 @@
     "feature": "&#x21E7; Learning levels",
     "icon": ""}],
   "short_tech_spec": "11 cm height, touchscreen display, voice interaction, AI math quizzes, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "11 cm"},
+   {
+    "specification": "Display Type",
+    "value": "Touchscreen"},
+   {
+    "specification": "Interaction Method",
+    "value": "Voice"},
+   {
+    "specification": "Features",
+    "value": "AI Math Quizzes"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
   "robot_name": "MathTutor Bot",
   "short_features_list": [
    "Math quizzes",
@@ -423,6 +686,19 @@
     "feature": "\u1f50D Voice commands",
     "icon": "\u1f50D"}],
   "short_tech_spec": "12 cm height, AI puzzle generator, voice-guided hints, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "AI",
+    "value": "Puzzle Generator"},
+   {
+    "specification": "Guidance",
+    "value": "Voice-guided Hints"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
   "robot_name": "PuzzleBot",
   "short_features_list": [
    "Logic puzzles",
@@ -447,6 +723,22 @@
     "feature": "\uf0d2 Interactive maps",
     "icon": ""}],
   "short_tech_spec": "13 cm height, AI educational guides, voice interaction, built-in screen, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "13 cm"},
+   {
+    "specification": "AI Educational Guides",
+    "value": ""},
+   {
+    "specification": "Voice Interaction",
+    "value": ""},
+   {
+    "specification": "Built-in Screen",
+    "value": ""},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
   "robot_name": "ExploreBot",
   "short_features_list": [
    "Virtual adventures",
@@ -471,6 +763,22 @@
     "feature": "\u2695 Sustainability challenges",
     "icon": ""}],
   "short_tech_spec": "14 cm height, AI eco-lessons, interactive challenges, voice-guided recycling tips, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "14 cm"},
+   {
+    "specification": "AI Features",
+    "value": "Eco-lessons"},
+   {
+    "specification": "Interactive Elements",
+    "value": "Challenges"},
+   {
+    "specification": "Guidance Type",
+    "value": "Voice-guided"},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
   "robot_name": "EcoWarrior Bot",
   "short_features_list": [
    "Eco-friendly lessons",
@@ -495,6 +803,22 @@
     "feature": "Interactive screen",
     "icon": ""}],
   "short_tech_spec": "12 cm height, touchscreen, voice assistance, built-in timer, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Display",
+    "value": "Touchscreen"},
+   {
+    "specification": "Assistant",
+    "value": "Voice Assistance"},
+   {
+    "specification": "Features",
+    "value": "Built-in Timer"},
+   {
+    "specification": "Power",
+    "value": "Rechargeable Battery"}],
   "robot_name": "ChefBuddy Bot",
   "short_features_list": [
    "Recipe assistance",
@@ -519,6 +843,22 @@
     "feature": "\u231a Display screen",
     "icon": ""}],
   "short_tech_spec": "13 cm height, touchscreen, AI lessons, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "13 cm"},
+   {
+    "specification": "Display Type",
+    "value": "Touchscreen"},
+   {
+    "specification": "Features",
+    "value": "AI lessons"},
+   {
+    "specification": "Interaction Method",
+    "value": "Voice interaction"},
+   {
+    "specification": "Battery",
+    "value": "Rechargeable"}],
   "robot_name": "LearnBot",
   "short_features_list": [
    "Multiple subjects",
@@ -543,6 +883,22 @@
     "feature": "Tool holder",
     "icon": "\u2691"}],
   "short_tech_spec": "12 cm height, AI build instructions, tool holder, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Build Instructions",
+    "value": "AI"},
+   {
+    "specification": "Tool Holder",
+    "value": ""},
+   {
+    "specification": "Interaction Type",
+    "value": "Voice"},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
   "robot_name": "BuildBot",
   "short_features_list": [
    "Build tutorials",
@@ -567,6 +923,19 @@
     "feature": "\u270e Custom difficulty levels",
     "icon": ""}],
   "short_tech_spec": "11 cm height, AI puzzle generator, voice-guided hints, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "11 cm"},
+   {
+    "specification": "AI Puzzle Generator",
+    "value": ""},
+   {
+    "specification": "Voice-Guided Hints",
+    "value": ""},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
   "robot_name": "MindPuzzle Bot",
   "short_features_list": [
    "Logic puzzles",
@@ -591,6 +960,19 @@
     "feature": "\u1f4aC",
     "icon": "Voice feedback"}],
   "short_tech_spec": "10 cm height, AI color detection, voice-guided activities, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "10 cm"},
+   {
+    "specification": "AI Features",
+    "value": "color detection"},
+   {
+    "specification": "Guidance System",
+    "value": "voice-guided activities"},
+   {
+    "specification": "Power Source",
+    "value": "rechargeable battery"}],
   "robot_name": "ColorPal Bot",
   "short_features_list": [
    "Color detection",
@@ -615,6 +997,19 @@
     "feature": "Voice-guided activities",
     "icon": "\u1f4bB"}],
   "short_tech_spec": "13 cm height, AI eco-lessons, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "13 cm"},
+   {
+    "specification": "AI Features",
+    "value": "Eco-lessons"},
+   {
+    "specification": "Interaction Method",
+    "value": "Voice interaction"},
+   {
+    "specification": "Power Type",
+    "value": "Rechargeable battery"}],
   "robot_name": "EcoScout Bot",
   "short_features_list": [
    "Sustainability lessons",
@@ -639,6 +1034,19 @@
     "feature": "\u1f4bb Voice interaction",
     "icon": ""}],
   "short_tech_spec": "14 cm height, AI coding lessons, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "14 cm"},
+   {
+    "specification": "AI Features",
+    "value": "AI coding lessons"},
+   {
+    "specification": "User Interaction",
+    "value": "voice interaction"},
+   {
+    "specification": "Power Source",
+    "value": "rechargeable battery"}],
   "robot_name": "CodeMaster Bot",
   "short_features_list": [
    "Coding lessons",
@@ -663,6 +1071,19 @@
     "feature": "Customizable stories",
     "icon": ""}],
   "short_tech_spec": "11 cm height, AI storytelling, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "11 cm"},
+   {
+    "specification": "AI capabilities",
+    "value": "storytelling"},
+   {
+    "specification": "Interaction method",
+    "value": "voice interaction"},
+   {
+    "specification": "Power source",
+    "value": "rechargeable battery"}],
   "robot_name": "StoryBot Junior",
   "short_features_list": [
    "Storytelling",
@@ -687,6 +1108,19 @@
     "feature": "\u270d Customizable tasks",
     "icon": ""}],
   "short_tech_spec": "10 cm height, AI scheduling, voice reminders, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "10 cm"},
+   {
+    "specification": "AI Scheduling",
+    "value": ""},
+   {
+    "specification": "Voice Reminders",
+    "value": ""},
+   {
+    "specification": "Rechargeable Battery",
+    "value": ""}],
   "robot_name": "TimeKeeper Bot",
   "short_features_list": [
    "Reminders",
@@ -711,6 +1145,19 @@
     "feature": "Educational content",
     "icon": "&#x1F4D2;"}],
   "short_tech_spec": "12 cm height, AI tour guide, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "AI Feature",
+    "value": "Tour Guide"},
+   {
+    "specification": "Interaction Method",
+    "value": "Voice Interaction"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
   "robot_name": "ExploreBuddy Bot",
   "short_features_list": [
    "Virtual tours",
@@ -735,6 +1182,22 @@
     "feature": "Customizable difficulty",
     "icon": "&#x270E;"}],
   "short_tech_spec": "11 cm height, AI puzzle generator, memory games, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "11 cm"},
+   {
+    "specification": "AI Feature",
+    "value": "puzzle generator"},
+   {
+    "specification": "Game Type",
+    "value": "memory games"},
+   {
+    "specification": "Interaction Method",
+    "value": "voice interaction"},
+   {
+    "specification": "Power Source",
+    "value": "rechargeable battery"}],
   "robot_name": "PuzzleMaster Bot",
   "short_features_list": [
    "Jigsaw puzzles",
@@ -759,6 +1222,22 @@
     "feature": "Interactive quizzes",
     "icon": "\u2705"}],
   "short_tech_spec": "13 cm height, AI space lessons, solar system display, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "13 cm"},
+   {
+    "specification": "AI Capabilities",
+    "value": "AI space lessons"},
+   {
+    "specification": "Display",
+    "value": "Solar system display"},
+   {
+    "specification": "Interaction",
+    "value": "Voice interaction"},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable battery"}],
   "robot_name": "ExplorerBot",
   "short_features_list": [
    "Space lessons",
@@ -783,6 +1262,22 @@
     "feature": "\u2757 Fitness challenges",
     "icon": ""}],
   "short_tech_spec": "12 cm height, AI fitness routines, movement sensors, voice reminders, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "AI Fitness Routines",
+    "value": ""},
+   {
+    "specification": "Movement Sensors",
+    "value": ""},
+   {
+    "specification": "Voice Reminders",
+    "value": ""},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
   "robot_name": "FitnessPal Bot",
   "short_features_list": [
    "Exercise routines",
@@ -807,6 +1302,22 @@
     "feature": "Voice-guided tips",
     "icon": "&#x1F4AC;"}],
   "short_tech_spec": "11 cm height, AI weather updates, storm alerts, interactive weather games, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "11 cm"},
+   {
+    "specification": "Weather Updates",
+    "value": "AI"},
+   {
+    "specification": "Storm Alerts",
+    "value": "Yes"},
+   {
+    "specification": "Interactive Weather Games",
+    "value": "Yes"},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
   "robot_name": "WeatherWizard Bot",
   "short_features_list": [
    "Weather forecasts",
@@ -831,6 +1342,22 @@
     "feature": "Multilingual support",
     "icon": "\u1f310"}],
   "short_tech_spec": "12 cm height, AI language learning, voice conversation, interactive lessons, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Language Learning",
+    "value": "AI"},
+   {
+    "specification": "Conversation Mode",
+    "value": "Voice Conversation"},
+   {
+    "specification": "Lesson Type",
+    "value": "Interactive Lessons"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
   "robot_name": "LanguageBuddy Bot",
   "short_features_list": [
    "Language lessons",
@@ -855,6 +1382,22 @@
     "feature": "Voice interaction",
     "icon": "\u1f4e2"}],
   "short_tech_spec": "13 cm height, AI music lessons, instrument guidance, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "13 cm"},
+   {
+    "specification": "AI Music Lessons",
+    "value": ""},
+   {
+    "specification": "Instrument Guidance",
+    "value": ""},
+   {
+    "specification": "Voice Interaction",
+    "value": ""},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
   "robot_name": "MusicMaster Bot",
   "short_features_list": [
    "Music theory lessons",
@@ -879,6 +1422,19 @@
     "feature": "Voice-guided exploration",
     "icon": "&#x1F50A;"}],
   "short_tech_spec": "12 cm height, AI eco-lessons, virtual tours, voice-guided exploration, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "AI Features",
+    "value": "Eco-lessons and Virtual Tours"},
+   {
+    "specification": "Guidance",
+    "value": "Voice-guided exploration"},
+   {
+    "specification": "Battery",
+    "value": "Rechargeable"}],
   "robot_name": "EcoExplorer Bot",
   "short_features_list": [
    "Virtual wildlife tours",
@@ -903,6 +1459,22 @@
     "feature": "&#128121; Strategy tutorials",
     "icon": ""}],
   "short_tech_spec": "11 cm height, AI chess engine, interactive gameplay, voice guidance, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "11 cm"},
+   {
+    "specification": "AI Engine Type",
+    "value": "AI Chess Engine"},
+   {
+    "specification": "Gameplay Style",
+    "value": "Interactive Gameplay"},
+   {
+    "specification": "Guidance Method",
+    "value": "Voice Guidance"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
   "robot_name": "ChessBot",
   "short_features_list": [
    "Chess lessons",
@@ -927,6 +1499,22 @@
     "feature": "\u1f4e3 Voice-guided tours",
     "icon": ""}],
   "short_tech_spec": "13 cm height, AI space exploration, voice interaction, interactive lessons, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "13 cm"},
+   {
+    "specification": "Primary Function",
+    "value": "AI space exploration"},
+   {
+    "specification": "Interaction Method",
+    "value": "Voice interaction"},
+   {
+    "specification": "Learning Features",
+    "value": "Interactive lessons"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable battery"}],
   "robot_name": "SpaceRover Bot",
   "short_features_list": [
    "Space exploration",
@@ -951,6 +1539,22 @@
     "feature": "Voice-guided creativity",
     "icon": "&#x1F4AC;"}],
   "short_tech_spec": "12 cm height, AI art lessons, interactive tutorials, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "AI Features",
+    "value": "AI art lessons"},
+   {
+    "specification": "Tutorials",
+    "value": "interactive tutorials"},
+   {
+    "specification": "User Interaction",
+    "value": "voice interaction"},
+   {
+    "specification": "Power Source",
+    "value": "rechargeable battery"}],
   "robot_name": "ArtieArtist Bot",
   "short_features_list": [
    "Drawing lessons",
@@ -984,6 +1588,25 @@
    "arms": "Two functional arms for object manipulation",
    "battery": "Rechargeable lithium-ion, 6-hour active time",
    "dimensions": "15 cm height, 12 cm width, 14 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Tank treads for enhanced surface traversal"},
+   {
+    "specification": "sensors",
+    "value": "[\"Voice recognition\",\"Gesture detection\",\"Obstacle avoidance\"]"},
+   {
+    "specification": "interaction",
+    "value": "Digital screen with animated eyes, AI-powered expressions"},
+   {
+    "specification": "arms",
+    "value": "Two functional arms for object manipulation"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable lithium-ion, 6-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "15 cm height, 12 cm width, 14 cm length"}],
   "robot_name": "TrackBot",
   "short_features_list": [
    "Tank-like treads",
@@ -1017,6 +1640,25 @@
    "arms": "Gripping arms for climbing vertical surfaces",
    "battery": "Rechargeable battery, 5-hour active time",
    "dimensions": "18 cm height, 13 cm width, 15 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Tank treads and gripping arms for climbing"},
+   {
+    "specification": "sensors",
+    "value": "[\"Cliff detection\",\"Object detection\",\"Grip sensors\"]"},
+   {
+    "specification": "interaction",
+    "value": "Voice-activated control, obstacle avoidance"},
+   {
+    "specification": "arms",
+    "value": "Gripping arms for climbing vertical surfaces"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 5-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "18 cm height, 13 cm width, 15 cm length"}],
   "robot_name": "ClimberBot",
   "short_features_list": [
    "Climbing ability",
@@ -1050,6 +1692,25 @@
    "arms": "Extendable arms capable of lifting small objects up to 500g",
    "battery": "Rechargeable battery, 6-hour active time",
    "dimensions": "14 cm height, 12 cm width, 13 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Wheels for smooth movement"},
+   {
+    "specification": "sensors",
+    "value": "[\"Load sensors\",\"Proximity detection\",\"Voice commands\"]"},
+   {
+    "specification": "interaction",
+    "value": "Interactive screen with faces, voice commands"},
+   {
+    "specification": "arms",
+    "value": "Extendable arms capable of lifting small objects up to 500g"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 6-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "14 cm height, 12 cm width, 13 cm length"}],
   "robot_name": "LiftBot",
   "short_features_list": [
    "Extendable arms",
@@ -1083,6 +1744,28 @@
    "arms": "Retractable arms for small rescues",
    "battery": "Rechargeable battery, 8-hour active time",
    "dimensions": "20 cm height, 14 cm width, 16 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "Mobility",
+    "value": "Tank treads for rough terrain"},
+   {
+    "specification": "Sensors",
+    "value": [
+     "Thermal imaging",
+     "Obstacle avoidance",
+     "Proximity sensors"]},
+   {
+    "specification": "Interaction",
+    "value": "Thermal camera for human detection"},
+   {
+    "specification": "Arms",
+    "value": "Retractable arms for small rescues"},
+   {
+    "specification": "Battery",
+    "value": "Rechargeable battery, 8-hour active time"},
+   {
+    "specification": "Dimensions",
+    "value": "20 cm height, 14 cm width, 16 cm length"}],
   "robot_name": "RescueBot",
   "short_features_list": [
    "Disaster navigation",
@@ -1115,6 +1798,27 @@
    "arms": "None",
    "battery": "Rechargeable battery, 3-hour active time at high speed",
    "dimensions": "10 cm height, 8 cm width, 12 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "High-speed wheels for racing"},
+   {
+    "specification": "sensors",
+    "value": [
+     "Speed sensors",
+     "Obstacle detection"]},
+   {
+    "specification": "interaction",
+    "value": "LED light system for interactive displays"},
+   {
+    "specification": "arms",
+    "value": "None"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 3-hour active time at high speed"},
+   {
+    "specification": "dimensions",
+    "value": "10 cm height, 8 cm width, 12 cm length"}],
   "robot_name": "SpeedyBot",
   "short_features_list": [
    "High speed",
@@ -1147,6 +1851,25 @@
    "arms": "Basic arms for lifting and carrying",
    "battery": "Rechargeable battery, 7-hour active time",
    "dimensions": "15 cm height, 14 cm width, 15 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Tank treads for stability and load carrying"},
+   {
+    "specification": "sensors",
+    "value": "Load sensors, Proximity detection"},
+   {
+    "specification": "interaction",
+    "value": "Voice commands for load instructions"},
+   {
+    "specification": "arms",
+    "value": "Basic arms for lifting and carrying"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 7-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "15 cm height, 14 cm width, 15 cm length"}],
   "robot_name": "CarryBot",
   "short_features_list": [
    "Load carrying",
@@ -1179,6 +1902,25 @@
    "arms": "Claw-like arms for picking up objects",
    "battery": "Rechargeable battery, 5-hour active time",
    "dimensions": "14 cm height, 13 cm width, 14 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Wheels for fast movement"},
+   {
+    "specification": "sensors",
+    "value": "Object recognition, Proximity detection"},
+   {
+    "specification": "interaction",
+    "value": "Voice commands for fetching tasks"},
+   {
+    "specification": "arms",
+    "value": "Claw-like arms for picking up objects"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 5-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "14 cm height, 13 cm width, 14 cm length"}],
   "robot_name": "FetchBot",
   "short_features_list": [
    "Object retrieval",
@@ -1211,6 +1953,27 @@
    "arms": "Precision arms for detailed assembly tasks",
    "battery": "Rechargeable battery, 8-hour active time",
    "dimensions": "18 cm height, 14 cm width, 16 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Wheels for precise positioning"},
+   {
+    "specification": "sensors",
+    "value": [
+     "Positioning sensors",
+     "Proximity detection"]},
+   {
+    "specification": "interaction",
+    "value": "Interactive display for construction instructions"},
+   {
+    "specification": "arms",
+    "value": "Precision arms for detailed assembly tasks"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 8-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "18 cm height, 14 cm width, 16 cm length"}],
   "robot_name": "BuilderBot",
   "short_features_list": [
    "Construction capability",
@@ -1243,6 +2006,25 @@
    "arms": "None",
    "battery": "Rechargeable battery, 10-hour active time",
    "dimensions": "16 cm height, 12 cm width, 14 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Wheels for smooth navigation"},
+   {
+    "specification": "sensors",
+    "value": "[\"Object recognition\",\"Pathfinding sensors\"]"},
+   {
+    "specification": "interaction",
+    "value": "Interactive screen and voice guidance"},
+   {
+    "specification": "arms",
+    "value": "None"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 10-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "16 cm height, 12 cm width, 14 cm length"}],
   "robot_name": "GuideBot",
   "short_features_list": [
    "Navigation assistance",
@@ -1275,6 +2057,25 @@
    "arms": "Precision arms for planting and watering",
    "battery": "Rechargeable battery, 12-hour active time",
    "dimensions": "20 cm height, 16 cm width, 18 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Tank treads for rough terrain"},
+   {
+    "specification": "sensors",
+    "value": "[\"Soil moisture detection\",\"Proximity detection\"]"},
+   {
+    "specification": "interaction",
+    "value": "Voice commands for farming tasks"},
+   {
+    "specification": "arms",
+    "value": "Precision arms for planting and watering"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 12-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "20 cm height, 16 cm width, 18 cm length"}],
   "robot_name": "FarmBot",
   "short_features_list": [
    "Planting seeds",
