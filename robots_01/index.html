@@ -175,7 +175,7 @@
             padding: 20px;
             border-radius: 8px;
             width: 100%;
-            max-width: 900px;
+            max-width: 1200px;
             display: flex;
             flex-direction: column;
             position: relative;
@@ -288,7 +288,7 @@
         }
 
         .tech-spec-table td {
-            background-color: #acf0f0;
+            background-color: #ddffff;
             /* Light grey for table cells */
             color: #333;
         }
@@ -335,14 +335,14 @@
         }
 
         .tech-dev-table th {
-            background-color: #c46026;
+            background-color: #cf682c;
             /* Light yellow for table headers */
             color: white;
             font-weight: bold;
         }
 
         .tech-dev-table td {
-            background-color: #f0c5ac;
+            background-color: #fff1e9;
             /* Light grey for table cells */
             color: #333;
         }
@@ -433,11 +433,12 @@
                             <!-- Tech specs will be injected dynamically -->
                         </tbody>
                     </table>
-
+                </div>
+                <div class="tech-specs" id="modalTechSpecs">
                     <table class="tech-dev-table" id="techdevTable">
                         <thead>
                             <tr>
-                                <th>Dev technologies</th>
+                                <th>Dev tech</th>
                                 <th></th>
                             </tr>
                         </thead>
@@ -446,7 +447,7 @@
                         </tbody>
                     </table>
 
-                    
+
                 </div>
             </div>
         </div>
@@ -503,7 +504,7 @@
             const thumbnailGallery = document.getElementById('thumbnailGallery');
             const techSpecTableBody = document.querySelector('#techSpecTable tbody');
             const techdevTableBody = document.querySelector('#techdevTable tbody');
-            
+
             // Reset and update modal content
             modalImage.src = `images/robot_${robotIndex}-0.jpg`; // Load original size image
             modalRobotName.innerText = robot.robot_name;
@@ -520,8 +521,8 @@
                 techSpecTableBody.appendChild(row);
             });
 
-             // Update tech dev table
-             robot.key_technologies.forEach(devtech => {
+            // Update tech dev table
+            robot.key_technologies.forEach(devtech => {
                 const row = document.createElement('tr');
                 row.innerHTML = `<td>${devtech.name}</td><td>${devtech.description}</td>`;
                 techdevTableBody.appendChild(row);
