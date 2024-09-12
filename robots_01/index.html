@@ -281,14 +281,14 @@
         }
 
         .tech-spec-table th {
-            background-color: #f4d03f;
+            background-color: #00b6ad;
             /* Light yellow for table headers */
             color: white;
             font-weight: bold;
         }
 
         .tech-spec-table td {
-            background-color: #f9f9f9;
+            background-color: #acf0f0;
             /* Light grey for table cells */
             color: #333;
         }
@@ -311,6 +311,60 @@
         }
 
         .tech-spec-table thead th {
+            font-size: 0.95rem;
+            text-transform: uppercase;
+            /* Adding uppercase styling to headers */
+        }
+
+
+        /* Tech specs table */
+        .tech-dev-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+            font-size: 0.9rem;
+        }
+
+        .tech-dev-table th,
+        .tech-dev-table td {
+            padding: 8px 12px;
+            /* Reducing padding to minimize spaces */
+            border: 1px solid #ccc;
+            /* Light grey border for a clean look */
+            text-align: left;
+        }
+
+        .tech-dev-table th {
+            background-color: #c46026;
+            /* Light yellow for table headers */
+            color: white;
+            font-weight: bold;
+        }
+
+        .tech-dev-table td {
+            background-color: #f0c5ac;
+            /* Light grey for table cells */
+            color: #333;
+        }
+
+        .tech-dev-table tbody tr:nth-child(even) {
+            background-color: #f1f1f1;
+            /* Slight alternate row color for readability */
+        }
+
+        /* Add some minimal spacing to ensure table is not too cramped */
+        .tech-dev-table {
+            margin: 0 auto;
+            /* Centering the table */
+        }
+
+        .tech-dev-table td,
+        .tech-dev-table th {
+            padding: 6px 10px;
+            /* Compact padding for smaller spaces */
+        }
+
+        .tech-dev-table thead th {
             font-size: 0.95rem;
             text-transform: uppercase;
             /* Adding uppercase styling to headers */
@@ -379,6 +433,20 @@
                             <!-- Tech specs will be injected dynamically -->
                         </tbody>
                     </table>
+
+                    <table class="tech-dev-table" id="techdevTable">
+                        <thead>
+                            <tr>
+                                <th>Dev technologies</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Tech specs will be injected dynamically -->
+                        </tbody>
+                    </table>
+
+                    
                 </div>
             </div>
         </div>
@@ -434,7 +502,8 @@
             const modalFeatures = document.getElementById('modalFeatures');
             const thumbnailGallery = document.getElementById('thumbnailGallery');
             const techSpecTableBody = document.querySelector('#techSpecTable tbody');
-
+            const techdevTableBody = document.querySelector('#techdevTable tbody');
+            
             // Reset and update modal content
             modalImage.src = `images/robot_${robotIndex}-0.jpg`; // Load original size image
             modalRobotName.innerText = robot.robot_name;
@@ -449,6 +518,13 @@
                 const row = document.createElement('tr');
                 row.innerHTML = `<td>${spec.specification}</td><td>${spec.value}</td>`;
                 techSpecTableBody.appendChild(row);
+            });
+
+             // Update tech dev table
+             robot.key_technologies.forEach(devtech => {
+                const row = document.createElement('tr');
+                row.innerHTML = `<td>${devtech.name}</td><td>${devtech.description}</td>`;
+                techdevTableBody.appendChild(row);
             });
 
             // Update thumbnail gallery
