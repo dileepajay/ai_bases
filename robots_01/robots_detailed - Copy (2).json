@@ -1,0 +1,3744 @@
+[
+ {
+  "detailed_image_prompt": "A small, rounded robot designed with soft, smooth curves and a glowing body. The robot is primarily white, with a semi-translucent shell that softly changes colors between pastel hues like blue, purple, and pink. Its body has no sharp edges, ensuring it looks safe and child-friendly. At the front, it has a cute, smiling face with big round eyes displayed on a small, circular screen, making the robot seem friendly and approachable. The face changes expressions subtly, adding to the comforting presence. The robot is seated on a clean, white surface with soft studio lighting, highlighting its glowing effect. The two small wheels at the base are integrated smoothly into the body, almost hidden, making the robot look sleek. Surrounding the base, there\u2019s a faint glow where the soft nightlight feature radiates, giving the feeling of warmth and security. The lighting in the studio is balanced to emphasize the robot\u2019s gentle glow without casting harsh shadows.",
+  "short_features_list_icons": [
+   {
+    "feature": "Nightlight mode",
+    "icon": "\u2615"},
+   {
+    "feature": "Soft glowing colors",
+    "icon": "\u2701"},
+   {
+    "feature": "Voice-activated lullabies",
+    "icon": "\u1f4bB"},
+   {
+    "feature": "Soothing sound effects",
+    "icon": "\u1f3c9"}],
+  "short_tech_spec": "15 cm diameter, 12 cm height, LED color-changing lights, AI voice recognition, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Diameter",
+    "value": "15 cm"},
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Lights",
+    "value": "LED color-changing lights"},
+   {
+    "specification": "Voice Recognition",
+    "value": "AI voice recognition"},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable battery"}],
+  "robot_name": "GlowBuddy",
+  "short_features_list": [
+   "Nightlight mode",
+   "Soft glowing colors",
+   "Voice-activated lullabies",
+   "Soothing sound effects"],
+  "robot_very_short_description": "A soft, glowing robot designed to be both a companion and a nightlight for kids.",
+  "id": 1,
+  "key_technologies": [
+   {
+    "name": "LED Color-Changing Lights",
+    "description": "Used for the robot's glowing body"},
+   {
+    "name": "AI Voice Recognition",
+    "description": "Used for voice-activated lullabies and other features"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Provides power to the robot's features"}]},
+ {
+  "detailed_image_prompt": "A dog-like robot with four small legs and a wagging tail. It has a cute, animated face with big, round eyes and ears that move when it responds to commands. The body is white with blue accents, designed to look sleek and minimal. The tail wags in response to touch, and the robot is shown seated on a white floor. The studio lighting emphasizes the soft reflections on the robot\u2019s glossy surface, creating a playful and engaging look. The robot\u2019s legs are sturdy but rounded, giving it a friendly, pet-like feel.",
+  "short_features_list_icons": [
+   {
+    "feature": "\ud83d\udc1e",
+    "icon": "Tail wagging"},
+   {
+    "feature": "\u01f9\u0209",
+    "icon": "Sound recognition"},
+   {
+    "feature": "\u270e",
+    "icon": "Voice commands"},
+   {
+    "feature": "\ud83d\udc36",
+    "icon": "Cute pet behaviors"}],
+  "short_tech_spec": "12 cm height, 4-legged, AI voice control, tactile sensors, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Number of legs",
+    "value": "4-legged"},
+   {
+    "specification": "Control method",
+    "value": "AI voice control"},
+   {
+    "specification": "Sensors",
+    "value": "Tactile sensors"},
+   {
+    "specification": "Power source",
+    "value": "Rechargeable battery"}],
+  "robot_name": "RoboPet",
+  "short_features_list": [
+   "Tail wagging",
+   "Sound recognition",
+   "Voice commands",
+   "Cute pet behaviors"],
+  "robot_very_short_description": "A pet-like robot that mimics a friendly dog with interactive features.",
+  "id": 2,
+  "key_technologies": [
+   {
+    "name": "AI Voice Control",
+    "description": ""},
+   {
+    "name": "Tactile Sensors",
+    "description": ""},
+   {
+    "name": "Rechargeable Battery",
+    "description": ""}]},
+ {
+  "detailed_image_prompt": "A small, round robot with a smooth white body and arms that hold colorful markers. The robot\u2019s face is displayed on a small screen, showing a happy, animated expression. Its body has a built-in rotating mechanism that allows it to draw on paper placed beneath it. The markers are displayed in bright colors, and the robot is placed on a white table with sheets of paper and colorful drawings scattered around. Soft studio lighting highlights the robot\u2019s creative design and colorful outputs.",
+  "short_features_list_icons": [
+   {
+    "feature": "Holds markers",
+    "icon": "&#9760;"},
+   {
+    "feature": "Draws shapes",
+    "icon": "&#9642;"},
+   {
+    "feature": "Interactive learning",
+    "icon": "&#9757;"},
+   {
+    "feature": "Voice-guided art lessons",
+    "icon": "&#9835;"}],
+  "short_tech_spec": "10 cm diameter, AI art generator, 4 marker holders, rechargeable battery, voice-guided learning",
+  "short_tech_spec_array": [
+   {
+    "specification": "Diameter",
+    "value": "10 cm"},
+   {
+    "specification": "AI Feature",
+    "value": "AI art generator"},
+   {
+    "specification": "Number of markers",
+    "value": "4"},
+   {
+    "specification": "Power source",
+    "value": "Rechargeable battery"},
+   {
+    "specification": "Learning method",
+    "value": "Voice-guided learning"}],
+  "robot_name": "ArtBot",
+  "short_features_list": [
+   "Holds markers",
+   "Draws shapes",
+   "Interactive learning",
+   "Voice-guided art lessons"],
+  "robot_very_short_description": "A creative robot designed to help kids draw and create art.",
+  "id": 3,
+  "key_technologies": [
+   {
+    "name": "AI art generator",
+    "description": "ArtBot's core technology that enables it to create artworks on its own."},
+   {
+    "name": "Rechargeable battery",
+    "description": "Power source for the ArtBot, allowing it to draw continuously without interruption."},
+   {
+    "name": "4 marker holders",
+    "description": "The ArtBot comes equipped with four holders for markers of different colors, allowing kids to experiment with various hues and shades."},
+   {
+    "name": "Built-in rotating mechanism",
+    "description": "A unique feature that enables the ArtBot to draw on paper placed beneath it, creating smooth lines and shapes."},
+   {
+    "name": "Voice-guided art lessons",
+    "description": "Interactive learning technology that provides kids with voice-guided instructions and guidance on various art techniques and styles."}]},
+ {
+  "detailed_image_prompt": "A compact, cylindrical robot with a sensor array on top, designed to look like a tiny explorer. It has small wheels at the base and a camera-like eye at the front for scanning the environment. The body is metallic gray with neon blue lights outlining its features. The robot is shown on a white studio floor, with soft lighting emphasizing its sensor equipment and wheels. The sensors on top rotate, suggesting its scanning ability, and its LED lights glow faintly, indicating its high-tech mapping capabilities.",
+  "short_features_list_icons": [
+   {
+    "feature": "\uf7b2 Maps rooms",
+    "icon": "\uea8d"},
+   {
+    "feature": "\uf7b0 Obstacle detection",
+    "icon": "\uea92"},
+   {
+    "feature": "\uf7ae Voice interaction",
+    "icon": "\ue9c3"},
+   {
+    "feature": "\uf7bb Educational guidance",
+    "icon": "\uead1"}],
+  "short_tech_spec": "14 cm height, 360\u00b0 sensors, obstacle detection, AI map learning, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "14 cm"},
+   {
+    "specification": "Rotation Sensors",
+    "value": "360\u00b0"},
+   {
+    "specification": "Feature",
+    "value": "Obstacle detection"},
+   {
+    "specification": "Navigation",
+    "value": "AI map learning"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable battery"}],
+  "robot_name": "MiniNavigator",
+  "short_features_list": [
+   "Maps rooms",
+   "Obstacle detection",
+   "Voice interaction",
+   "Educational guidance"],
+  "robot_very_short_description": "A robot that helps kids learn navigation and map exploration.",
+  "id": 4,
+  "key_technologies": [
+   {
+    "name": "360\u00b0 sensors",
+    "description": "Enables the robot to detect its surroundings and build a map of its environment"},
+   {
+    "name": "AI map learning",
+    "description": "Allows the robot to learn and adapt to new environments, creating an accurate map for navigation"},
+   {
+    "name": "Rechargeable battery",
+    "description": "Provides a reliable power source for the robot, allowing it to operate continuously without interruption"}]},
+ {
+  "detailed_image_prompt": "A small, square-shaped robot with rounded corners, designed to resemble a friendly storyteller. Its front screen displays animated characters from stories, with soft LED lights around the edges of the body that change color during storytelling. The robot\u2019s body is light gray, with pastel-colored buttons on top for selecting stories. The robot sits on a white surface, illuminated by soft studio lighting that highlights its gentle glow. The animated face on the screen smiles, and its arms are designed to gesture as if narrating a tale.",
+  "short_features_list_icons": [
+   {
+    "feature": "Story library",
+    "icon": "\u1f4d6"},
+   {
+    "feature": "Voice modulation",
+    "icon": "\u1f3a8"},
+   {
+    "feature": "Interactive storytelling",
+    "icon": "\u270d"},
+   {
+    "feature": "Soothing lights",
+    "icon": "\u00f0\u009f\u0094\u00b5"}],
+  "short_tech_spec": "12 cm height, voice recognition, AI story generator, soft LED lights, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Voice Recognition",
+    "value": ""},
+   {
+    "specification": "AI Story Generator",
+    "value": ""},
+   {
+    "specification": "Soft LED Lights",
+    "value": ""},
+   {
+    "specification": "Rechargeable Battery",
+    "value": ""}],
+  "robot_name": "StoryTime Bot",
+  "short_features_list": [
+   "Story library",
+   "Voice modulation",
+   "Interactive storytelling",
+   "Soothing lights"],
+  "robot_very_short_description": "A storytelling robot that reads and narrates bedtime stories.",
+  "id": 5,
+  "key_technologies": [
+   {
+    "name": "AI Story Generator",
+    "description": "Software component responsible for creating personalized story content based on user input and preferences."},
+   {
+    "name": "Voice Recognition Module",
+    "description": "Hardware component capable of detecting and interpreting spoken commands, allowing users to interact with the robot through voice inputs."}]},
+ {
+  "detailed_image_prompt": "A round, disco-themed robot with LED lights along its body that flash to the beat of the music. The robot is primarily silver with bright neon accents, and its small legs and arms move rhythmically when music plays. The LED lights change color and flash as the robot dances, creating a fun, party-like atmosphere. It\u2019s placed on a white surface with studio lighting emphasizing its shiny, reflective body and colorful lights.",
+  "short_features_list_icons": [
+   {
+    "feature": "Dance moves",
+    "icon": "&#127939;"},
+   {
+    "feature": "Music sync",
+    "icon": "&#128166;"},
+   {
+    "feature": "LED lights",
+    "icon": "&#9998;"},
+   {
+    "feature": "Interactive voice commands",
+    "icon": "&#9743;"}],
+  "short_tech_spec": "10 cm diameter, AI-powered dance moves, built-in speaker, LED lights, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Diameter",
+    "value": "10 cm"},
+   {
+    "specification": "AI Functionality",
+    "value": "AI-powered dance moves"},
+   {
+    "specification": "Audio",
+    "value": "built-in speaker"},
+   {
+    "specification": "Lighting",
+    "value": "LED lights"},
+   {
+    "specification": "Power Source",
+    "value": "rechargeable battery"}],
+  "robot_name": "DanceBot",
+  "short_features_list": [
+   "Dance moves",
+   "Music sync",
+   "LED lights",
+   "Interactive voice commands"],
+  "robot_very_short_description": "A robot that dances to music with glowing lights and smooth moves.",
+  "id": 6,
+  "key_technologies": [
+   {
+    "name": "AI-powered dance moves",
+    "description": "Advanced machine learning algorithms enable the robot to perform complex dance routines in sync with music."},
+   {
+    "name": "Built-in speaker",
+    "description": "The robot has a high-quality speaker that plays music and sound effects, creating an immersive experience."},
+   {
+    "name": "LED lights",
+    "description": "High-brightness LED lights along the robot's body flash to the beat of the music, creating a mesmerizing visual effect."},
+   {
+    "name": "Interactive voice commands",
+    "description": "Users can control the robot using voice commands, allowing for seamless interaction and customization."},
+   {
+    "name": "Rechargeable battery",
+    "description": "The robot is powered by a rechargeable battery, enabling it to operate continuously without interruptions."}]},
+ {
+  "detailed_image_prompt": "A small, boxy robot with a bright display on the front showing multiple-choice questions. The body is colorful, with large buttons on the top that kids can press to answer questions. The screen is interactive, displaying fun icons and quiz results. The robot is shown on a white table in a studio setting with soft lighting that highlights its playful, educational design. Its face on the display is smiling, encouraging interaction, and the buttons glow when touched.",
+  "short_features_list_icons": [
+   {
+    "feature": "Quiz games",
+    "icon": "&#x2708;"},
+   {
+    "feature": "Voice interaction",
+    "icon": "&#x1F4AC;"},
+   {
+    "feature": "Customizable questions",
+    "icon": "&#x270E;"},
+   {
+    "feature": "Interactive learning",
+    "icon": "&#x1F4D2;"}],
+  "short_tech_spec": "12 cm height, voice recognition, AI quiz generator, speaker, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Voice Recognition",
+    "value": "Yes"},
+   {
+    "specification": "AI Quiz Generator",
+    "value": "Yes"},
+   {
+    "specification": "Speaker",
+    "value": "Yes"},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
+  "robot_name": "QuizMaster Bot",
+  "short_features_list": [
+   "Quiz games",
+   "Voice interaction",
+   "Customizable questions",
+   "Interactive learning"],
+  "robot_very_short_description": "An educational robot that quizzes kids on various topics, helping them learn interactively.",
+  "id": 7,
+  "key_technologies": [
+   {
+    "name": "Speech Recognition Technology",
+    "description": "Enables the robot to understand voice commands and answer questions."},
+   {
+    "name": "AI-powered Quiz Generator",
+    "description": "Creates customized quiz questions based on user input and learning style."},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Provides a reliable power source for continuous use."},
+   {
+    "name": "Interactive Display Screen",
+    "description": "Shows fun icons, quiz results, and multiple-choice questions in an engaging format."},
+   {
+    "name": "Voice Interaction Module",
+    "description": "Allows kids to interact with the robot using voice commands."},
+   {
+    "name": "Large Button Interface",
+    "description": "Makes it easy for kids to press buttons to answer questions."}]},
+ {
+  "detailed_image_prompt": "A robot made from eco-friendly materials, with a green and brown color scheme to represent nature. It has a small display that shows images of recycling symbols and environmental tips. The body is slightly textured to resemble recycled materials, and it has a friendly, nature-themed face on the display. The robot is placed on a white surface with soft lighting, highlighting its unique, eco-conscious design. Leaves and plants are subtly engraved on its body, adding to its environmentally friendly appearance.",
+  "short_features_list_icons": [
+   {
+    "feature": "Teaches recycling",
+    "icon": "&#x21C4;"},
+   {
+    "feature": "Interactive lessons",
+    "icon": "&#x270D;"},
+   {
+    "feature": "Eco-friendly materials",
+    "icon": "&#x1F30A;"},
+   {
+    "feature": "Voice guidance",
+    "icon": "&#x1F4AC;"}],
+  "short_tech_spec": "14 cm height, recycled plastic body, AI eco-lessons, sensors for object detection, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "14 cm"},
+   {
+    "specification": "Body Material",
+    "value": "Recycled Plastic"},
+   {
+    "specification": "Eco-lessons",
+    "value": "AI"},
+   {
+    "specification": "Object Detection",
+    "value": "Sensors"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
+  "robot_name": "EcoBot",
+  "short_features_list": [
+   "Teaches recycling",
+   "Interactive lessons",
+   "Eco-friendly materials",
+   "Voice guidance"],
+  "robot_very_short_description": "A robot designed to teach kids about recycling and environmental sustainability.",
+  "id": 8,
+  "key_technologies": [
+   {
+    "name": "AI",
+    "description": "Used for interactive eco-lessons"},
+   {
+    "name": "Sensors",
+    "description": "For object detection"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Power source for the robot"}]},
+ {
+  "detailed_image_prompt": "A small, round robot designed to hold markers in its arms and create colorful scribbles on paper. The body is smooth and white, with colorful marker slots on both sides. Its screen shows an animated face that encourages creativity, and the robot is positioned over a sheet of paper filled with vibrant scribbles. The studio lighting is soft, emphasizing the fun and creative nature of the robot. The robot\u2019s arms move in different directions, mimicking the motion of drawing.",
+  "short_features_list_icons": [
+   {
+    "feature": "\ud83d\udd14 Scribble mode",
+    "icon": ""},
+   {
+    "feature": "\u270f Interactive art tutorials",
+    "icon": ""},
+   {
+    "feature": "\ud83d\udcab Colorful drawings",
+    "icon": ""},
+   {
+    "feature": "U0001F58C Marker holders",
+    "icon": ""}],
+  "short_tech_spec": "10 cm diameter, built-in marker holders, AI art generator, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Diameter",
+    "value": "10 cm"},
+   {
+    "specification": "Marker Holder",
+    "value": "Built-In"},
+   {
+    "specification": "Art Generation Capability",
+    "value": "AI Art Generator"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
+  "robot_name": "ScribbleBot",
+  "short_features_list": [
+   "Scribble mode",
+   "Interactive art tutorials",
+   "Colorful drawings",
+   "Marker holders"],
+  "robot_very_short_description": "A fun robot that helps kids create scribbles and doodles with ease.",
+  "id": 9,
+  "key_technologies": [
+   {
+    "name": "AI Art Generator",
+    "description": "Enables the ScribbleBot to generate colorful and creative artwork"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Provides power to the robot for extended periods of use"},
+   {
+    "name": "Built-in Marker Holders",
+    "description": "Holds markers in place, allowing kids to easily create art"},
+   {
+    "name": "Soft Studio Lighting",
+    "description": "Enhances the fun and creative atmosphere while using the ScribbleBot"}]},
+ {
+  "detailed_image_prompt": "A sleek, aerodynamic robot with neon LED strips running along the sides of its body. The robot is designed like a futuristic race car, with small, sturdy wheels and a low-profile chassis. Its body is metallic silver with bright blue and red LED accents that glow in the studio lighting. The robot is placed on a white surface, with shadows emphasizing its fast, high-tech design. The LED lights flash in patterns as the robot moves, adding to its sense of speed and excitement.",
+  "short_features_list_icons": [
+   {
+    "feature": "High-speed racing",
+    "icon": "\u231b\u30c3\u30af\u30ca"},
+   {
+    "feature": "Custom LED lights",
+    "icon": "\u2705"},
+   {
+    "feature": "Remote control",
+    "icon": "\u2302"},
+   {
+    "feature": "Interactive racing modes",
+    "icon": "\u21e1"}],
+  "short_tech_spec": "15 cm width, 8 cm height, LED strips, remote control, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Width",
+    "value": "15 cm"},
+   {
+    "specification": "Height",
+    "value": "8 cm"},
+   {
+    "specification": "Lighting Type",
+    "value": "LED strips"},
+   {
+    "specification": "Control Method",
+    "value": "Remote control"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable battery"}],
+  "robot_name": "ZippyBot",
+  "short_features_list": [
+   "High-speed racing",
+   "Custom LED lights",
+   "Remote control",
+   "Interactive racing modes"],
+  "robot_very_short_description": "A fast-moving racing robot with sleek design and customizable LED lights.",
+  "id": 10,
+  "key_technologies": [
+   {
+    "name": "Microcontrollers",
+    "description": "Used to control the robot's movements, lighting effects, and remote control functionality."},
+   {
+    "name": "High-Speed Motors",
+    "description": "Enable the robot to achieve high speeds while maintaining stability and maneuverability."},
+   {
+    "name": "Advanced LED Lighting System",
+    "description": "Customizable LED lights provide a visually appealing display of color and pattern, adding to the robot's racing experience."},
+   {
+    "name": "Rechargeable Battery Pack",
+    "description": "Provides power for the robot's operations, allowing for extended playtime without downtime."},
+   {
+    "name": "Sturdy Chassis Design",
+    "description": "Ensures the robot can withstand high-speed impacts and maintain its structural integrity."},
+   {
+    "name": "Wireless Remote Control System",
+    "description": "Allows users to control the robot's movements from a distance, enhancing the racing experience."}]},
+ {
+  "detailed_image_prompt": "A small, friendly robot designed to sit on the kitchen counter. It has a touchscreen at the front, showing recipes and timers. The robot is white with soft green accents, and its arms are designed to move as if demonstrating cooking techniques. Its face on the screen displays a friendly smile. The robot is shown on a clean kitchen surface, with soft lighting illuminating its interactive features.",
+  "short_features_list_icons": [
+   {
+    "feature": "Recipe tutorials",
+    "icon": "&#128643;"},
+   {
+    "feature": "Voice-guided instructions",
+    "icon": "&#9888;"},
+   {
+    "feature": "Interactive screen",
+    "icon": "&#9745;"},
+   {
+    "feature": "Timer functionality",
+    "icon": "&#x1F554;"}],
+  "short_tech_spec": "12 cm height, touchscreen, voice guidance, built-in timer, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Display",
+    "value": "Touchscreen"},
+   {
+    "specification": "Guidance",
+    "value": "Voice Guidance"},
+   {
+    "specification": "Features",
+    "value": "Built-in Timer"},
+   {
+    "specification": "Power",
+    "value": "Rechargeable Battery"}],
+  "robot_name": "CookBot",
+  "short_features_list": [
+   "Recipe tutorials",
+   "Voice-guided instructions",
+   "Interactive screen",
+   "Timer functionality"],
+  "robot_very_short_description": "A robot that helps kids learn simple cooking recipes interactively.",
+  "id": 11,
+  "key_technologies": [
+   {
+    "name": "Artificial Intelligence",
+    "description": "For recipe tutorials and voice-guided instructions"},
+   {
+    "name": "Internet of Things (IoT)",
+    "description": "For remote monitoring and control"},
+   {
+    "name": "Machine Learning",
+    "description": "For interactive screen and timer functionality"},
+   {
+    "name": "Sensors",
+    "description": "For detecting user interactions and cooking techniques"},
+   {
+    "name": "Touchscreen Display",
+    "description": "For displaying recipes, timers, and instructions"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "For powering the robot's features"}]},
+ {
+  "detailed_image_prompt": "A sleek, round robot with a built-in camera and sensors. It has a soft, glowing ring of light around its base, designed to look friendly and non-intrusive. The robot\u2019s body is matte white, and it sits on a white bedside table in a softly lit room. Its small screen displays a calming smile, and the glowing ring subtly illuminates the area around it, creating a peaceful atmosphere.",
+  "short_features_list_icons": [
+   {
+    "feature": "Night vision camera",
+    "icon": "\u1f40B"},
+   {
+    "feature": "Motion detection",
+    "icon": "\u26a1"},
+   {
+    "feature": "Lullaby mode",
+    "icon": "\ud83d\udcbb"},
+   {
+    "feature": "Voice alerts",
+    "icon": "\ud83d\udd0e"}],
+  "short_tech_spec": "12 cm height, night vision, motion sensors, AI safety alerts, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Vision Capability",
+    "value": "Night Vision"},
+   {
+    "specification": "Sensor Technology",
+    "value": "Motion Sensors"},
+   {
+    "specification": "Safety Features",
+    "value": "AI Safety Alerts"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
+  "robot_name": "GuardianBot",
+  "short_features_list": [
+   "Night vision camera",
+   "Motion detection",
+   "Lullaby mode",
+   "Voice alerts"],
+  "robot_very_short_description": "A robot that watches over kids while they sleep, ensuring safety and comfort.",
+  "id": 12,
+  "key_technologies": [
+   {
+    "name": "AI Safety Alerts",
+    "description": "Alerts in case of any abnormal movement detected"},
+   {
+    "name": "Motion Sensors",
+    "description": "Detects movement around the robot"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Long-lasting battery for continuous use"},
+   {
+    "name": "Night Vision Camera",
+    "description": "Captures clear images in low-light environments"}]},
+ {
+  "detailed_image_prompt": "A small, cylindrical robot with a friendly face displayed on a screen. The robot is designed with leaf patterns on its body, representing its gardening function. Its color scheme is green and white, with a small watering can icon on its chest. The robot sits on a white desk next to a potted plant, with soft studio lighting emphasizing its nurturing, nature-inspired design.",
+  "short_features_list_icons": [
+   {
+    "feature": "Plant care tips",
+    "icon": "\u270f"},
+   {
+    "feature": "Watering reminders",
+    "icon": "\u26a3"},
+   {
+    "feature": "Growth tracking",
+    "icon": "\u231b"},
+   {
+    "feature": "Voice guidance",
+    "icon": "\u1f4bB"}],
+  "short_tech_spec": "10 cm height, AI plant care assistant, sensors for moisture detection, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "10 cm"},
+   {
+    "specification": "Type",
+    "value": "AI Plant Care Assistant"},
+   {
+    "specification": "Features",
+    "value": "Moisture Detection Sensors"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
+  "robot_name": "PlantBot",
+  "short_features_list": [
+   "Plant care tips",
+   "Watering reminders",
+   "Growth tracking",
+   "Voice guidance"],
+  "robot_very_short_description": "A gardening robot that helps kids take care of plants by providing watering reminders and growth tips.",
+  "id": 13,
+  "key_technologies": [
+   {
+    "name": "AI Plant Care Assistant",
+    "description": "Artificial intelligence technology for personalized plant care recommendations"},
+   {
+    "name": "Moisture Detection Sensors",
+    "description": "Sensors to detect moisture levels in the soil, providing accurate watering reminders"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Long-lasting battery that can be recharged via a USB port or wall adapter"},
+   {
+    "name": "Voice Guidance",
+    "description": "Built-in voice assistant for providing plant care tips and guidance through voice commands"},
+   {
+    "name": "Leaf Pattern Design",
+    "description": "Unique leaf pattern design on the robot's body, representing its gardening function"}]},
+ {
+  "detailed_image_prompt": "A compact, round robot with a smooth, glossy white surface. The robot has a small screen that shows weather icons such as sun, clouds, and rain. It sits on a white surface, with a minimal design meant to blend in with any modern home setting. The studio lighting emphasizes the clean, shiny look of the robot\u2019s body, with small LED lights along the base indicating weather alerts.",
+  "short_features_list_icons": [
+   {
+    "feature": "Weather forecasts",
+    "icon": "&#x1F4C5;"},
+   {
+    "feature": "Voice interaction",
+    "icon": "&#x1F4E2;"},
+   {
+    "feature": "Display of weather icons",
+    "icon": "&#x1F300;"},
+   {
+    "feature": "Storm alerts",
+    "icon": "&#x1F34A;"}],
+  "short_tech_spec": "11 cm height, AI weather updates, built-in screen for visuals, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "11 cm"},
+   {
+    "specification": "Weather Updates",
+    "value": "AI"},
+   {
+    "specification": "Screen Type",
+    "value": "built-in"},
+   {
+    "specification": "Battery Type",
+    "value": "rechargeable"}],
+  "robot_name": "WeatherBot",
+  "short_features_list": [
+   "Weather forecasts",
+   "Voice interaction",
+   "Display of weather icons",
+   "Storm alerts"],
+  "robot_very_short_description": "A robot that provides weather updates and forecasts in a fun, interactive way.",
+  "id": 14,
+  "key_technologies": [
+   {
+    "name": "Machine Learning",
+    "description": "For AI-powered weather updates"},
+   {
+    "name": "Microcontroller",
+    "description": "For controlling the robot's functions and interactions"},
+   {
+    "name": "Sensor Technology",
+    "description": "For detecting environmental conditions and sending alerts"},
+   {
+    "name": "Screen Display",
+    "description": "For showing weather icons and forecasts"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "For powering the robot's operations"}]},
+ {
+  "detailed_image_prompt": "A small, rounded robot with a built-in speaker and glowing LED lights that pulse to the beat of the music. The robot\u2019s body is metallic black with bright blue highlights, and its face display shows musical notes. The robot is placed on a white tabletop, with studio lighting emphasizing the sleek, high-tech appearance of its body and the colorful lights surrounding it.",
+  "short_features_list_icons": [
+   {
+    "feature": "Music playback",
+    "icon": "\u1f4bF"},
+   {
+    "feature": "Voice control",
+    "icon": "\u1f5e3"},
+   {
+    "feature": "Dance modes",
+    "icon": "\u1f47C"},
+   {
+    "feature": "Light shows",
+    "icon": "\u1f525"}],
+  "short_tech_spec": "13 cm height, Bluetooth speaker, LED lights, voice recognition, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "13 cm"},
+   {
+    "specification": "Features",
+    "value": "Bluetooth speaker"},
+   {
+    "specification": "",
+    "value": "LED lights"},
+   {
+    "specification": "",
+    "value": "Voice recognition"},
+   {
+    "specification": "",
+    "value": "Rechargeable battery"}],
+  "robot_name": "MusicBot",
+  "short_features_list": [
+   "Music playback",
+   "Voice control",
+   "Dance modes",
+   "Light shows"],
+  "robot_very_short_description": "A robot that plays music and allows kids to control songs through voice commands.",
+  "id": 15,
+  "key_technologies": [
+   {
+    "name": "Microcontroller",
+    "description": "Used for controlling the robot's functions such as music playback, dance modes, and light shows"},
+   {
+    "name": "Bluetooth Module",
+    "description": "Allows MusicBot to connect to devices via Bluetooth for wireless music streaming"},
+   {
+    "name": "LED Lights",
+    "description": "Pulse in sync with music to create a dynamic light show experience"},
+   {
+    "name": "Voice Recognition Chip",
+    "description": "Enables voice control functionality, allowing kids to control songs and robot functions through voice commands"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Provides power for the MusicBot's operations, ensuring extended playtime without interruptions"}]},
+ {
+  "detailed_image_prompt": "A small, cylindrical robot with a white body and green accents representing health and wellness. Its face display shows an encouraging expression. The robot\u2019s body has movement sensors and buttons for tracking daily activities. It sits on a white surface in a well-lit studio, with soft lighting emphasizing its clean, active design. The glowing green elements suggest energy and health.",
+  "short_features_list_icons": [
+   {
+    "feature": "Fitness tracking",
+    "icon": "&#x1F9D0;"},
+   {
+    "feature": "Voice health tips",
+    "icon": "&#x231A;"},
+   {
+    "feature": "Daily exercise reminders",
+    "icon": "&#x2708;"},
+   {
+    "feature": "Interactive challenges",
+    "icon": "&#x1F937;"}],
+  "short_tech_spec": "12 cm height, AI fitness tracker, voice reminders, movement sensors, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "AI Functionality",
+    "value": "Fitness Tracker"},
+   {
+    "specification": "Alert System",
+    "value": "Voice Reminders"},
+   {
+    "specification": "Sensors",
+    "value": "Movement Sensors"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
+  "robot_name": "HealthBot",
+  "short_features_list": [
+   "Fitness tracking",
+   "Voice health tips",
+   "Daily exercise reminders",
+   "Interactive challenges"],
+  "robot_very_short_description": "A health-focused robot that encourages kids to stay active and healthy.",
+  "id": 16,
+  "key_technologies": [
+   {
+    "name": "Microcontroller",
+    "description": "To control the movement sensors, buttons, and other components"},
+   {
+    "name": "AI Chip",
+    "description": "For AI-powered fitness tracking and voice health tips functionality"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Power source for the robot"},
+   {
+    "name": "Movement Sensors",
+    "description": "To track daily activities and user movement"},
+   {
+    "name": "Voice Assistant Chip",
+    "description": "For voice reminders and health tips functionality"}]},
+ {
+  "detailed_image_prompt": "A small, cube-shaped robot with a bright touchscreen display showing numbers and math symbols. The body is colorful with large buttons for interaction. The robot is placed on a white desk with a clean studio background. The lighting highlights the robot\u2019s playful design, with the screen glowing and showing animated numbers.",
+  "short_features_list_icons": [
+   {
+    "feature": "&#x1F51E; Math quizzes",
+    "icon": ""},
+   {
+    "feature": "&#x1F9FA; Voice-guided tutorials",
+    "icon": ""},
+   {
+    "feature": "&#x1F3B6; Interactive games",
+    "icon": ""},
+   {
+    "feature": "&#x21E7; Learning levels",
+    "icon": ""}],
+  "short_tech_spec": "11 cm height, touchscreen display, voice interaction, AI math quizzes, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "11 cm"},
+   {
+    "specification": "Display Type",
+    "value": "Touchscreen"},
+   {
+    "specification": "Interaction Method",
+    "value": "Voice"},
+   {
+    "specification": "Features",
+    "value": "AI Math Quizzes"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
+  "robot_name": "MathTutor Bot",
+  "short_features_list": [
+   "Math quizzes",
+   "Voice-guided tutorials",
+   "Interactive games",
+   "Learning levels"],
+  "robot_very_short_description": "A math-focused robot that helps kids learn basic math through interactive quizzes and games.",
+  "id": 17,
+  "key_technologies": [
+   {
+    "name": "Computer Vision",
+    "description": "for object recognition, scene understanding, and display interaction"},
+   {
+    "name": "Touchscreen Display",
+    "description": "for user input and output of math problems and results"},
+   {
+    "name": "Voice Recognition",
+    "description": "for voice-guided tutorials and quizzes"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "for power supply to the robot's components"},
+   {
+    "name": "Artificial Intelligence",
+    "description": "for math quiz generation, difficulty adjustment, and learning analytics"},
+   {
+    "name": "Wireless Connectivity",
+    "description": "for remote updates, data transfer, and cloud integration"}]},
+ {
+  "detailed_image_prompt": "A cylindrical robot with a sleek, futuristic design. Its smooth, silver body has small LED lights running down the sides, and the front screen displays rotating puzzle pieces. The robot is seated on a white table with a minimalistic studio background. The lighting softly highlights the robot\u2019s metallic finish, emphasizing its role as a brain teaser companion.",
+  "short_features_list_icons": [
+   {
+    "feature": "\u2705 Logic puzzles",
+    "icon": "\u2705"},
+   {
+    "feature": "\u2708 Interactive hints",
+    "icon": "\u2708"},
+   {
+    "feature": "\u2609 Customizable difficulty",
+    "icon": "\u2609"},
+   {
+    "feature": "\u1f50D Voice commands",
+    "icon": "\u1f50D"}],
+  "short_tech_spec": "12 cm height, AI puzzle generator, voice-guided hints, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "AI",
+    "value": "Puzzle Generator"},
+   {
+    "specification": "Guidance",
+    "value": "Voice-guided Hints"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
+  "robot_name": "PuzzleBot",
+  "short_features_list": [
+   "Logic puzzles",
+   "Interactive hints",
+   "Customizable difficulty",
+   "Voice commands"],
+  "robot_very_short_description": "A puzzle-solving robot that challenges kids with logic and brain teasers.",
+  "id": 18,
+  "key_technologies": [
+   {
+    "name": "AI-powered Puzzle Generator",
+    "description": "Generates customized logic puzzles for the user"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Provides power to the robot's systems and functionality"},
+   {
+    "name": "Voice Recognition Technology",
+    "description": "Enables voice commands and interactive hints"},
+   {
+    "name": "LED Lights",
+    "description": "Display visual feedback and status updates on the robot's body"}]},
+ {
+  "detailed_image_prompt": "A small robot with a rounded body and a screen on its front showing a world map. The body is white with blue accents, representing exploration and adventure. The robot is placed on a white desk, with studio lighting highlighting its clean, modern design. The screen glows with vibrant images of different continents, and the robot\u2019s face smiles as it guides through an adventure.",
+  "short_features_list_icons": [
+   {
+    "feature": "\u2705 Virtual adventures",
+    "icon": ""},
+   {
+    "feature": "\u2691 Educational exploration",
+    "icon": ""},
+   {
+    "feature": "\u00f729 Voice-guided lessons",
+    "icon": ""},
+   {
+    "feature": "\uf0d2 Interactive maps",
+    "icon": ""}],
+  "short_tech_spec": "13 cm height, AI educational guides, voice interaction, built-in screen, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "13 cm"},
+   {
+    "specification": "AI Educational Guides",
+    "value": ""},
+   {
+    "specification": "Voice Interaction",
+    "value": ""},
+   {
+    "specification": "Built-in Screen",
+    "value": ""},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
+  "robot_name": "ExploreBot",
+  "short_features_list": [
+   "Virtual adventures",
+   "Educational exploration",
+   "Voice-guided lessons",
+   "Interactive maps"],
+  "robot_very_short_description": "A robot that helps kids explore the world through virtual adventures and lessons.",
+  "id": 19,
+  "key_technologies": [
+   {
+    "name": "AI Educational Guides",
+    "description": "Provides educational guides for children to learn about different subjects"},
+   {
+    "name": "Rechargeable Battery",
+    "description": " Allows for extended usage without the need for frequent battery replacements"},
+   {
+    "name": "Built-in Screen",
+    "description": " Displays interactive maps, lessons, and adventures in a visually engaging way"},
+   {
+    "name": "Voice Interaction",
+    "description": " Enables children to interact with the robot using voice commands"}]},
+ {
+  "detailed_image_prompt": "A robot with a nature-inspired design, featuring leaf patterns and a green color scheme. The body is smooth and round, with a small screen showing eco-friendly symbols like recycling and renewable energy icons. The robot is seated on a white surface with studio lighting softly illuminating its eco-friendly features. Its face on the display is friendly and inviting, designed to engage kids in environmental activities.",
+  "short_features_list_icons": [
+   {
+    "feature": "\u2693 Eco-friendly lessons",
+    "icon": ""},
+   {
+    "feature": "\u1f9c0 Recycling reminders",
+    "icon": ""},
+   {
+    "feature": "\u1f5e2 Voice-guided tips",
+    "icon": ""},
+   {
+    "feature": "\u2695 Sustainability challenges",
+    "icon": ""}],
+  "short_tech_spec": "14 cm height, AI eco-lessons, interactive challenges, voice-guided recycling tips, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "14 cm"},
+   {
+    "specification": "AI Features",
+    "value": "Eco-lessons"},
+   {
+    "specification": "Interactive Elements",
+    "value": "Challenges"},
+   {
+    "specification": "Guidance Type",
+    "value": "Voice-guided"},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
+  "robot_name": "EcoWarrior Bot",
+  "short_features_list": [
+   "Eco-friendly lessons",
+   "Recycling reminders",
+   "Voice-guided tips",
+   "Sustainability challenges"],
+  "robot_very_short_description": "A robot that educates kids about environmental conservation and sustainability.",
+  "id": 20,
+  "key_technologies": [
+   {
+    "name": "AI-powered Learning Platform",
+    "description": "Provides interactive eco-lessons for kids"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Long-lasting battery with rechargeable capability"},
+   {
+    "name": "Voice Recognition Technology",
+    "description": "Enables voice-guided tips and sustainability challenges"},
+   {
+    "name": "Robot Operating System (ROS)",
+    "description": "Open-source software framework for robot operation"},
+   {
+    "name": "Microcontroller Unit (MCU)",
+    "description": "Processes data from sensors and executes commands"},
+   {
+    "name": "Sensor Suite",
+    "description": "Includes various sensors for environmental monitoring, such as air quality and temperature sensors"}]},
+ {
+  "detailed_image_prompt": "A small, cheerful robot with a chef\u2019s hat on its round head. It has a touchscreen at the front displaying recipes, and its arms move to demonstrate simple cooking steps. The robot is mostly white with red accents and sits on a kitchen counter with soft lighting highlighting its interactive features. The screen shows a recipe in progress, and the robot's design is inviting and child-friendly.",
+  "short_features_list_icons": [
+   {
+    "feature": "Recipe assistance",
+    "icon": ""},
+   {
+    "feature": "Voice-guided steps",
+    "icon": ""},
+   {
+    "feature": "Built-in timer",
+    "icon": ""},
+   {
+    "feature": "Interactive screen",
+    "icon": ""}],
+  "short_tech_spec": "12 cm height, touchscreen, voice assistance, built-in timer, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Display",
+    "value": "Touchscreen"},
+   {
+    "specification": "Assistant",
+    "value": "Voice Assistance"},
+   {
+    "specification": "Features",
+    "value": "Built-in Timer"},
+   {
+    "specification": "Power",
+    "value": "Rechargeable Battery"}],
+  "robot_name": "ChefBuddy Bot",
+  "short_features_list": [
+   "Recipe assistance",
+   "Voice-guided steps",
+   "Built-in timer",
+   "Interactive screen"],
+  "robot_very_short_description": "A playful kitchen assistant that helps kids explore fun recipes.",
+  "id": 21,
+  "key_technologies": [
+   {
+    "name": "Touchscreen",
+    "description": "Displaying recipes and interactive features"},
+   {
+    "name": "Voice Assistance",
+    "description": "Guides users through cooking steps"},
+   {
+    "name": "Built-in Timer",
+    "description": "Helps users keep track of cooking time"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Power source for the robot"},
+   {
+    "name": "Interactive Screen",
+    "description": "Engaging way to display recipes and instructions"}]},
+ {
+  "detailed_image_prompt": "A square-shaped educational robot with a bright display showing science diagrams. It\u2019s designed in light gray with soft blue accents and has two large, clickable buttons for navigation. The screen shows colorful images and text as it teaches a lesson. The robot sits on a white desk, with soft studio lighting highlighting its modern, school-like appearance.",
+  "short_features_list_icons": [
+   {
+    "feature": "\u2705 Multiple subjects",
+    "icon": ""},
+   {
+    "feature": "\u1f4aC Voice-guided lessons",
+    "icon": ""},
+   {
+    "feature": "\u2753 Interactive quizzes",
+    "icon": ""},
+   {
+    "feature": "\u231a Display screen",
+    "icon": ""}],
+  "short_tech_spec": "13 cm height, touchscreen, AI lessons, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "13 cm"},
+   {
+    "specification": "Display Type",
+    "value": "Touchscreen"},
+   {
+    "specification": "Features",
+    "value": "AI lessons"},
+   {
+    "specification": "Interaction Method",
+    "value": "Voice interaction"},
+   {
+    "specification": "Battery",
+    "value": "Rechargeable"}],
+  "robot_name": "LearnBot",
+  "short_features_list": [
+   "Multiple subjects",
+   "Voice-guided lessons",
+   "Interactive quizzes",
+   "Display screen"],
+  "robot_very_short_description": "An all-in-one educational robot that teaches various subjects like science and history.",
+  "id": 22,
+  "key_technologies": [
+   {
+    "name": "AI Technology",
+    "description": "Enables the LearnBot to deliver personalized AI-powered lessons."},
+   {
+    "name": "Touchscreen Display",
+    "description": "Allows users to interact with the robot using a responsive touchscreen interface."},
+   {
+    "name": "Voice Interaction System",
+    "description": "Provides voice-guided lessons and enables users to communicate with the robot through voice commands."},
+   {
+    "name": "Rechargeable Battery Technology",
+    "description": "Enables the LearnBot to operate for extended periods without requiring battery replacement, reducing maintenance costs."}]},
+ {
+  "detailed_image_prompt": "A small, sturdy robot designed with a toolbox-like appearance. It has a screen on its chest displaying construction tutorials, and its body is made from bright orange and gray materials. The robot holds small, interactive tools in its arms and sits on a white surface, surrounded by model building pieces. Soft studio lighting emphasizes its practical and engaging design.",
+  "short_features_list_icons": [
+   {
+    "feature": "Build tutorials",
+    "icon": "\u2318"},
+   {
+    "feature": "Engineering tips",
+    "icon": "\u21d2"},
+   {
+    "feature": "Interactive instructions",
+    "icon": "\u270e"},
+   {
+    "feature": "Tool holder",
+    "icon": "\u2691"}],
+  "short_tech_spec": "12 cm height, AI build instructions, tool holder, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Build Instructions",
+    "value": "AI"},
+   {
+    "specification": "Tool Holder",
+    "value": ""},
+   {
+    "specification": "Interaction Type",
+    "value": "Voice"},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
+  "robot_name": "BuildBot",
+  "short_features_list": [
+   "Build tutorials",
+   "Engineering tips",
+   "Interactive instructions",
+   "Tool holder"],
+  "robot_very_short_description": "A robot that helps kids learn engineering and construction by assembling simple projects.",
+  "id": 23,
+  "key_technologies": [
+   {
+    "name": "AI Build Instructions",
+    "description": "Allows the robot to provide step-by-step construction guidance to users."},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Enables the robot to be powered on and off without the need for replacement batteries."},
+   {
+    "name": "Tool Holder",
+    "description": "Holds small, interactive tools in its arms, making it easy to access and use them during construction projects."},
+   {
+    "name": "Voice Interaction",
+    "description": "Allows users to interact with the robot using voice commands, making it easier to navigate and control the robot's functions."}]},
+ {
+  "detailed_image_prompt": "A round robot with a smooth metallic finish and a large screen displaying puzzle pieces. It has soft blue LED lights outlining its body, giving it a futuristic look. The robot sits on a white surface, with soft lighting highlighting the puzzle displayed on the screen. Its sleek design suggests intelligence and creativity, perfect for challenging kids with brain teasers.",
+  "short_features_list_icons": [
+   {
+    "feature": "\u2691 Logic puzzles",
+    "icon": ""},
+   {
+    "feature": "\u1f4aC Voice hints",
+    "icon": ""},
+   {
+    "feature": "\u1f3b5 Interactive games",
+    "icon": ""},
+   {
+    "feature": "\u270e Custom difficulty levels",
+    "icon": ""}],
+  "short_tech_spec": "11 cm height, AI puzzle generator, voice-guided hints, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "11 cm"},
+   {
+    "specification": "AI Puzzle Generator",
+    "value": ""},
+   {
+    "specification": "Voice-Guided Hints",
+    "value": ""},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
+  "robot_name": "MindPuzzle Bot",
+  "short_features_list": [
+   "Logic puzzles",
+   "Voice hints",
+   "Interactive games",
+   "Custom difficulty levels"],
+  "robot_very_short_description": "A puzzle-solving robot that engages kids with brain teasers and logic games.",
+  "id": 24,
+  "key_technologies": [
+   {
+    "name": "AI Puzzle Generator",
+    "description": "Generates unique puzzle pieces for the robot's screen"},
+   {
+    "name": "Voice Recognition System",
+    "description": "Enables voice hints to guide children through puzzles"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Power source for the robot, reducing waste and environmental impact"},
+   {
+    "name": "Large Screen Display",
+    "description": "Visual interface for presenting puzzle pieces and games"},
+   {
+    "name": "Soft Blue LED Lighting",
+    "description": "Aesthetic feature creating a futuristic look and ambiance"}]},
+ {
+  "detailed_image_prompt": "A small, circular robot with a bright, colorful design. It has a built-in color sensor at the top and a screen on the front that displays matching colors. The robot is placed on a white surface next to colorful objects like crayons and markers, with studio lighting emphasizing its playful, creative look. The robot\u2019s body glows in different colors as it detects and identifies them.",
+  "short_features_list_icons": [
+   {
+    "feature": "\u270f",
+    "icon": "Color detection"},
+   {
+    "feature": "\u2705",
+    "icon": "Interactive color games"},
+   {
+    "feature": "\u270d",
+    "icon": "Creative lessons"},
+   {
+    "feature": "\u1f4aC",
+    "icon": "Voice feedback"}],
+  "short_tech_spec": "10 cm height, AI color detection, voice-guided activities, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "10 cm"},
+   {
+    "specification": "AI Features",
+    "value": "color detection"},
+   {
+    "specification": "Guidance System",
+    "value": "voice-guided activities"},
+   {
+    "specification": "Power Source",
+    "value": "rechargeable battery"}],
+  "robot_name": "ColorPal Bot",
+  "short_features_list": [
+   "Color detection",
+   "Interactive color games",
+   "Creative lessons",
+   "Voice feedback"],
+  "robot_very_short_description": "A color-detecting robot that teaches kids about colors through games and creative activities.",
+  "id": 25,
+  "key_technologies": [
+   {
+    "name": "Machine Learning",
+    "description": "For AI-powered color detection"},
+   {
+    "name": "RGB Sensor",
+    "description": "To detect and identify different colors"},
+   {
+    "name": "Microcontroller",
+    "description": "To control the robot's interactions and games"},
+   {
+    "name": "Display Screen",
+    "description": "To display matching colors and provide feedback"},
+   {
+    "name": "Voice Assistant",
+    "description": "For voice-guided activities and feedback"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "To power the robot"}]},
+ {
+  "detailed_image_prompt": "A robot designed with a nature-inspired aesthetic, featuring a green and brown color scheme. Its body has subtle leaf patterns, and a small display screen shows eco-friendly symbols like recycling and conservation tips. The robot is placed on a white surface with soft studio lighting, giving it a calming, earth-friendly look that engages kids in environmental activities.",
+  "short_features_list_icons": [
+   {
+    "feature": "Sustainability lessons",
+    "icon": "\u270f"},
+   {
+    "feature": "Recycling tips",
+    "icon": "\u21c3"},
+   {
+    "feature": "Interactive challenges",
+    "icon": "\u275b"},
+   {
+    "feature": "Voice-guided activities",
+    "icon": "\u1f4bB"}],
+  "short_tech_spec": "13 cm height, AI eco-lessons, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "13 cm"},
+   {
+    "specification": "AI Features",
+    "value": "Eco-lessons"},
+   {
+    "specification": "Interaction Method",
+    "value": "Voice interaction"},
+   {
+    "specification": "Power Type",
+    "value": "Rechargeable battery"}],
+  "robot_name": "EcoScout Bot",
+  "short_features_list": [
+   "Sustainability lessons",
+   "Recycling tips",
+   "Interactive challenges",
+   "Voice-guided activities"],
+  "robot_very_short_description": "An environmental robot that helps kids learn about sustainability and nature.",
+  "id": 26,
+  "key_technologies": [
+   {
+    "name": "Artificial Intelligence (AI)",
+    "description": "Enables the EcoScout Bot to provide eco-friendly lessons and interactive challenges."},
+   {
+    "name": "Voice Interaction",
+    "description": "Allows users to interact with the robot using voice commands."},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Provides a sustainable power source for the robot, reducing electronic waste."},
+   {
+    "name": "Environmental Sensors",
+    "description": "Helps the robot detect and monitor environmental factors such as air quality and temperature."},
+   {
+    "name": "Display Screen",
+    "description": "Shows eco-friendly symbols like recycling tips and conservation messages to engage users."}]},
+ {
+  "detailed_image_prompt": "A tall, rectangular robot with a large touchscreen that displays simple coding sequences. Its body is sleek and modern, designed in black and neon blue, with LED lights along the sides. The robot is shown seated on a white desk, with soft lighting highlighting its tech-focused design. The screen shows lines of code, encouraging kids to learn programming interactively.",
+  "short_features_list_icons": [
+   {
+    "feature": "\ud83d\udcbb Coding lessons",
+    "icon": ""},
+   {
+    "feature": "\u2705 Interactive programming challenges",
+    "icon": ""},
+   {
+    "feature": "\ud83e\udd1a Touchscreen",
+    "icon": ""},
+   {
+    "feature": "\u1f4bb Voice interaction",
+    "icon": ""}],
+  "short_tech_spec": "14 cm height, AI coding lessons, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "14 cm"},
+   {
+    "specification": "AI Features",
+    "value": "AI coding lessons"},
+   {
+    "specification": "User Interaction",
+    "value": "voice interaction"},
+   {
+    "specification": "Power Source",
+    "value": "rechargeable battery"}],
+  "robot_name": "CodeMaster Bot",
+  "short_features_list": [
+   "Coding lessons",
+   "Interactive programming challenges",
+   "Touchscreen",
+   "Voice interaction"],
+  "robot_very_short_description": "A coding robot that teaches kids the basics of programming through interactive lessons.",
+  "id": 27,
+  "key_technologies": [
+   {
+    "name": "Artificial Intelligence (AI)",
+    "description": "Used for AI coding lessons and voice interaction"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Power source for the robot"},
+   {
+    "name": "Touchscreen Display",
+    "description": "For interactive programming challenges and displaying code sequences"},
+   {
+    "name": "Microcontrollers",
+    "description": "Used to execute coding lessons and interact with the environment"},
+   {
+    "name": "LED Lights",
+    "description": "Used for visual effects and highlighting tech-focused design"}]},
+ {
+  "detailed_image_prompt": "A small, rounded robot with a colorful screen displaying animated characters. It has soft, pastel colors and rounded edges, making it visually appealing to children. The robot is placed on a white bedside table with soft studio lighting, emphasizing its friendly, bedtime storytelling design. The screen shows an ongoing story with interactive characters, creating an immersive experience.",
+  "short_features_list_icons": [
+   {
+    "feature": "Storytelling",
+    "icon": ""},
+   {
+    "feature": "Voice-activated",
+    "icon": ""},
+   {
+    "feature": "Animated visuals",
+    "icon": ""},
+   {
+    "feature": "Customizable stories",
+    "icon": ""}],
+  "short_tech_spec": "11 cm height, AI storytelling, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "11 cm"},
+   {
+    "specification": "AI capabilities",
+    "value": "storytelling"},
+   {
+    "specification": "Interaction method",
+    "value": "voice interaction"},
+   {
+    "specification": "Power source",
+    "value": "rechargeable battery"}],
+  "robot_name": "StoryBot Junior",
+  "short_features_list": [
+   "Storytelling",
+   "Voice-activated",
+   "Animated visuals",
+   "Customizable stories"],
+  "robot_very_short_description": "A storytelling robot that reads stories aloud and displays interactive visuals.",
+  "id": 28,
+  "key_technologies": [
+   {
+    "name": "Speech Recognition",
+    "description": "Enables voice-activated interaction with the robot"},
+   {
+    "name": "AI-powered Storytelling Engine",
+    "description": "Generates interactive storylines and characters for immersive experience"},
+   {
+    "name": "Display Screen",
+    "description": "Shows animated visuals and stories to engage children"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Provides power for the robot's various features"},
+   {
+    "name": "Soft Robotics Actuation",
+    "description": "Enables smooth and gentle movements of the robot's parts"}]},
+ {
+  "detailed_image_prompt": "A compact, cube-shaped robot with a small display showing a clock and reminders. The body is white with neon green accents, giving it a modern and functional look. The robot sits on a white surface, with soft lighting emphasizing its sleek design. The screen displays a reminder list, making it a useful tool for helping kids stay organized.",
+  "short_features_list_icons": [
+   {
+    "feature": "\u2705 Reminders",
+    "icon": ""},
+   {
+    "feature": "\u1f510 Alarms",
+    "icon": ""},
+   {
+    "feature": "\u1f4e2 Voice scheduling",
+    "icon": ""},
+   {
+    "feature": "\u270d Customizable tasks",
+    "icon": ""}],
+  "short_tech_spec": "10 cm height, AI scheduling, voice reminders, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "10 cm"},
+   {
+    "specification": "AI Scheduling",
+    "value": ""},
+   {
+    "specification": "Voice Reminders",
+    "value": ""},
+   {
+    "specification": "Rechargeable Battery",
+    "value": ""}],
+  "robot_name": "TimeKeeper Bot",
+  "short_features_list": [
+   "Reminders",
+   "Alarms",
+   "Voice scheduling",
+   "Customizable tasks"],
+  "robot_very_short_description": "A time management robot that helps kids with reminders, alarms, and scheduling tasks.",
+  "id": 29,
+  "key_technologies": [
+   {
+    "name": "AI Scheduling",
+    "description": "Allows the TimeKeeper Bot to schedule tasks and reminders automatically."},
+   {
+    "name": "Voice Reminders",
+    "description": "Enables the bot to remind users through voice messages."},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Provides a sustainable power source for the robot."},
+   {
+    "name": "Modern User Interface",
+    "description": "Features a sleek and modern display showing reminders, alarms, and scheduling tasks."},
+   {
+    "name": "Neon Green Accents",
+    "description": "Adds a pop of color to the robot's design, giving it a fun and youthful appearance."}]},
+ {
+  "detailed_image_prompt": "A robot with a globe-like design, featuring a rotating map display on its screen. Its body is metallic silver with glowing blue LED lights, and it sits on a white surface in a studio setting. The robot's screen shows different countries and landmarks as it guides kids on virtual exploration trips. The lighting emphasizes its high-tech, educational design.",
+  "short_features_list_icons": [
+   {
+    "feature": "Virtual tours",
+    "icon": "&#x1F310;"},
+   {
+    "feature": "Interactive maps",
+    "icon": "&#x1F5FA;"},
+   {
+    "feature": "Voice-guided adventures",
+    "icon": "&#x1F4FD;"},
+   {
+    "feature": "Educational content",
+    "icon": "&#x1F4D2;"}],
+  "short_tech_spec": "12 cm height, AI tour guide, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "AI Feature",
+    "value": "Tour Guide"},
+   {
+    "specification": "Interaction Method",
+    "value": "Voice Interaction"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
+  "robot_name": "ExploreBuddy Bot",
+  "short_features_list": [
+   "Virtual tours",
+   "Interactive maps",
+   "Voice-guided adventures",
+   "Educational content"],
+  "robot_very_short_description": "An adventure robot that takes kids on virtual exploration trips to different places around the world.",
+  "id": 30,
+  "key_technologies": [
+   {
+    "name": "Computer Vision",
+    "description": "to recognize and display interactive maps"},
+   {
+    "name": "Artificial Intelligence",
+    "description": "to provide voice-guided adventures"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "to power the robot's AI tour guide feature"},
+   {
+    "name": "Voice Interaction",
+    "description": "to communicate with users"},
+   {
+    "name": "High-Resolution Display",
+    "description": "to show virtual tours and maps in detail"}]},
+ {
+  "detailed_image_prompt": "A small, puzzle-themed robot with a colorful, geometric design on its body. The screen displays jigsaw puzzle pieces, and the robot's arms can 'hold' virtual pieces to move them into place. It sits on a white table, with soft lighting emphasizing its playful design. The robot\u2019s body has bright patterns of puzzle pieces in various colors, making it look fun and engaging for kids.",
+  "short_features_list_icons": [
+   {
+    "feature": "Jigsaw puzzles",
+    "icon": "&#x1F9E6;"},
+   {
+    "feature": "Memory games",
+    "icon": "&#x1F9EA;"},
+   {
+    "feature": "Voice interaction",
+    "icon": "&#x1F4FB;"},
+   {
+    "feature": "Customizable difficulty",
+    "icon": "&#x270E;"}],
+  "short_tech_spec": "11 cm height, AI puzzle generator, memory games, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "11 cm"},
+   {
+    "specification": "AI Feature",
+    "value": "puzzle generator"},
+   {
+    "specification": "Game Type",
+    "value": "memory games"},
+   {
+    "specification": "Interaction Method",
+    "value": "voice interaction"},
+   {
+    "specification": "Power Source",
+    "value": "rechargeable battery"}],
+  "robot_name": "PuzzleMaster Bot",
+  "short_features_list": [
+   "Jigsaw puzzles",
+   "Memory games",
+   "Voice interaction",
+   "Customizable difficulty"],
+  "robot_very_short_description": "A robot that challenges kids with jigsaw puzzles and memory games.",
+  "id": 31,
+  "key_technologies": [
+   {
+    "name": "AI-powered Puzzle Generator",
+    "description": "Capable of generating unique puzzle pieces for the robot's jigsaw puzzle game"},
+   {
+    "name": "Advanced Voice Recognition Technology",
+    "description": "Enables voice interaction with the robot, allowing kids to play games and adjust difficulty levels using voice commands"},
+   {
+    "name": "Rechargeable Battery System",
+    "description": "Provides a reliable power source for the robot, reducing the need for frequent battery replacements"},
+   {
+    "name": "High-resolution Display Screen",
+    "description": "Showcases colorful, high-quality graphics and animations for an immersive gaming experience"}]},
+ {
+  "detailed_image_prompt": "A futuristic-looking robot with a circular screen showing planets and stars. The robot\u2019s body is metallic silver with blue LED lights outlining its edges. It has a small antenna on top, adding to its space-explorer theme. The robot sits on a white surface, with soft lighting highlighting the detailed planetary models displayed on the screen. Its design suggests high-tech educational exploration.",
+  "short_features_list_icons": [
+   {
+    "feature": "Space lessons",
+    "icon": "\u2708"},
+   {
+    "feature": "Solar system models",
+    "icon": "\u2609"},
+   {
+    "feature": "Voice-guided exploration",
+    "icon": "\u1f680"},
+   {
+    "feature": "Interactive quizzes",
+    "icon": "\u2705"}],
+  "short_tech_spec": "13 cm height, AI space lessons, solar system display, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "13 cm"},
+   {
+    "specification": "AI Capabilities",
+    "value": "AI space lessons"},
+   {
+    "specification": "Display",
+    "value": "Solar system display"},
+   {
+    "specification": "Interaction",
+    "value": "Voice interaction"},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable battery"}],
+  "robot_name": "ExplorerBot",
+  "short_features_list": [
+   "Space lessons",
+   "Solar system models",
+   "Voice-guided exploration",
+   "Interactive quizzes"],
+  "robot_very_short_description": "A robot that teaches kids about space and the solar system through interactive lessons.",
+  "id": 32,
+  "key_technologies": [
+   {
+    "name": "AI-powered Space Lessons",
+    "description": "Delivers personalized educational content on space and astronomy"},
+   {
+    "name": "Advanced Gesture Recognition",
+    "description": "Allows for hands-free control of robot's functions"},
+   {
+    "name": "High-resolution Solar System Display",
+    "description": "Shows detailed models of planets and celestial bodies"},
+   {
+    "name": "Voice Interaction Technology",
+    "description": "Enables voice-guided exploration and interactive quizzes"},
+   {
+    "name": "Rechargeable Lithium-ion Battery",
+    "description": "Provides long-lasting power for extended use"}]},
+ {
+  "detailed_image_prompt": "A sporty, active-looking robot with a sleek, slim design. Its body is predominantly white with green accents, and it has small sensors on its arms to track movements. The robot sits on a white desk, with soft lighting emphasizing its athletic appearance. The screen shows an animated character demonstrating exercises, while the robot's arms move to mimic workout routines.",
+  "short_features_list_icons": [
+   {
+    "feature": "\u270a Exercise routines",
+    "icon": ""},
+   {
+    "feature": "\u1f680 Voice guidance",
+    "icon": ""},
+   {
+    "feature": "\u2744 Movement tracking",
+    "icon": ""},
+   {
+    "feature": "\u2757 Fitness challenges",
+    "icon": ""}],
+  "short_tech_spec": "12 cm height, AI fitness routines, movement sensors, voice reminders, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "AI Fitness Routines",
+    "value": ""},
+   {
+    "specification": "Movement Sensors",
+    "value": ""},
+   {
+    "specification": "Voice Reminders",
+    "value": ""},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
+  "robot_name": "FitnessPal Bot",
+  "short_features_list": [
+   "Exercise routines",
+   "Voice guidance",
+   "Movement tracking",
+   "Fitness challenges"],
+  "robot_very_short_description": "A fitness-oriented robot that encourages kids to stay active with daily exercises.",
+  "id": 33,
+  "key_technologies": [
+   {
+    "name": "AI-powered Fitness Algorithm",
+    "description": "Customizable exercise routines based on user's fitness level and goals"},
+   {
+    "name": "Motion Sensors",
+    "description": "Advanced sensors for accurate movement tracking and feedback"},
+   {
+    "name": "Voice Recognition Technology",
+    "description": "Clear voice guidance and reminders to keep users motivated"},
+   {
+    "name": "Rechargeable Lithium-Ion Battery",
+    "description": "Long-lasting battery life with easy recharging"}]},
+ {
+  "detailed_image_prompt": "A small, weather-themed robot with a bright screen showing sun, clouds, and raindrops. The body is designed in light blue and white, with small wind-like patterns. The robot sits on a white surface, with soft lighting emphasizing its weather-related features. The screen displays animated weather symbols, and the robot\u2019s design suggests that it is both educational and fun.",
+  "short_features_list_icons": [
+   {
+    "feature": "Weather forecasts",
+    "icon": "&#x1F325;"},
+   {
+    "feature": "Interactive weather games",
+    "icon": "&#x1F3B6;"},
+   {
+    "feature": "Storm alerts",
+    "icon": "&#x1F9E1;"},
+   {
+    "feature": "Voice-guided tips",
+    "icon": "&#x1F4AC;"}],
+  "short_tech_spec": "11 cm height, AI weather updates, storm alerts, interactive weather games, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "11 cm"},
+   {
+    "specification": "Weather Updates",
+    "value": "AI"},
+   {
+    "specification": "Storm Alerts",
+    "value": "Yes"},
+   {
+    "specification": "Interactive Weather Games",
+    "value": "Yes"},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
+  "robot_name": "WeatherWizard Bot",
+  "short_features_list": [
+   "Weather forecasts",
+   "Interactive weather games",
+   "Storm alerts",
+   "Voice-guided tips"],
+  "robot_very_short_description": "A robot that provides daily weather updates with interactive weather-related games for kids.",
+  "id": 34,
+  "key_technologies": [
+   {
+    "name": "AI-Powered Weather Forecasting",
+    "description": "Enables the robot to provide accurate and up-to-date weather forecasts."},
+   {
+    "name": "Interactive Touchscreen Display",
+    "description": "Allows users to engage with interactive weather games and view animated weather symbols."},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Provides a sustainable power source for the robot, reducing waste and environmental impact."},
+   {
+    "name": "Storm Alert System",
+    "description": "Notifies users of severe weather conditions, ensuring their safety and well-being."},
+   {
+    "name": "Voice-Guided Tips",
+    "description": "Offers users helpful advice and information through voice assistance."}]},
+ {
+  "detailed_image_prompt": "A colorful, friendly-looking robot designed to look like a language tutor. Its screen displays phrases in different languages, and its body has colorful patterns representing various cultures. The robot sits on a white desk, with soft lighting highlighting its friendly design. The screen shows animated text and icons to engage kids in learning new languages.",
+  "short_features_list_icons": [
+   {
+    "feature": "Language lessons",
+    "icon": "\u270d"},
+   {
+    "feature": "Voice conversations",
+    "icon": "\u1f4e2"},
+   {
+    "feature": "Interactive games",
+    "icon": "\u2708"},
+   {
+    "feature": "Multilingual support",
+    "icon": "\u1f310"}],
+  "short_tech_spec": "12 cm height, AI language learning, voice conversation, interactive lessons, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "Language Learning",
+    "value": "AI"},
+   {
+    "specification": "Conversation Mode",
+    "value": "Voice Conversation"},
+   {
+    "specification": "Lesson Type",
+    "value": "Interactive Lessons"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
+  "robot_name": "LanguageBuddy Bot",
+  "short_features_list": [
+   "Language lessons",
+   "Voice conversations",
+   "Interactive games",
+   "Multilingual support"],
+  "robot_very_short_description": "A language-learning robot that teaches kids new languages through games and conversation.",
+  "id": 35,
+  "key_technologies": [
+   {
+    "name": "AI Language Learning",
+    "description": "Integrated artificial intelligence to learn and adapt to user's language skills"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Power source for the robot, allowing it to operate continuously without interruptions"},
+   {
+    "name": "Computer Vision",
+    "description": "Enables the robot to recognize and understand visual inputs, facilitating interactive games and lessons"},
+   {
+    "name": "Speech Recognition",
+    "description": "Allows the robot to accurately detect and respond to voice commands and conversations"},
+   {
+    "name": "Multilingual Support",
+    "description": "Equipped with language packs for various languages, enabling users to learn new languages through interactive lessons"}]},
+ {
+  "detailed_image_prompt": "A robot designed to look like a mini conductor, with a screen showing musical notes and instruments. Its body is sleek and white, with bright musical notes painted on its sides. The robot sits on a white surface, with studio lighting highlighting its elegant, musical theme. The screen displays an animated piano and music notes, making it an interactive teaching tool.",
+  "short_features_list_icons": [
+   {
+    "feature": "Music theory lessons",
+    "icon": "\u1f510"},
+   {
+    "feature": "Interactive tutorials",
+    "icon": "\u270d"},
+   {
+    "feature": "Instrument guidance",
+    "icon": "\u1f3b6"},
+   {
+    "feature": "Voice interaction",
+    "icon": "\u1f4e2"}],
+  "short_tech_spec": "13 cm height, AI music lessons, instrument guidance, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "13 cm"},
+   {
+    "specification": "AI Music Lessons",
+    "value": ""},
+   {
+    "specification": "Instrument Guidance",
+    "value": ""},
+   {
+    "specification": "Voice Interaction",
+    "value": ""},
+   {
+    "specification": "Battery Type",
+    "value": "Rechargeable"}],
+  "robot_name": "MusicMaster Bot",
+  "short_features_list": [
+   "Music theory lessons",
+   "Interactive tutorials",
+   "Instrument guidance",
+   "Voice interaction"],
+  "robot_very_short_description": "A music-learning robot that teaches kids basic music theory and instrument skills.",
+  "id": 36,
+  "key_technologies": [
+   {
+    "name": "AI Music Lessons",
+    "description": "Provides interactive music lessons with a focus on music theory and instrumental techniques."},
+   {
+    "name": "Instrument Guidance",
+    "description": "Guides users through the proper use of musical instruments, including piano, guitar, and more."},
+   {
+    "name": "Voice Interaction",
+    "description": "Allows users to interact with the robot using voice commands, making it easy to learn and play music."},
+   {
+    "name": "Rechargeable Battery",
+    "description": "A long-lasting battery that can be recharged when needed, ensuring continuous use without interruption."}]},
+ {
+  "detailed_image_prompt": "A nature-inspired robot with a small display showing forests, animals, and rivers. Its body is designed in green and brown, with leaf patterns on its surface. The robot sits on a white table, with soft studio lighting emphasizing its eco-friendly design. The screen shows wildlife scenes as the robot guides kids on virtual tours of ecosystems.",
+  "short_features_list_icons": [
+   {
+    "feature": "Virtual wildlife tours",
+    "icon": "&#x1F433;"},
+   {
+    "feature": "Ecosystem lessons",
+    "icon": "&#x270F;"},
+   {
+    "feature": "Interactive quizzes",
+    "icon": "&#x2705;"},
+   {
+    "feature": "Voice-guided exploration",
+    "icon": "&#x1F50A;"}],
+  "short_tech_spec": "12 cm height, AI eco-lessons, virtual tours, voice-guided exploration, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "AI Features",
+    "value": "Eco-lessons and Virtual Tours"},
+   {
+    "specification": "Guidance",
+    "value": "Voice-guided exploration"},
+   {
+    "specification": "Battery",
+    "value": "Rechargeable"}],
+  "robot_name": "EcoExplorer Bot",
+  "short_features_list": [
+   "Virtual wildlife tours",
+   "Ecosystem lessons",
+   "Interactive quizzes",
+   "Voice-guided exploration"],
+  "robot_very_short_description": "A robot that teaches kids about ecosystems and wildlife through virtual tours.",
+  "id": 37,
+  "key_technologies": [
+   {
+    "name": "Artificial Intelligence (AI) ",
+    "description": "Used for eco-lessons and virtual tours"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Power source of the robot"},
+   {
+    "name": "Display Screen",
+    "description": "Showing forests, animals, and rivers"},
+   {
+    "name": "Sensor Technology",
+    "description": "Not specified, but likely for navigation and interaction"}]},
+ {
+  "detailed_image_prompt": "A sleek, chess-themed robot with a small display showing a chessboard. The robot\u2019s body is black and white, representing a chessboard pattern, and it has arms that simulate moving pieces. The robot sits on a white table with a chessboard in front of it. Soft lighting emphasizes its strategic, thought-provoking design, while the screen shows a current game in progress.",
+  "short_features_list_icons": [
+   {
+    "feature": "&#128064; Chess lessons",
+    "icon": ""},
+   {
+    "feature": "&#129409; Interactive games",
+    "icon": ""},
+   {
+    "feature": "&#9989; Voice-guided tips",
+    "icon": ""},
+   {
+    "feature": "&#128121; Strategy tutorials",
+    "icon": ""}],
+  "short_tech_spec": "11 cm height, AI chess engine, interactive gameplay, voice guidance, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "11 cm"},
+   {
+    "specification": "AI Engine Type",
+    "value": "AI Chess Engine"},
+   {
+    "specification": "Gameplay Style",
+    "value": "Interactive Gameplay"},
+   {
+    "specification": "Guidance Method",
+    "value": "Voice Guidance"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable Battery"}],
+  "robot_name": "ChessBot",
+  "short_features_list": [
+   "Chess lessons",
+   "Interactive games",
+   "Voice-guided tips",
+   "Strategy tutorials"],
+  "robot_very_short_description": "A chess-playing robot that teaches kids strategy and critical thinking through games.",
+  "id": 38,
+  "key_technologies": [
+   {
+    "name": "AI Chess Engine",
+    "description": "An artificial intelligence engine specifically designed for playing chess, allowing the robot to make strategic moves."},
+   {
+    "name": "Rechargeable Battery",
+    "description": "A long-lasting battery that can be recharged, providing power to the robot's various components and enabling extended gameplay."},
+   {
+    "name": "Interactive Display",
+    "description": "A high-resolution display showing a chessboard and current game progress, allowing users to interact with the robot through games and lessons."}]},
+ {
+  "detailed_image_prompt": "A space-themed robot with a small screen showing planets, stars, and spacecraft. The robot\u2019s body is metallic gray with blue accents, designed to look like a mini space rover. It has small wheels at the base and an antenna on top, adding to its space exploration theme. The robot sits on a white surface, with studio lighting highlighting its high-tech space design.",
+  "short_features_list_icons": [
+   {
+    "feature": "\u2609 Space exploration",
+    "icon": ""},
+   {
+    "feature": "\u2318 Interactive lessons",
+    "icon": ""},
+   {
+    "feature": "\u2b55 Planet discovery",
+    "icon": ""},
+   {
+    "feature": "\u1f4e3 Voice-guided tours",
+    "icon": ""}],
+  "short_tech_spec": "13 cm height, AI space exploration, voice interaction, interactive lessons, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "13 cm"},
+   {
+    "specification": "Primary Function",
+    "value": "AI space exploration"},
+   {
+    "specification": "Interaction Method",
+    "value": "Voice interaction"},
+   {
+    "specification": "Learning Features",
+    "value": "Interactive lessons"},
+   {
+    "specification": "Power Source",
+    "value": "Rechargeable battery"}],
+  "robot_name": "SpaceRover Bot",
+  "short_features_list": [
+   "Space exploration",
+   "Interactive lessons",
+   "Planet discovery",
+   "Voice-guided tours"],
+  "robot_very_short_description": "A robot that simulates space exploration and teaches kids about the universe.",
+  "id": 39,
+  "key_technologies": [
+   {
+    "name": "AI Processing Unit",
+    "description": "Custom-built AI chip for processing complex space-related data"},
+   {
+    "name": "Rechargeable Battery Pack",
+    "description": "Long-lasting battery with advanced power management system for extended exploration"},
+   {
+    "name": "3D Navigation System",
+    "description": "High-precision navigation system using sensors and GPS for accurate planetary mapping"},
+   {
+    "name": "Haptic Feedback Module",
+    "description": "Advanced tactile feedback system for immersive interactive lessons"},
+   {
+    "name": "Voice Interaction Module",
+    "description": "Custom-built voice recognition and synthesis module for clear communication with users"}]},
+ {
+  "detailed_image_prompt": "A colorful, art-themed robot with a display showing various drawing tools and colors. The robot is primarily white with rainbow-colored accents, and it holds a digital paintbrush in its arms. It sits on a white surface with a colorful piece of digital art displayed on the screen. Soft lighting emphasizes its artistic, creative design, making it look inviting and fun for kids.",
+  "short_features_list_icons": [
+   {
+    "feature": "Drawing lessons",
+    "icon": "&#x1F5DC;"},
+   {
+    "feature": "Painting tutorials",
+    "icon": "&#x270E;"},
+   {
+    "feature": "Interactive games",
+    "icon": "&#x26D3;"},
+   {
+    "feature": "Voice-guided creativity",
+    "icon": "&#x1F4AC;"}],
+  "short_tech_spec": "12 cm height, AI art lessons, interactive tutorials, voice interaction, rechargeable battery",
+  "short_tech_spec_array": [
+   {
+    "specification": "Height",
+    "value": "12 cm"},
+   {
+    "specification": "AI Features",
+    "value": "AI art lessons"},
+   {
+    "specification": "Tutorials",
+    "value": "interactive tutorials"},
+   {
+    "specification": "User Interaction",
+    "value": "voice interaction"},
+   {
+    "specification": "Power Source",
+    "value": "rechargeable battery"}],
+  "robot_name": "ArtieArtist Bot",
+  "short_features_list": [
+   "Drawing lessons",
+   "Painting tutorials",
+   "Interactive games",
+   "Voice-guided creativity"],
+  "robot_very_short_description": "A creative robot that teaches kids how to draw and paint through interactive lessons.",
+  "id": 40,
+  "key_technologies": [
+   {
+    "name": "AI Art Lessons",
+    "description": "Machine learning algorithms for generating art and providing personalized feedback"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Long-lasting battery that can be recharged via USB or other charging methods"},
+   {
+    "name": "Voice Interaction Module",
+    "description": "Speech recognition technology for voice commands and guided creativity"},
+   {
+    "name": "Digital Display",
+    "description": "High-resolution display for showcasing art, tutorials, and interactive games"},
+   {
+    "name": "Arm Mechanism",
+    "description": "Robotic arms designed to mimic human-like movements while holding a digital paintbrush"},
+   {
+    "name": "Sensor Suite",
+    "description": "Various sensors for tracking user progress, detecting user interaction, and ensuring safety"}]},
+ {
+  "detailed_image_prompt": "A small, sturdy robot with a black plastic body and tank-like treads for mobility. The robot has two articulated arms at the front, designed for grabbing and interacting with objects. Its head features a digital screen displaying two green-lit eyes that express emotions, giving it a cute and approachable look. The body has smooth, rounded edges, and the design incorporates modern, sleek aesthetics. It sits on a white surface in a studio environment, with soft lighting emphasizing the robot\u2019s treads, arms, and the digital display.",
+  "short_features_list_icons": [
+   {
+    "feature": "Tank-like treads",
+    "icon": "&#x1F692;"},
+   {
+    "feature": "Interactive screen with expressions",
+    "icon": "&#128512;"},
+   {
+    "feature": "Functional arms",
+    "icon": "&#129310;"},
+   {
+    "feature": "Voice and gesture recognition",
+    "icon": "&#x1F5E3;"}],
+  "short_tech_spec": {
+   "mobility": "Tank treads for enhanced surface traversal",
+   "sensors": [
+    "Voice recognition",
+    "Gesture detection",
+    "Obstacle avoidance"],
+   "interaction": "Digital screen with animated eyes, AI-powered expressions",
+   "arms": "Two functional arms for object manipulation",
+   "battery": "Rechargeable lithium-ion, 6-hour active time",
+   "dimensions": "15 cm height, 12 cm width, 14 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Tank treads for enhanced surface traversal"},
+   {
+    "specification": "sensors",
+    "value": "[\"Voice recognition\",\"Gesture detection\",\"Obstacle avoidance\"]"},
+   {
+    "specification": "interaction",
+    "value": "Digital screen with animated eyes, AI-powered expressions"},
+   {
+    "specification": "arms",
+    "value": "Two functional arms for object manipulation"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable lithium-ion, 6-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "15 cm height, 12 cm width, 14 cm length"}],
+  "robot_name": "TrackBot",
+  "short_features_list": [
+   "Tank-like treads",
+   "Interactive screen with expressions",
+   "Functional arms",
+   "Voice and gesture recognition"],
+  "robot_very_short_description": "A compact, interactive robot with expressive eyes and functional arms for small tasks.",
+  "id": 41,
+  "key_technologies": [
+   {
+    "name": "Articulated Arms",
+    "description": "designed for grabbing and interacting with objects"},
+   {
+    "name": "Digital Screen",
+    "description": "displays two green-lit eyes that express emotions"},
+   {
+    "name": "Tank-Like Treads",
+    "description": "for enhanced surface traversal"},
+   {
+    "name": "Voice Recognition",
+    "description": "enables voice commands"},
+   {
+    "name": "Gesture Detection",
+    "description": "detects and responds to hand gestures"},
+   {
+    "name": "Obstacle Avoidance Sensors",
+    "description": "detects and avoids obstacles in the environment"},
+   {
+    "name": "AI-Powered Expressions",
+    "description": "animates eyes with AI-powered expressions"}]},
+ {
+  "detailed_image_prompt": "A rugged, black and gray robot with tank treads and two powerful gripping arms. The body has a sleek, futuristic look with matte black surfaces and green lights around the edges. The arms are positioned at the front and are capable of gripping and climbing. The robot is placed on a white surface, with soft studio lighting highlighting the detail in its treads and the robust design of the gripping arms.",
+  "short_features_list_icons": [
+   {
+    "feature": "\u270d Climbing ability",
+    "icon": ""},
+   {
+    "feature": "\u270f Gripping arms",
+    "icon": ""},
+   {
+    "feature": "\u231b Treads for enhanced mobility",
+    "icon": ""},
+   {
+    "feature": "U0001F4AC Voice command",
+    "icon": ""}],
+  "short_tech_spec": {
+   "mobility": "Tank treads and gripping arms for climbing",
+   "sensors": [
+    "Cliff detection",
+    "Object detection",
+    "Grip sensors"],
+   "interaction": "Voice-activated control, obstacle avoidance",
+   "arms": "Gripping arms for climbing vertical surfaces",
+   "battery": "Rechargeable battery, 5-hour active time",
+   "dimensions": "18 cm height, 13 cm width, 15 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Tank treads and gripping arms for climbing"},
+   {
+    "specification": "sensors",
+    "value": "[\"Cliff detection\",\"Object detection\",\"Grip sensors\"]"},
+   {
+    "specification": "interaction",
+    "value": "Voice-activated control, obstacle avoidance"},
+   {
+    "specification": "arms",
+    "value": "Gripping arms for climbing vertical surfaces"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 5-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "18 cm height, 13 cm width, 15 cm length"}],
+  "robot_name": "ClimberBot",
+  "short_features_list": [
+   "Climbing ability",
+   "Gripping arms",
+   "Treads for enhanced mobility",
+   "Voice command"],
+  "robot_very_short_description": "A robot designed to climb and navigate uneven terrain with its gripping arms.",
+  "id": 42,
+  "key_technologies": [
+   {
+    "name": "Tank Tread System",
+    "description": "Enables the robot to move across various terrains"},
+   {
+    "name": "Gripping Arms",
+    "description": "Allow the robot to climb vertical surfaces and grip objects"},
+   {
+    "name": "Cliff Detection Sensor",
+    "description": "Prevents the robot from falling off cliffs or steep edges"},
+   {
+    "name": "Object Detection Sensor",
+    "description": "Helps the robot avoid collisions with obstacles"},
+   {
+    "name": "Grip Sensors",
+    "description": "Monitor the grip force of the robot's arms to prevent slipping"},
+   {
+    "name": "Voice Command System",
+    "description": "Allows users to control the robot using voice commands"}]},
+ {
+  "detailed_image_prompt": "A small, robotic helper with extendable arms designed for lifting objects. It has a smooth white and blue body with a rectangular digital display on the front showing expressive faces. The arms extend from the sides, with precise joints for gripping and lifting. The robot is placed on a white background, with studio lighting focusing on the functionality of its extendable arms and the clean, modern design.",
+  "short_features_list_icons": [
+   {
+    "feature": "Extendable arms",
+    "icon": "&#x1F9ED;"},
+   {
+    "feature": "Lifting capability",
+    "icon": "&#x1F4CB;"},
+   {
+    "feature": "Interactive display",
+    "icon": "&#x1F4E6;"},
+   {
+    "feature": "Voice interaction",
+    "icon": "&#x1F5A8;"}],
+  "short_tech_spec": {
+   "mobility": "Wheels for smooth movement",
+   "sensors": [
+    "Load sensors",
+    "Proximity detection",
+    "Voice commands"],
+   "interaction": "Interactive screen with faces, voice commands",
+   "arms": "Extendable arms capable of lifting small objects up to 500g",
+   "battery": "Rechargeable battery, 6-hour active time",
+   "dimensions": "14 cm height, 12 cm width, 13 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Wheels for smooth movement"},
+   {
+    "specification": "sensors",
+    "value": "[\"Load sensors\",\"Proximity detection\",\"Voice commands\"]"},
+   {
+    "specification": "interaction",
+    "value": "Interactive screen with faces, voice commands"},
+   {
+    "specification": "arms",
+    "value": "Extendable arms capable of lifting small objects up to 500g"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 6-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "14 cm height, 12 cm width, 13 cm length"}],
+  "robot_name": "LiftBot",
+  "short_features_list": [
+   "Extendable arms",
+   "Lifting capability",
+   "Interactive display",
+   "Voice interaction"],
+  "robot_very_short_description": "A utility robot designed for lifting small objects using its extendable arms.",
+  "id": 43,
+  "key_technologies": [
+   {
+    "name": "Robot Operating System (ROS)",
+    "description": "An open-source software framework used to build and deploy robotic applications."},
+   {
+    "name": "Machine Learning Algorithms",
+    "description": "Used to enable the robot's interactive display and voice interaction features."},
+   {
+    "name": "Load Sensors",
+    "description": "Used to detect the weight of objects lifted by the extendable arms."},
+   {
+    "name": "Proximity Detection Sensors",
+    "description": "Used to determine the distance between the robot and surrounding objects."},
+   {
+    "name": "Voice Command Processing Software",
+    "description": "Used to interpret voice commands and control the robot's actions."}]},
+ {
+  "detailed_image_prompt": "A rugged, all-terrain robot with black treads and a matte gray body designed for search and rescue. The robot has thermal imaging sensors mounted on its head, and retractable arms for grabbing small objects. Its body is built to withstand tough conditions, with armor-like plating. The robot is placed in a studio setting, with lighting emphasizing its rugged design and high-tech sensors.",
+  "short_features_list_icons": [
+   {
+    "feature": "Disaster navigation",
+    "icon": "&#x1F6C8;"},
+   {
+    "feature": "Obstacle detection",
+    "icon": "&#x1F9E0;"},
+   {
+    "feature": "Retractable arms",
+    "icon": "&#x1F4AA;"},
+   {
+    "feature": "Thermal imaging",
+    "icon": "&#x1F53A;"}],
+  "short_tech_spec": {
+   "mobility": "Tank treads for rough terrain",
+   "sensors": [
+    "Thermal imaging",
+    "Obstacle avoidance",
+    "Proximity sensors"],
+   "interaction": "Thermal camera for human detection",
+   "arms": "Retractable arms for small rescues",
+   "battery": "Rechargeable battery, 8-hour active time",
+   "dimensions": "20 cm height, 14 cm width, 16 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "Mobility",
+    "value": "Tank treads for rough terrain"},
+   {
+    "specification": "Sensors",
+    "value": [
+     "Thermal imaging",
+     "Obstacle avoidance",
+     "Proximity sensors"]},
+   {
+    "specification": "Interaction",
+    "value": "Thermal camera for human detection"},
+   {
+    "specification": "Arms",
+    "value": "Retractable arms for small rescues"},
+   {
+    "specification": "Battery",
+    "value": "Rechargeable battery, 8-hour active time"},
+   {
+    "specification": "Dimensions",
+    "value": "20 cm height, 14 cm width, 16 cm length"}],
+  "robot_name": "RescueBot",
+  "short_features_list": [
+   "Disaster navigation",
+   "Obstacle detection",
+   "Retractable arms",
+   "Thermal imaging"],
+  "robot_very_short_description": "A robot designed to navigate disaster zones and assist in search and rescue missions.",
+  "id": 44,
+  "key_technologies": [
+   {
+    "name": "Autonomous Navigation",
+    "description": "Advanced navigation system with obstacle avoidance and path planning algorithms"},
+   {
+    "name": "Thermal Imaging Sensor",
+    "description": "High-resolution thermal imaging sensor for detecting heat sources and tracking targets"},
+   {
+    "name": "Retractable Arm Mechanism",
+    "description": "Mechanism allowing the robot to extend and retract its arms for grabbing small objects or interacting with the environment"},
+   {
+    "name": "Tank Tread Mobility System",
+    "description": "Ruggedized mobility system designed for traversing rough terrain and navigating challenging environments"},
+   {
+    "name": "Proximity Sensors Array",
+    "description": "Array of proximity sensors providing 360-degree awareness of the robot's surroundings and detecting obstacles"}]},
+ {
+  "detailed_image_prompt": "A small, aerodynamic robot built for speed. It has a sleek, metallic body with glowing blue LED lights along its edges, making it look futuristic and fast. The wheels are positioned low for stability at high speeds, and the body curves back like a race car. The robot sits on a white surface, with soft studio lighting highlighting its sleek lines and fast design.",
+  "short_features_list_icons": [
+   {
+    "feature": "&#x1F9D5;",
+    "icon": "High speed"},
+   {
+    "feature": "&#x1F4AF;",
+    "icon": "Responsive steering"},
+   {
+    "feature": "&#x1F319;",
+    "icon": "Interactive light system"},
+   {
+    "feature": "&#x1F4E2;",
+    "icon": "Voice control"}],
+  "short_tech_spec": {
+   "mobility": "High-speed wheels for racing",
+   "sensors": [
+    "Speed sensors",
+    "Obstacle detection"],
+   "interaction": "LED light system for interactive displays",
+   "arms": "None",
+   "battery": "Rechargeable battery, 3-hour active time at high speed",
+   "dimensions": "10 cm height, 8 cm width, 12 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "High-speed wheels for racing"},
+   {
+    "specification": "sensors",
+    "value": [
+     "Speed sensors",
+     "Obstacle detection"]},
+   {
+    "specification": "interaction",
+    "value": "LED light system for interactive displays"},
+   {
+    "specification": "arms",
+    "value": "None"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 3-hour active time at high speed"},
+   {
+    "specification": "dimensions",
+    "value": "10 cm height, 8 cm width, 12 cm length"}],
+  "robot_name": "SpeedyBot",
+  "short_features_list": [
+   "High speed",
+   "Responsive steering",
+   "Interactive light system",
+   "Voice control"],
+  "robot_very_short_description": "A fast-moving robot designed for racing and quick maneuvers.",
+  "id": 45,
+  "key_technologies": [
+   {
+    "name": "High-speed wheels",
+    "description": "Enables the robot to move at high speeds"},
+   {
+    "name": "Speed sensors",
+    "description": "Monitors the robot's speed in real-time"},
+   {
+    "name": "Obstacle detection",
+    "description": "Detects obstacles and prevents collisions"},
+   {
+    "name": "LED light system",
+    "description": "Enables interactive displays and effects"},
+   {
+    "name": "Voice control",
+    "description": "Allows for voice commands to control the robot"}]},
+ {
+  "detailed_image_prompt": "A solid, utilitarian robot designed for carrying small loads. Its body is square-shaped and low to the ground, with tank treads for stability. It has a pair of simple mechanical arms designed for lifting objects onto its platform. The robot is shown in a white studio environment, with lighting highlighting the treads and load-carrying platform.",
+  "short_features_list_icons": [
+   {
+    "feature": "Load carrying",
+    "icon": "\u2194"},
+   {
+    "feature": "Smooth movement",
+    "icon": "\u21c3"},
+   {
+    "feature": "Voice control",
+    "icon": "\u1f50D"},
+   {
+    "feature": "Simple object manipulation",
+    "icon": "\u2705"}],
+  "short_tech_spec": {
+   "mobility": "Tank treads for stability and load carrying",
+   "sensors": [
+    "Load sensors",
+    "Proximity detection"],
+   "interaction": "Voice commands for load instructions",
+   "arms": "Basic arms for lifting and carrying",
+   "battery": "Rechargeable battery, 7-hour active time",
+   "dimensions": "15 cm height, 14 cm width, 15 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Tank treads for stability and load carrying"},
+   {
+    "specification": "sensors",
+    "value": "Load sensors, Proximity detection"},
+   {
+    "specification": "interaction",
+    "value": "Voice commands for load instructions"},
+   {
+    "specification": "arms",
+    "value": "Basic arms for lifting and carrying"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 7-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "15 cm height, 14 cm width, 15 cm length"}],
+  "robot_name": "CarryBot",
+  "short_features_list": [
+   "Load carrying",
+   "Smooth movement",
+   "Voice control",
+   "Simple object manipulation"],
+  "robot_very_short_description": "A load-carrying robot designed to transport small objects across rooms.",
+  "id": 46,
+  "key_technologies": [
+   {
+    "name": "Tank Treads",
+    "description": "Provide stability and mobility for the robot"},
+   {
+    "name": "Basic Mechanical Arms",
+    "description": "Allow the robot to lift and carry small loads"},
+   {
+    "name": "Load Sensors",
+    "description": "Enable the robot to detect and adjust to changing loads"},
+   {
+    "name": "Proximity Detection",
+    "description": "Help the robot navigate and avoid obstacles"},
+   {
+    "name": "Voice Control Module",
+    "description": "Allow users to instruct the robot using voice commands"}]},
+ {
+  "detailed_image_prompt": "A sleek, black robot with claw-like arms designed to fetch objects. Its body is compact and lightweight, with wheels for fast movement. The arms extend from the front, with articulated claws for gripping. The robot is placed on a white surface with soft lighting, emphasizing its fetching capabilities and the simple, functional design.",
+  "short_features_list_icons": [
+   {
+    "feature": "Object retrieval",
+    "icon": "\u2318"},
+   {
+    "feature": "Voice commands",
+    "icon": "\u1f4aC"},
+   {
+    "feature": "Claw-like arms",
+    "icon": "\u2702"},
+   {
+    "feature": "Object recognition",
+    "icon": "\u1f9c0"}],
+  "short_tech_spec": {
+   "mobility": "Wheels for fast movement",
+   "sensors": [
+    "Object recognition",
+    "Proximity detection"],
+   "interaction": "Voice commands for fetching tasks",
+   "arms": "Claw-like arms for picking up objects",
+   "battery": "Rechargeable battery, 5-hour active time",
+   "dimensions": "14 cm height, 13 cm width, 14 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Wheels for fast movement"},
+   {
+    "specification": "sensors",
+    "value": "Object recognition, Proximity detection"},
+   {
+    "specification": "interaction",
+    "value": "Voice commands for fetching tasks"},
+   {
+    "specification": "arms",
+    "value": "Claw-like arms for picking up objects"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 5-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "14 cm height, 13 cm width, 14 cm length"}],
+  "robot_name": "FetchBot",
+  "short_features_list": [
+   "Object retrieval",
+   "Voice commands",
+   "Claw-like arms",
+   "Object recognition"],
+  "robot_very_short_description": "A robot designed for fetching and retrieving small objects.",
+  "id": 47,
+  "key_technologies": [
+   {
+    "name": "Robot Operating System (ROS)",
+    "description": "An open-source software framework for building robot applications."},
+   {
+    "name": "Deep Learning Library (TensorFlow\/Keras)",
+    "description": "For object recognition and computer vision tasks, such as identifying objects to be fetched."},
+   {
+    "name": "Voice Recognition API",
+    "description": "Enables voice commands for interacting with the robot."},
+   {
+    "name": "Motor Control System",
+    "description": "Controls the movement of the wheels and claw-like arms, allowing for precise object retrieval."},
+   {
+    "name": "Power Management System",
+    "description": "Monitors and manages the rechargeable battery to ensure optimal performance and longevity."}]},
+ {
+  "detailed_image_prompt": "A robust robot with articulated precision arms designed for assembly tasks. The body is a mix of gray and orange, giving it a construction-like appearance. The robot has a small display screen showing detailed assembly instructions. It is placed in a studio environment, with lighting focused on the functionality of the arms and the detailed design elements.",
+  "short_features_list_icons": [
+   {
+    "feature": "Construction capability",
+    "icon": "&#x1F4CC;"},
+   {
+    "feature": "Precision arms",
+    "icon": "&#x2709;"},
+   {
+    "feature": "Interactive display",
+    "icon": "&#x1F4E6;"},
+   {
+    "feature": "Voice-guided tasks",
+    "icon": "&#x1F4AC;"}],
+  "short_tech_spec": {
+   "mobility": "Wheels for precise positioning",
+   "sensors": [
+    "Positioning sensors",
+    "Proximity detection"],
+   "interaction": "Interactive display for construction instructions",
+   "arms": "Precision arms for detailed assembly tasks",
+   "battery": "Rechargeable battery, 8-hour active time",
+   "dimensions": "18 cm height, 14 cm width, 16 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Wheels for precise positioning"},
+   {
+    "specification": "sensors",
+    "value": [
+     "Positioning sensors",
+     "Proximity detection"]},
+   {
+    "specification": "interaction",
+    "value": "Interactive display for construction instructions"},
+   {
+    "specification": "arms",
+    "value": "Precision arms for detailed assembly tasks"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 8-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "18 cm height, 14 cm width, 16 cm length"}],
+  "robot_name": "BuilderBot",
+  "short_features_list": [
+   "Construction capability",
+   "Precision arms",
+   "Interactive display",
+   "Voice-guided tasks"],
+  "robot_very_short_description": "A robot designed for small-scale construction and assembly tasks.",
+  "id": 48,
+  "key_technologies": [
+   {
+    "name": "Mechatronic System",
+    "description": "For precise positioning and movement of the articulated precision arms"},
+   {
+    "name": "Computer Vision System",
+    "description": "For object recognition, tracking, and detection in real-time during assembly tasks"},
+   {
+    "name": "Industrial-grade Motors",
+    "description": "For high-torque performance and reliability in precision arm movements"},
+   {
+    "name": "High-resolution Display Screen",
+    "description": "For clear display of detailed assembly instructions and guidance"},
+   {
+    "name": "Advanced Control Software",
+    "description": "For seamless integration with the mechatronic system, computer vision, and other components"}]},
+ {
+  "detailed_image_prompt": "A sleek robot with a wide interactive screen displaying directions. Its design is smooth and white, with blue LED lights along its edges, making it look futuristic and helpful. The robot sits on a white floor, with studio lighting highlighting its clear, clean design. The screen shows navigation instructions in a friendly, easy-to-read format.",
+  "short_features_list_icons": [
+   {
+    "feature": "Navigation assistance",
+    "icon": "&#x1F4E9;"},
+   {
+    "feature": "Interactive screen",
+    "icon": "&#x1F5A8;"},
+   {
+    "feature": "Voice guidance",
+    "icon": "&#x1F4FA;"},
+   {
+    "feature": "Object recognition",
+    "icon": "&#x1F9D0;"}],
+  "short_tech_spec": {
+   "mobility": "Wheels for smooth navigation",
+   "sensors": [
+    "Object recognition",
+    "Pathfinding sensors"],
+   "interaction": "Interactive screen and voice guidance",
+   "arms": "None",
+   "battery": "Rechargeable battery, 10-hour active time",
+   "dimensions": "16 cm height, 12 cm width, 14 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Wheels for smooth navigation"},
+   {
+    "specification": "sensors",
+    "value": "[\"Object recognition\",\"Pathfinding sensors\"]"},
+   {
+    "specification": "interaction",
+    "value": "Interactive screen and voice guidance"},
+   {
+    "specification": "arms",
+    "value": "None"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 10-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "16 cm height, 12 cm width, 14 cm length"}],
+  "robot_name": "GuideBot",
+  "short_features_list": [
+   "Navigation assistance",
+   "Interactive screen",
+   "Voice guidance",
+   "Object recognition"],
+  "robot_very_short_description": "A robot designed to guide people through buildings or events.",
+  "id": 49,
+  "key_technologies": [
+   {
+    "name": "Pathfinding sensors",
+    "description": "Enables the robot to navigate through complex spaces and avoid obstacles."},
+   {
+    "name": "Object recognition",
+    "description": "Allows the robot to identify objects in its environment, enabling it to interact with them or recognize potential hazards."}]},
+ {
+  "detailed_image_prompt": "A rugged robot designed for outdoor farming tasks. It has tank treads for rough terrain, and its arms are equipped with small tools for planting and watering. The body is designed in green and brown tones, making it blend with natural environments. The robot is placed in a studio setting, with soft lighting highlighting the tank treads and agricultural tools.",
+  "short_features_list_icons": [
+   {
+    "feature": "\u2690 Planting seeds",
+    "icon": ""},
+   {
+    "feature": "\u26f1 Watering",
+    "icon": ""},
+   {
+    "feature": "\u1f9b5 Soil analysis",
+    "icon": ""},
+   {
+    "feature": "U0001F4E2 Voice control",
+    "icon": ""}],
+  "short_tech_spec": {
+   "mobility": "Tank treads for rough terrain",
+   "sensors": [
+    "Soil moisture detection",
+    "Proximity detection"],
+   "interaction": "Voice commands for farming tasks",
+   "arms": "Precision arms for planting and watering",
+   "battery": "Rechargeable battery, 12-hour active time",
+   "dimensions": "20 cm height, 16 cm width, 18 cm length"},
+  "short_tech_spec_array": [
+   {
+    "specification": "mobility",
+    "value": "Tank treads for rough terrain"},
+   {
+    "specification": "sensors",
+    "value": "[\"Soil moisture detection\",\"Proximity detection\"]"},
+   {
+    "specification": "interaction",
+    "value": "Voice commands for farming tasks"},
+   {
+    "specification": "arms",
+    "value": "Precision arms for planting and watering"},
+   {
+    "specification": "battery",
+    "value": "Rechargeable battery, 12-hour active time"},
+   {
+    "specification": "dimensions",
+    "value": "20 cm height, 16 cm width, 18 cm length"}],
+  "robot_name": "FarmBot",
+  "short_features_list": [
+   "Planting seeds",
+   "Watering",
+   "Soil analysis",
+   "Voice control"],
+  "robot_very_short_description": "A robot designed for small-scale farming tasks, such as planting and watering.",
+  "id": 50,
+  "key_technologies": [
+   {
+    "name": "Tank Treads",
+    "description": "Allow the robot to navigate rough terrain"},
+   {
+    "name": "Precision Arms",
+    "description": "Equipped with small tools for precise planting and watering"},
+   {
+    "name": "Soil Moisture Detection Sensor",
+    "description": "Helps determine optimal watering times"},
+   {
+    "name": "Proximity Detection Sensor",
+    "description": "Prevents the robot from getting too close to other objects or people"},
+   {
+    "name": "Rechargeable Battery",
+    "description": "Provides up to 12 hours of active time"},
+   {
+    "name": "Voice Control System",
+    "description": "Allows for hands-free control of farming tasks"}]},
+
+  {
+    "id": 51,
+    "robot_name": "ElliBot",
+    "robot_very_short_description": "A half-body robot designed for emotional support and companionship with soft glowing eyes.",
+    "short_features_list": ["Emotional responses", "Interactive face screen", "Voice interaction", "Soothing lights"],
+    "short_tech_spec": {
+      "dimensions": "20 cm height, 10 cm width",
+      "mobility": "Stationary base with 360-degree rotation",
+      "interaction": "Interactive face with expressive eyes, voice commands",
+      "arms": "Fixed arms for gestures",
+      "sensors": ["Voice recognition", "Proximity detection"],
+      "battery": "Rechargeable battery, 8-hour active time"
+    },
+    "detailed_image_prompt": "A small, white half-body robot with smooth curves and a glossy finish. It has a digital face with glowing blue eyes, similar to the robot in the provided image. Its body is sleek and minimalist, with soft edges and subtle details like light blue accents on its chest and head. The robot is placed on a white circular base and has a clean, futuristic look with soft lighting highlighting its glowing features."
+  },
+  {
+    "id": 52,
+    "robot_name": "BuddyBot",
+    "robot_very_short_description": "A half-body robot designed to provide companionship and guidance in the home.",
+    "short_features_list": ["Voice control", "Interactive screen", "Expressive gestures", "Home assistant features"],
+    "short_tech_spec": {
+      "dimensions": "22 cm height, 11 cm width",
+      "mobility": "Stationary base with tilting head",
+      "interaction": "Interactive face and voice commands",
+      "arms": "Simple arms for pointing gestures",
+      "sensors": ["Voice recognition", "Gesture detection"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A compact half-body robot with a bright digital face that displays friendly expressions. The body is designed with smooth, white plastic and soft blue accents around the neck and arms. Its base is fixed, and it has a minimalist, futuristic look. The robot’s arms are simple and rounded, giving it a soft, approachable appearance. It is placed on a white surface, with studio lighting emphasizing its clean design and glowing face."
+  },
+  {
+    "id": 53,
+    "robot_name": "CareBot",
+    "robot_very_short_description": "A healthcare assistant robot that offers reminders and companionship to elderly users.",
+    "short_features_list": ["Health reminders", "Voice interaction", "Emotion detection", "Soothing lights"],
+    "short_tech_spec": {
+      "dimensions": "24 cm height, 12 cm width",
+      "mobility": "Stationary with a rotating head",
+      "interaction": "Digital screen with emotional expressions, voice commands",
+      "arms": "Basic arms for gestures",
+      "sensors": ["Emotion detection", "Voice recognition"],
+      "battery": "Rechargeable battery, 12-hour active time"
+    },
+    "detailed_image_prompt": "A healthcare-oriented half-body robot with a sleek white body and soft blue lights around the head and shoulders. It has a digital face that shows comforting expressions and a smooth, glossy surface. The robot sits on a flat, stationary base with small arms used for basic gestures. Soft studio lighting highlights the robot’s calming features, making it ideal for elderly care or companionship."
+  },
+  {
+    "id": 54,
+    "robot_name": "TeachBot Junior",
+    "robot_very_short_description": "An educational half-body robot designed to help children with learning and interactive lessons.",
+    "short_features_list": ["Interactive learning", "Voice commands", "Animated facial expressions", "Educational games"],
+    "short_tech_spec": {
+      "dimensions": "20 cm height, 11 cm width",
+      "mobility": "Stationary base with slight head movement",
+      "interaction": "Digital screen with animated facial expressions, voice interaction",
+      "arms": "Small arms for gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 9-hour active time"
+    },
+    "detailed_image_prompt": "A small, child-friendly half-body robot with a cheerful design. Its smooth white body is complemented by bright green accents around the neck and shoulders. The robot has a rounded, friendly face with animated eyes that light up in different colors. Its arms are small and used for simple gestures like waving. The robot is placed on a clean, white surface with bright studio lighting to emphasize its playful, educational appearance."
+  },
+  {
+    "id": 55,
+    "robot_name": "MedBot Lite",
+    "robot_very_short_description": "A medical assistant robot designed to help patients with medication reminders and monitoring.",
+    "short_features_list": ["Medication reminders", "Voice alerts", "Emotional support", "Health monitoring"],
+    "short_tech_spec": {
+      "dimensions": "23 cm height, 12 cm width",
+      "mobility": "Stationary base with a rotating head",
+      "interaction": "Voice interaction and facial expressions",
+      "arms": "Basic arms for gestures",
+      "sensors": ["Health monitoring sensors", "Voice commands"],
+      "battery": "Rechargeable battery, 12-hour active time"
+    },
+    "detailed_image_prompt": "A sleek, professional-looking half-body robot with a clean white surface and soft blue lights around the head and chest. The robot’s digital face displays simple, comforting expressions, and it is designed to sit on a bedside table or desk. Its stationary base supports a rotating head that turns slightly while interacting with users. The robot is placed on a white surface, with soft lighting enhancing its professional and supportive appearance."
+  },
+  {
+    "id": 56,
+    "robot_name": "PetBot",
+    "robot_very_short_description": "A half-body robot designed to interact with pets, providing stimulation and companionship.",
+    "short_features_list": ["Pet interaction", "Voice commands", "Interactive lights", "Playful gestures"],
+    "short_tech_spec": {
+      "dimensions": "22 cm height, 10 cm width",
+      "mobility": "Stationary base with tilting head",
+      "interaction": "Voice interaction, playful facial expressions",
+      "arms": "Basic arms for waving gestures",
+      "sensors": ["Pet proximity detection", "Voice recognition"],
+      "battery": "Rechargeable battery, 8-hour active time"
+    },
+    "detailed_image_prompt": "A fun, playful half-body robot with a round digital face designed to interact with pets. The body is white with soft pink accents, and the robot’s face displays playful, animated expressions. It sits on a flat base with small arms that wave in response to pet interactions. The robot is placed on a white surface, with bright studio lighting highlighting its cute and pet-friendly design."
+  },
+  {
+    "id": 57,
+    "robot_name": "MoodMate",
+    "robot_very_short_description": "A mood-detecting half-body robot that provides emotional support and stress relief.",
+    "short_features_list": ["Mood detection", "Voice interaction", "Calming light patterns", "Emotion-based responses"],
+    "short_tech_spec": {
+      "dimensions": "21 cm height, 11 cm width",
+      "mobility": "Stationary base with tilting head",
+      "interaction": "Emotional facial expressions, voice commands",
+      "arms": "Simple arms for gestures",
+      "sensors": ["Emotion detection", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A calming half-body robot with a soft white exterior and glowing light patterns around its chest and face. Its eyes change color based on the user’s mood, offering soothing responses through gentle light shows and comforting expressions. The robot’s arms make simple gestures, and it sits on a white surface with soft studio lighting, emphasizing its gentle, mood-supporting design."
+  },
+  {
+    "id": 58,
+    "robot_name": "CoachBot",
+    "robot_very_short_description": "A personal development robot that helps users with productivity and motivation.",
+    "short_features_list": ["Productivity tracking", "Voice motivation", "Task reminders", "Emotional encouragement"],
+    "short_tech_spec": {
+      "dimensions": "23 cm height, 12 cm width",
+      "mobility": "Stationary base with rotating head",
+      "interaction": "Digital face with motivational expressions, voice interaction",
+      "arms": "Basic arms for motivational gestures",
+      "sensors": ["Voice recognition", "Proximity detection"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A motivational half-body robot with a clean, sleek design and a friendly digital face that displays encouraging expressions. The body is white with blue and green accents, and the robot’s arms make simple gestures to cheer on users. It sits on a white surface, with bright studio lighting highlighting its sleek, modern look and motivational design."
+  },
+  {
+    "id": 59,
+    "robot_name": "TutorBot",
+    "robot_very_short_description": "A half-body educational robot designed to help students with their studies through interactive lessons.",
+    "short_features_list": ["Interactive lessons", "Voice commands", "Animated facial expressions", "Educational guidance"],
+    "short_tech_spec": {
+      "dimensions": "20 cm height, 11 cm width",
+      "mobility": "Stationary base with slight head movement",
+      "interaction": "Digital face with expressive eyes, voice interaction",
+      "arms": "Small arms for pointing gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 9-hour active time"
+    },
+    "detailed_image_prompt": "A half-body robot designed for learning, featuring a smooth white body with green accents around the head and shoulders. The robot has a friendly, digital face that lights up with different expressions while teaching. Its small arms are used for pointing or guiding during lessons. It is placed on a clean, white surface with studio lighting emphasizing its interactive, educational features."
+  },
+  {
+    "id": 60,
+    "robot_name": "GuideBot Mini",
+    "robot_very_short_description": "A navigation robot designed to provide guidance in museums, exhibitions, and events.",
+    "short_features_list": ["Navigation assistance", "Interactive screen", "Voice commands", "Map guidance"],
+    "short_tech_spec": {
+      "dimensions": "25 cm height, 13 cm width",
+      "mobility": "Stationary base with a rotating head",
+      "interaction": "Interactive face with map guidance, voice interaction",
+      "arms": "None",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 12-hour active time"
+    },
+    "detailed_image_prompt": "A sleek, futuristic half-body robot with a screen that displays map guidance and directional arrows. Its body is a clean white with soft blue accents around the head and base. The robot sits on a flat base with a rotating head, making it ideal for guiding people through spaces. The robot is placed on a white surface, with soft lighting highlighting its guiding features and smooth, professional design."
+  },
+{
+    "id": 61,
+    "robot_name": "HelperBot",
+    "robot_very_short_description": "A humanoid robot designed to assist with household tasks and chores.",
+    "short_features_list": ["Task automation", "Voice interaction", "Object handling", "Home assistant"],
+    "short_tech_spec": {
+      "dimensions": "150 cm height, 50 cm width",
+      "mobility": "Wheeled feet for smooth movement",
+      "interaction": "Voice commands, touchscreen interface",
+      "arms": "Two articulated arms for object handling",
+      "sensors": ["Voice recognition", "Object recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A tall, humanoid robot with a sleek white body and two functional arms. Its head features a digital display showing basic facial expressions and information. The robot has wheels at its base for movement and stands at human height, making it suitable for household tasks. Its body is smooth and minimalistic, with soft lighting emphasizing its sleek design and modern utility."
+  },
+  {
+    "id": 62,
+    "robot_name": "CareGiver",
+    "robot_very_short_description": "A humanoid robot designed to assist the elderly with daily tasks and provide companionship.",
+    "short_features_list": ["Daily task assistance", "Voice interaction", "Health monitoring", "Companionship"],
+    "short_tech_spec": {
+      "dimensions": "160 cm height, 55 cm width",
+      "mobility": "Wheeled base with stability control",
+      "interaction": "Voice commands, health monitoring system",
+      "arms": "Two soft-touch arms for safe handling",
+      "sensors": ["Health sensors", "Voice recognition", "Proximity detection"],
+      "battery": "Rechargeable battery, 12-hour active time"
+    },
+    "detailed_image_prompt": "A friendly-looking humanoid robot with a soft, approachable design. Its body is white with light blue accents, and it has two articulated arms that can assist with daily tasks. The head features a digital face with expressive, comforting eyes. It stands on a wheeled base, making it mobile and flexible. The robot is placed in a clean, bright environment with soft lighting, highlighting its caregiving role."
+  },
+  {
+    "id": 63,
+    "robot_name": "EduBot",
+    "robot_very_short_description": "A humanoid robot designed to teach students in classrooms or at home with interactive lessons.",
+    "short_features_list": ["Educational lessons", "Voice interaction", "Gesture-based teaching", "Interactive screen"],
+    "short_tech_spec": {
+      "dimensions": "140 cm height, 50 cm width",
+      "mobility": "Wheeled feet for easy classroom navigation",
+      "interaction": "Touchscreen and voice commands",
+      "arms": "Two arms for pointing and gestures",
+      "sensors": ["Gesture recognition", "Voice interaction", "Proximity sensors"],
+      "battery": "Rechargeable battery, 8-hour active time"
+    },
+    "detailed_image_prompt": "A humanoid robot designed for education, featuring a sleek white body with blue accents. It stands at a medium height, making it ideal for interacting with children or students. The robot has a digital face that displays expressions and an interactive touchscreen for educational lessons. Its arms can move to point and interact during lessons. It is shown in a brightly lit classroom environment, emphasizing its educational design."
+  },
+  {
+    "id": 64,
+    "robot_name": "SecurityBot",
+    "robot_very_short_description": "A humanoid security robot designed for patrolling and surveillance.",
+    "short_features_list": ["Surveillance", "Threat detection", "Patrolling", "Alarm system"],
+    "short_tech_spec": {
+      "dimensions": "180 cm height, 55 cm width",
+      "mobility": "Wheeled feet for efficient movement",
+      "interaction": "Voice control and security alerts",
+      "arms": "Two strong arms for securing areas",
+      "sensors": ["Motion detection", "Facial recognition", "Thermal sensors"],
+      "battery": "Rechargeable battery, 16-hour active time"
+    },
+    "detailed_image_prompt": "A tall, humanoid security robot with a strong, armored body. The robot is equipped with multiple cameras and sensors around its head for surveillance and threat detection. Its arms are sturdy and designed for securing areas, while its body is sleek, resembling futuristic security units. It is shown in a dimly lit industrial setting, highlighting its high-tech security features and strong build."
+  },
+  {
+    "id": 65,
+    "robot_name": "ShopBot",
+    "robot_very_short_description": "A humanoid robot designed to assist customers in retail stores, providing product information and guidance.",
+    "short_features_list": ["Customer assistance", "Product recommendations", "Voice commands", "Interactive touchscreen"],
+    "short_tech_spec": {
+      "dimensions": "170 cm height, 50 cm width",
+      "mobility": "Wheeled base for smooth movement",
+      "interaction": "Voice commands and touchscreen",
+      "arms": "Two light-weight arms for gesturing and pointing",
+      "sensors": ["Voice recognition", "Object detection", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A friendly humanoid robot with a sleek white body designed for customer service in retail stores. The robot has a built-in touchscreen on its chest for displaying product information. Its head features a digital face with expressive eyes, and its arms are capable of simple gestures to guide customers. The robot is shown in a bright retail environment, emphasizing its customer-focused design and helpful features."
+  },
+  {
+    "id": 66,
+    "robot_name": "WaiterBot",
+    "robot_very_short_description": "A humanoid robot designed for serving food and drinks in restaurants and cafes.",
+    "short_features_list": ["Food and drink serving", "Voice commands", "Tray handling", "Customer interaction"],
+    "short_tech_spec": {
+      "dimensions": "150 cm height, 45 cm width",
+      "mobility": "Wheeled feet for serving areas",
+      "interaction": "Voice commands and tray balancing",
+      "arms": "Two arms for holding and balancing trays",
+      "sensors": ["Balance sensors", "Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 8-hour active time"
+    },
+    "detailed_image_prompt": "A humanoid robot designed to serve food and drinks in a restaurant setting. The robot has a sleek body with two lightweight arms designed to hold trays. Its head features a simple digital face with cheerful expressions. The body is silver with subtle gold accents. It is shown in a restaurant environment, with soft lighting emphasizing its food service capabilities and friendly appearance."
+  },
+  {
+    "id": 67,
+    "robot_name": "GuideBot",
+    "robot_very_short_description": "A humanoid robot designed for guiding visitors in museums, exhibitions, and events.",
+    "short_features_list": ["Visitor guidance", "Interactive displays", "Voice commands", "Navigation assistance"],
+    "short_tech_spec": {
+      "dimensions": "160 cm height, 50 cm width",
+      "mobility": "Wheeled feet for smooth navigation",
+      "interaction": "Voice commands and interactive display",
+      "arms": "Two arms for pointing and gesturing",
+      "sensors": ["Voice recognition", "Location tracking", "Proximity sensors"],
+      "battery": "Rechargeable battery, 12-hour active time"
+    },
+    "detailed_image_prompt": "A humanoid robot designed for guiding visitors through exhibitions and events. The robot has a tall, elegant frame with a white and blue color scheme. Its face is a digital display that shows directions or maps. Its arms are capable of pointing to exhibits or guiding visitors. The robot is shown in a museum environment with lighting highlighting its guiding capabilities and modern design."
+  },
+  {
+    "id": 68,
+    "robot_name": "PerformerBot",
+    "robot_very_short_description": "A humanoid robot designed for entertainment purposes, performing music, dance, and acting routines.",
+    "short_features_list": ["Dance routines", "Musical performances", "Interactive entertainment", "Voice control"],
+    "short_tech_spec": {
+      "dimensions": "165 cm height, 50 cm width",
+      "mobility": "Wheeled feet for dancing and movement",
+      "interaction": "Voice-controlled routines, facial expressions",
+      "arms": "Two arms for dance and performance gestures",
+      "sensors": ["Motion sensors", "Sound detection", "Facial recognition"],
+      "battery": "Rechargeable battery, 6-hour active time"
+    },
+    "detailed_image_prompt": "A humanoid robot designed for entertainment, featuring a sleek white body with silver accents. The robot has articulated arms and legs that allow it to perform dance routines and other entertainment gestures. Its head features a display for facial expressions that change with the performance. It is shown on a stage with dynamic lighting emphasizing its entertaining and performative design."
+  },
+  {
+    "id": 69,
+    "robot_name": "ChefBot",
+    "robot_very_short_description": "A humanoid robot designed for assisting in kitchens, capable of preparing simple meals and handling cooking tasks.",
+    "short_features_list": ["Meal preparation", "Cooking assistance", "Voice commands", "Temperature monitoring"],
+    "short_tech_spec": {
+      "dimensions": "155 cm height, 55 cm width",
+      "mobility": "Wheeled base for kitchen navigation",
+      "interaction": "Voice-controlled cooking tasks",
+      "arms": "Two multi-jointed arms for handling kitchen tools",
+      "sensors": ["Temperature sensors", "Object recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 8-hour active time"
+    },
+    "detailed_image_prompt": "A humanoid robot designed for kitchen use, featuring a strong, stable body with two multi-jointed arms for cooking tasks. Its face is a simple digital display, and the body is made of a heat-resistant material. The robot is shown in a modern kitchen setting, holding a cooking utensil in one hand, with soft lighting emphasizing its functional design for meal preparation."
+  },
+  {
+    "id": 70,
+    "robot_name": "RescueBot",
+    "robot_very_short_description": "A humanoid robot designed for search and rescue missions, equipped to navigate hazardous environments.",
+    "short_features_list": ["Search and rescue", "Obstacle navigation", "Thermal imaging", "Voice control"],
+    "short_tech_spec": {
+      "dimensions": "170 cm height, 60 cm width",
+      "mobility": "Wheeled base for rough terrain",
+      "interaction": "Voice commands and thermal imaging feedback",
+      "arms": "Two strong arms for lifting and moving objects",
+      "sensors": ["Thermal sensors", "Proximity detection", "Object recognition"],
+      "battery": "Rechargeable battery, 14-hour active time"
+    },
+    "detailed_image_prompt": "A rugged humanoid robot designed for search and rescue missions. The robot has a tall, muscular build with armored plating to protect it in hazardous environments. Its head is equipped with thermal sensors for detecting heat signatures, and its arms are capable of moving heavy debris. The robot is shown in a disaster area with rough terrain, with lighting highlighting its rugged build and rescue features."
+  },
+ {
+    "id": 71,
+    "robot_name": "MathMaster Bot",
+    "robot_very_short_description": "A robot designed to help children learn mathematics through interactive quizzes and games.",
+    "short_features_list": ["Math quizzes", "Voice-guided tutorials", "Interactive games", "Custom difficulty levels"],
+    "short_tech_spec": {
+      "dimensions": "40 cm height, 20 cm width",
+      "mobility": "Stationary with a rotating head",
+      "interaction": "Touchscreen interface, voice interaction",
+      "arms": "Small arms for pointing and gesturing",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A medium-sized educational robot with a bright, animated face on a digital screen. The body is white with orange accents, and its arms are used to point and gesture during lessons. It sits on a flat surface with a touchscreen for interactive math games. The robot is shown in a classroom setting with soft lighting emphasizing its friendly and approachable design."
+  },
+  {
+    "id": 72,
+    "robot_name": "SciBot",
+    "robot_very_short_description": "A robot designed to teach children about science through hands-on experiments and virtual lessons.",
+    "short_features_list": ["Interactive science lessons", "Virtual lab experiments", "Voice interaction", "3D simulations"],
+    "short_tech_spec": {
+      "dimensions": "45 cm height, 22 cm width",
+      "mobility": "Stationary with a 360-degree rotating base",
+      "interaction": "3D screen for simulations, voice commands",
+      "arms": "Extendable arms for handling small objects",
+      "sensors": ["Object recognition", "Voice recognition"],
+      "battery": "Rechargeable battery, 12-hour active time"
+    },
+    "detailed_image_prompt": "A sleek, futuristic robot with a large screen for displaying 3D simulations of scientific experiments. The body is white and silver, with blue lights running along the sides. The robot has two extendable arms that handle small objects during interactive lessons. It is placed on a flat surface in a science lab, with soft lighting highlighting its high-tech educational capabilities."
+  },
+  {
+    "id": 73,
+    "robot_name": "CodeMaster Bot",
+    "robot_very_short_description": "A coding robot designed to teach children basic programming concepts through interactive lessons.",
+    "short_features_list": ["Coding tutorials", "Interactive programming challenges", "Touchscreen interface", "Voice interaction"],
+    "short_tech_spec": {
+      "dimensions": "40 cm height, 18 cm width",
+      "mobility": "Stationary with slight head movement",
+      "interaction": "Touchscreen for coding tasks, voice commands",
+      "arms": "Small arms for simple gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A small educational robot designed to help children learn coding. The robot features a touchscreen on its chest for interactive coding tutorials and problem-solving tasks. The body is white with neon blue accents, and its arms move slightly as it interacts with students. It is shown in a bright, modern classroom with lighting that highlights its clean, futuristic design."
+  },
+  {
+    "id": 74,
+    "robot_name": "HistoryGuide Bot",
+    "robot_very_short_description": "A robot that teaches history through interactive timelines, quizzes, and virtual tours of historical sites.",
+    "short_features_list": ["History lessons", "Virtual historical tours", "Interactive quizzes", "Voice interaction"],
+    "short_tech_spec": {
+      "dimensions": "50 cm height, 25 cm width",
+      "mobility": "Stationary with a rotating base",
+      "interaction": "Voice commands, interactive screen for historical data",
+      "arms": "None",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 12-hour active time"
+    },
+    "detailed_image_prompt": "A medium-sized robot with a sleek, museum-like design. It features a digital screen that shows timelines, historical maps, and quizzes about various historical periods. The body is white with gold accents, giving it an elegant and professional look. The robot stands on a rotating base and is shown in a historical exhibit environment with lighting that emphasizes its educational and informative appearance."
+  },
+  {
+    "id": 75,
+    "robot_name": "LanguageTutor Bot",
+    "robot_very_short_description": "A language-learning robot designed to teach children new languages through conversation and interactive exercises.",
+    "short_features_list": ["Language lessons", "Voice conversation", "Interactive games", "Multilingual support"],
+    "short_tech_spec": {
+      "dimensions": "42 cm height, 20 cm width",
+      "mobility": "Stationary with slight arm movement",
+      "interaction": "Voice-guided language lessons, touchscreen interface",
+      "arms": "Small arms for simple gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A friendly, medium-sized robot designed for language learning. It has a digital face that changes expressions based on conversations and a touchscreen for interactive language games. The body is white with bright green accents, and it features small arms for basic gestures. The robot is shown in a brightly lit classroom, with lighting that highlights its approachable design and educational features."
+  },
+  {
+    "id": 76,
+    "robot_name": "GeoBot",
+    "robot_very_short_description": "A robot that teaches geography through interactive maps, quizzes, and virtual tours of different countries.",
+    "short_features_list": ["Geography lessons", "Interactive maps", "Virtual tours", "Voice interaction"],
+    "short_tech_spec": {
+      "dimensions": "44 cm height, 22 cm width",
+      "mobility": "Stationary with a 360-degree rotating base",
+      "interaction": "Voice commands, touchscreen interface for maps and tours",
+      "arms": "None",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 12-hour active time"
+    },
+    "detailed_image_prompt": "A modern educational robot with a large touchscreen that displays interactive maps and virtual tours. The body is white with blue and green accents, representing the Earth and nature. It has a rotating base that allows it to interact with students from different angles. The robot is placed in a geography classroom with bright lighting, showcasing its high-tech educational design and interactive features."
+  },
+  {
+    "id": 77,
+    "robot_name": "ArtieBot",
+    "robot_very_short_description": "A robot that teaches children how to draw and paint through interactive art lessons and creative exercises.",
+    "short_features_list": ["Drawing and painting lessons", "Interactive tutorials", "Creative exercises", "Voice interaction"],
+    "short_tech_spec": {
+      "dimensions": "40 cm height, 20 cm width",
+      "mobility": "Stationary with slight arm movement",
+      "interaction": "Touchscreen for art lessons, voice commands",
+      "arms": "Small arms for drawing gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 8-hour active time"
+    },
+    "detailed_image_prompt": "A creative-looking robot designed to teach art. The robot has a bright touchscreen that displays drawing and painting tutorials. Its body is white with colorful accents, and its arms move slightly as it demonstrates drawing techniques. The robot is shown in an art classroom with a colorful background, with lighting that highlights its creative, educational design."
+  },
+  {
+    "id": 78,
+    "robot_name": "MusicTutor Bot",
+    "robot_very_short_description": "A music-teaching robot that helps children learn basic music theory and instruments through interactive lessons.",
+    "short_features_list": ["Music theory lessons", "Instrument tutorials", "Interactive games", "Voice interaction"],
+    "short_tech_spec": {
+      "dimensions": "45 cm height, 22 cm width",
+      "mobility": "Stationary with slight head movement",
+      "interaction": "Touchscreen for music lessons, voice commands",
+      "arms": "Small arms for simple gestures",
+      "sensors": ["Voice recognition", "Sound sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A sleek, music-themed robot with a digital screen that displays musical notes and instruments. The body is white with bright blue accents, and its arms make small gestures during music lessons. The robot is placed in a music classroom with soft lighting, emphasizing its educational design and focus on music instruction."
+  },
+  {
+    "id": 79,
+    "robot_name": "LogicMaster Bot",
+    "robot_very_short_description": "A robot that teaches logical thinking and problem-solving through interactive puzzles and games.",
+    "short_features_list": ["Logic puzzles", "Interactive games", "Problem-solving tutorials", "Voice interaction"],
+    "short_tech_spec": {
+      "dimensions": "42 cm height, 20 cm width",
+      "mobility": "Stationary with slight head movement",
+      "interaction": "Touchscreen for puzzles, voice commands",
+      "arms": "Small arms for basic gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 9-hour active time"
+    },
+    "detailed_image_prompt": "A problem-solving robot designed to challenge students with logic puzzles. The robot features a touchscreen for interactive puzzle games, and its body is white with silver accents, giving it a modern, sleek look. The robot’s small arms gesture as it guides students through puzzles. It is shown in a puzzle-solving environment with bright lighting, emphasizing its logical design."
+  },
+  {
+    "id": 80,
+    "robot_name": "STEMBot",
+    "robot_very_short_description": "A robot designed to teach STEM (Science, Technology, Engineering, and Math) concepts through interactive lessons and hands-on projects.",
+    "short_features_list": ["STEM lessons", "Hands-on projects", "Interactive tutorials", "Voice interaction"],
+    "short_tech_spec": {
+      "dimensions": "50 cm height, 25 cm width",
+      "mobility": "Stationary with a rotating head",
+      "interaction": "Touchscreen for STEM lessons, voice commands",
+      "arms": "Two arms for simple project handling",
+      "sensors": ["Voice recognition", "Object recognition"],
+      "battery": "Rechargeable battery, 12-hour active time"
+    },
+    "detailed_image_prompt": "A large, educational robot designed to teach STEM subjects. The robot has a touchscreen that displays tutorials for hands-on projects in science, technology, engineering, and math. The body is white with black and blue accents, and its arms are capable of handling small objects for demonstrations. The robot is shown in a STEM lab with bright lighting, emphasizing its modern and educational design."
+  }, {
+    "id": 81,
+    "robot_name": "CreativeSpark Bot",
+    "robot_very_short_description": "A creativity-focused robot that helps girls design, draw, and paint through interactive lessons.",
+    "short_features_list": ["Art tutorials", "Creative design tools", "Interactive lessons", "Voice-guided creativity"],
+    "short_tech_spec": {
+      "dimensions": "35 cm height, 18 cm width",
+      "mobility": "Stationary with slight arm and head movement",
+      "interaction": "Touchscreen for art lessons, voice commands",
+      "arms": "Small arms for drawing gestures",
+      "sensors": ["Voice recognition", "Touch sensors"],
+      "battery": "Rechargeable battery, 8-hour active time"
+    },
+    "detailed_image_prompt": "A sleek and colorful robot designed for creativity. The body is white with bright pink and purple accents, and it features a touchscreen that displays drawing and painting tutorials. The robot's arms make simple gestures while it interacts with students. It’s shown in a brightly lit room filled with art supplies, emphasizing its role as a creative guide."
+  },
+  {
+    "id": 82,
+    "robot_name": "Fashionista Bot",
+    "robot_very_short_description": "A fashion-design robot that teaches girls about creating outfits and styling.",
+    "short_features_list": ["Fashion design lessons", "Interactive wardrobe", "Voice-guided styling tips", "Custom outfit creator"],
+    "short_tech_spec": {
+      "dimensions": "38 cm height, 19 cm width",
+      "mobility": "Stationary with slight movement in arms and head",
+      "interaction": "Touchscreen for outfit design, voice commands",
+      "arms": "Small arms for style demonstration gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A fashionable robot designed to guide girls in creating their own clothing designs. The robot features a touchscreen for creating outfits, and its body is sleek white with pastel accents. The robot is placed in a virtual wardrobe environment, with soft studio lighting emphasizing its stylish and interactive design."
+  },
+  {
+    "id": 83,
+    "robot_name": "SparkleTech Bot",
+    "robot_very_short_description": "A robot designed to teach young girls basic electronics and engineering through fun projects.",
+    "short_features_list": ["Engineering lessons", "Hands-on projects", "Interactive tutorials", "Voice-guided instructions"],
+    "short_tech_spec": {
+      "dimensions": "40 cm height, 20 cm width",
+      "mobility": "Stationary with slight arm and head movement",
+      "interaction": "Touchscreen for STEM lessons, voice commands",
+      "arms": "Small arms for handling small objects",
+      "sensors": ["Voice recognition", "Object detection"],
+      "battery": "Rechargeable battery, 9-hour active time"
+    },
+    "detailed_image_prompt": "A robot designed for young girls interested in science and engineering, with a playful design that includes white and pink accents. The robot has a touchscreen for interactive STEM projects and small arms that demonstrate simple engineering tasks. It’s shown in a science lab setting with soft lighting that highlights its playful yet educational design."
+  },
+  {
+    "id": 84,
+    "robot_name": "EmoBuddy Bot",
+    "robot_very_short_description": "An emotional companion robot that helps girls understand and express their emotions.",
+    "short_features_list": ["Emotional intelligence lessons", "Voice interaction", "Mood tracking", "Comforting responses"],
+    "short_tech_spec": {
+      "dimensions": "32 cm height, 16 cm width",
+      "mobility": "Stationary with slight head movement",
+      "interaction": "Voice commands, facial expressions for emotions",
+      "arms": "Small arms for comforting gestures",
+      "sensors": ["Mood detection", "Voice recognition"],
+      "battery": "Rechargeable battery, 12-hour active time"
+    },
+    "detailed_image_prompt": "A soft-looking robot designed to support emotional learning. Its body is white with pastel pink and blue accents, and its digital face shows expressive eyes that change based on mood detection. The robot’s arms move gently, making comforting gestures. It’s placed in a softly lit bedroom environment, highlighting its calming and supportive appearance."
+  },
+  {
+    "id": 85,
+    "robot_name": "DancerBot",
+    "robot_very_short_description": "A robot that teaches girls to dance with interactive lessons and fun choreography.",
+    "short_features_list": ["Dance routines", "Choreography lessons", "Voice interaction", "LED light show"],
+    "short_tech_spec": {
+      "dimensions": "36 cm height, 18 cm width",
+      "mobility": "Wheeled base for dance movement",
+      "interaction": "Voice commands, choreography display",
+      "arms": "Movable arms for dance routines",
+      "sensors": ["Voice recognition", "Motion detection"],
+      "battery": "Rechargeable battery, 8-hour active time"
+    },
+    "detailed_image_prompt": "A colorful and energetic robot designed to teach dance. The robot has a sleek white body with neon pink and purple accents, and LED lights that flash during its dance routines. Its arms move rhythmically to the music, and its wheels allow it to glide smoothly across the floor. The robot is shown in a dance studio environment with soft lighting that emphasizes its movement and lively design."
+  },
+  {
+    "id": 86,
+    "robot_name": "PetFriend Bot",
+    "robot_very_short_description": "A robot designed to teach girls how to care for pets through interactive games and lessons.",
+    "short_features_list": ["Pet care lessons", "Interactive games", "Voice-guided tips", "Virtual pet simulation"],
+    "short_tech_spec": {
+      "dimensions": "34 cm height, 17 cm width",
+      "mobility": "Stationary with slight arm and head movement",
+      "interaction": "Touchscreen for pet care tasks, voice commands",
+      "arms": "Small arms for petting gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A friendly-looking robot designed to teach pet care. The robot has a touchscreen that simulates taking care of a virtual pet, and its body is decorated with paw prints and cute animal-themed accents. The robot’s arms move gently, mimicking petting motions. It’s placed in a brightly lit room with playful decor, highlighting its cute and interactive design."
+  },
+  {
+    "id": 87,
+    "robot_name": "PrincessBot",
+    "robot_very_short_description": "A storytelling robot that brings fairytales and princess adventures to life.",
+    "short_features_list": ["Interactive fairytales", "Voice-guided storytelling", "Animated visuals", "Customizable stories"],
+    "short_tech_spec": {
+      "dimensions": "33 cm height, 17 cm width",
+      "mobility": "Stationary with slight movement in head and arms",
+      "interaction": "Voice commands for story selection, animated display",
+      "arms": "Small arms for dramatic gestures",
+      "sensors": ["Voice recognition", "Proximity detection"],
+      "battery": "Rechargeable battery, 9-hour active time"
+    },
+    "detailed_image_prompt": "A magical-looking robot with a princess theme, featuring a digital display that shows animated fairytales. The robot’s body is white with gold and pink accents, and its arms move slightly as it narrates stories. It is shown in a cozy bedroom, with soft lighting that highlights its whimsical, storytelling design."
+  },
+  {
+    "id": 88,
+    "robot_name": "EcoGirl Bot",
+    "robot_very_short_description": "A robot designed to teach girls about the environment, recycling, and sustainability.",
+    "short_features_list": ["Environmental lessons", "Recycling games", "Voice interaction", "Eco-friendly tips"],
+    "short_tech_spec": {
+      "dimensions": "35 cm height, 18 cm width",
+      "mobility": "Stationary with slight arm and head movement",
+      "interaction": "Voice-guided lessons, interactive games",
+      "arms": "Small arms for simple gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "An eco-friendly robot designed to teach environmental sustainability. The body is white with green and blue leaf patterns, symbolizing nature. The robot’s arms move slightly as it interacts with children, guiding them through eco-friendly games and lessons. It is shown in a classroom with plants and bright lighting, emphasizing its environmental theme."
+  },
+  {
+    "id": 89,
+    "robot_name": "DreamerBot",
+    "robot_very_short_description": "A robot that helps girls explore their goals and dreams through interactive journaling and vision board creation.",
+    "short_features_list": ["Dream journaling", "Vision board creation", "Voice interaction", "Goal-setting tutorials"],
+    "short_tech_spec": {
+      "dimensions": "32 cm height, 16 cm width",
+      "mobility": "Stationary with slight head movement",
+      "interaction": "Touchscreen for dream boards, voice commands",
+      "arms": "Small arms for motivational gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A whimsical robot designed to help girls explore their dreams and goals. The body is white with pastel colors, and the touchscreen features interactive vision board and journaling tools. The robot’s arms move gently, making motivational gestures as it interacts with users. It is placed in a brightly lit room filled with inspirational posters, with soft lighting that emphasizes its dreamy and imaginative design."
+  },
+  {
+    "id": 90,
+    "robot_name": "STEMStar Bot",
+    "robot_very_short_description": "A robot that teaches young girls about science, technology, engineering, and math through fun activities and projects.",
+    "short_features_list": ["STEM lessons", "Interactive projects", "Voice-guided tutorials", "Hands-on learning"],
+    "short_tech_spec": {
+      "dimensions": "38 cm height, 19 cm width",
+      "mobility": "Stationary with slight movement in arms and head",
+      "interaction": "Touchscreen for STEM activities, voice commands",
+      "arms": "Small arms for project demonstrations",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 12-hour active time"
+    },
+    "detailed_image_prompt": "A high-tech robot designed to teach STEM subjects with a playful design featuring pastel accents. The robot has a touchscreen for interactive projects and small arms that move during hands-on activities. The body is sleek and modern, and it’s placed in a science classroom with bright lighting, emphasizing its educational and futuristic design."
+  }, {
+    "id": 91,
+    "robot_name": "LightningHero Bot",
+    "robot_very_short_description": "A superhero-themed robot with lightning powers, teaching kids about science and energy.",
+    "short_features_list": ["Energy lessons", "Interactive lightning powers", "Voice commands", "Fast-paced games"],
+    "short_tech_spec": {
+      "dimensions": "40 cm height, 20 cm width",
+      "mobility": "Wheeled base for fast movement",
+      "interaction": "Full-face display with superhero mask, voice interaction",
+      "arms": "Simple arms with energy-themed gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 9-hour active time"
+    },
+    "detailed_image_prompt": "A superhero-themed robot with a full-face display showing a masked face with glowing lightning eyes. The body is sleek and metallic silver with blue and yellow lightning bolt designs. Its arms extend to simulate lightning powers, and the wheels at the base allow for quick movements. It is shown in a brightly lit environment, with lighting emphasizing its speed and energy-based design."
+  },
+  {
+    "id": 92,
+    "robot_name": "AquaGuardian Bot",
+    "robot_very_short_description": "A water-powered superhero robot that teaches kids about marine life and the environment.",
+    "short_features_list": ["Marine life lessons", "Water conservation games", "Voice interaction", "Interactive water powers"],
+    "short_tech_spec": {
+      "dimensions": "42 cm height, 22 cm width",
+      "mobility": "Stationary with rotating base",
+      "interaction": "Full-face display with water-themed mask, voice interaction",
+      "arms": "Movable arms simulating water blasts",
+      "sensors": ["Voice recognition", "Water detection"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A robot designed with a superhero water theme, featuring a full-face display with a mask resembling water waves. The body is white with blue water-themed designs, and the arms move to simulate water blasts. It is placed in a brightly lit room with soft lighting highlighting its water-themed design and educational purpose."
+  },
+  {
+    "id": 93,
+    "robot_name": "StarRanger Bot",
+    "robot_very_short_description": "A space-themed superhero robot that teaches kids about the universe and planets.",
+    "short_features_list": ["Space lessons", "Interactive space adventures", "Voice commands", "Planet discovery games"],
+    "short_tech_spec": {
+      "dimensions": "44 cm height, 23 cm width",
+      "mobility": "Stationary with a rotating head and arms",
+      "interaction": "Full-face display with space ranger mask, voice interaction",
+      "arms": "Arms simulate shooting stars",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A superhero robot themed around space exploration, with a full-face display featuring a cosmic-themed mask and glowing stars for eyes. The body is sleek and metallic with silver and blue star patterns. The robot’s arms extend to simulate shooting stars, and it rotates on its base. It is shown in a space-themed room, with lighting that emphasizes its cosmic design."
+  },
+  {
+    "id": 94,
+    "robot_name": "FireBlaze Bot",
+    "robot_very_short_description": "A fire-powered superhero robot that teaches kids about fire safety and energy sources.",
+    "short_features_list": ["Fire safety lessons", "Interactive fire powers", "Voice interaction", "Energy conservation games"],
+    "short_tech_spec": {
+      "dimensions": "40 cm height, 20 cm width",
+      "mobility": "Stationary with movable arms",
+      "interaction": "Full-face display with fire-themed mask, voice interaction",
+      "arms": "Movable arms simulating fire blasts",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 9-hour active time"
+    },
+    "detailed_image_prompt": "A superhero-themed robot with a fire power concept, featuring a full-face display showing a flaming mask with glowing ember eyes. The body is sleek red and orange, designed to resemble flames, and its arms simulate fire blasts. It is shown in a brightly lit room, with soft lighting that emphasizes its fire-themed superhero powers."
+  },
+  {
+    "id": 95,
+    "robot_name": "NatureGuardian Bot",
+    "robot_very_short_description": "A nature-powered superhero robot that teaches kids about plants and the environment.",
+    "short_features_list": ["Nature lessons", "Plant care games", "Voice commands", "Interactive nature powers"],
+    "short_tech_spec": {
+      "dimensions": "42 cm height, 21 cm width",
+      "mobility": "Stationary with rotating arms",
+      "interaction": "Full-face display with nature-themed mask, voice interaction",
+      "arms": "Movable arms for plant-growing gestures",
+      "sensors": ["Voice recognition", "Plant moisture detection"],
+      "battery": "Rechargeable battery, 11-hour active time"
+    },
+    "detailed_image_prompt": "A nature-themed superhero robot with a full-face display featuring a leafy mask and green glowing eyes. The body is white and green with vines and leaf patterns, and the arms move to simulate growing plants. It is shown in a nature-inspired setting with lighting emphasizing its eco-friendly, nature-loving superhero design."
+  },
+  {
+    "id": 96,
+    "robot_name": "WindStorm Bot",
+    "robot_very_short_description": "A wind-powered superhero robot that teaches kids about weather and environmental conservation.",
+    "short_features_list": ["Weather lessons", "Wind conservation games", "Voice interaction", "Interactive wind powers"],
+    "short_tech_spec": {
+      "dimensions": "43 cm height, 22 cm width",
+      "mobility": "Stationary with rotating base and arms",
+      "interaction": "Full-face display with wind-themed mask, voice interaction",
+      "arms": "Movable arms simulating wind gusts",
+      "sensors": ["Voice recognition", "Air quality detection"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A superhero robot based on wind powers, with a full-face display showing a gusty wind mask with swirling eyes. The body is white with light blue accents resembling wind patterns. Its arms move to simulate powerful wind gusts. It is shown in a weather-themed environment, with lighting that highlights its connection to environmental conservation."
+  },
+  {
+    "id": 97,
+    "robot_name": "TechMaster Bot",
+    "robot_very_short_description": "A technology-themed superhero robot that teaches kids about coding and electronics.",
+    "short_features_list": ["Coding lessons", "Interactive tech powers", "Voice commands", "Electronics building games"],
+    "short_tech_spec": {
+      "dimensions": "40 cm height, 20 cm width",
+      "mobility": "Stationary with movable arms",
+      "interaction": "Full-face display with tech-themed mask, voice interaction",
+      "arms": "Movable arms simulating tech-building actions",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 9-hour active time"
+    },
+    "detailed_image_prompt": "A high-tech superhero robot with a full-face display showing a digital mask with circuit-like patterns. The body is metallic silver with neon blue tech-inspired designs. The arms move to simulate coding and electronics-building actions. It is shown in a futuristic, tech-filled room with lighting that emphasizes its advanced tech powers."
+  },
+  {
+    "id": 98,
+    "robot_name": "SoundWave Bot",
+    "robot_very_short_description": "A sound-powered superhero robot that teaches kids about music and sound waves.",
+    "short_features_list": ["Music lessons", "Sound wave games", "Voice interaction", "Interactive sound powers"],
+    "short_tech_spec": {
+      "dimensions": "41 cm height, 21 cm width",
+      "mobility": "Stationary with rotating arms and head",
+      "interaction": "Full-face display with sound wave mask, voice interaction",
+      "arms": "Movable arms simulating sound waves",
+      "sensors": ["Voice recognition", "Sound wave detection"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A sound-powered superhero robot with a full-face display showing a mask with sound wave patterns and glowing speaker eyes. The body is sleek with black and neon green sound-themed designs. The robot’s arms extend to simulate sound waves. It is shown in a music studio environment with lighting that highlights its musical powers."
+  },
+  {
+    "id": 99,
+    "robot_name": "SuperShield Bot",
+    "robot_very_short_description": "A protection-themed superhero robot that teaches kids about safety and self-defense.",
+    "short_features_list": ["Safety lessons", "Interactive shield powers", "Voice commands", "Self-defense games"],
+    "short_tech_spec": {
+      "dimensions": "43 cm height, 22 cm width",
+      "mobility": "Stationary with rotating arms",
+      "interaction": "Full-face display with shield-themed mask, voice interaction",
+      "arms": "Movable arms for shield actions",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 11-hour active time"
+    },
+    "detailed_image_prompt": "A protection-themed superhero robot with a full-face display showing a shield-shaped mask and glowing protective eyes. The body is armored with white and silver, and the arms move to simulate creating protective shields. It is shown in a bright, futuristic environment with lighting that emphasizes its protective powers."
+  },
+  {
+    "id": 100,
+    "robot_name": "MegaMind Bot",
+    "robot_very_short_description": "A superhero robot with mind powers, designed to teach kids about critical thinking and problem-solving.",
+    "short_features_list": ["Critical thinking lessons", "Problem-solving games", "Voice interaction", "Interactive mind powers"],
+    "short_tech_spec": {
+      "dimensions": "41 cm height, 21 cm width",
+      "mobility": "Stationary with movable arms",
+      "interaction": "Full-face display with mind power mask, voice interaction",
+      "arms": "Movable arms for mind control actions",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A superhero robot with mind powers, featuring a full-face display showing a brainwave-themed mask with glowing eyes. The body is sleek with blue and purple accents symbolizing brain power. The arms extend to simulate mind control actions. It is shown in a futuristic learning environment with lighting that emphasizes its intellectual powers."
+  },{
+    "id": 101,
+    "robot_name": "BunnyBot",
+    "robot_very_short_description": "A cute bunny-themed robot that teaches kids about nature and animal care.",
+    "short_features_list": ["Nature lessons", "Interactive animal care", "Voice interaction", "Hopping games"],
+    "short_tech_spec": {
+      "dimensions": "30 cm height, 18 cm width",
+      "mobility": "Hopping movement with soft landing",
+      "interaction": "Full-face display with bunny expressions, voice interaction",
+      "arms": "Small arms for simple hopping gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 8-hour active time"
+    },
+    "detailed_image_prompt": "A bunny-themed robot with a full-face display showing large, glowing bunny eyes and animated bunny ears. The body is smooth white with light pink accents, and it features soft, rounded feet for hopping. It is shown in a nature-themed environment with soft lighting highlighting its playful and adorable design."
+  },
+  {
+    "id": 102,
+    "robot_name": "KittyBot",
+    "robot_very_short_description": "A playful kitten-themed robot that engages kids with interactive games and learning activities.",
+    "short_features_list": ["Animal lessons", "Interactive games", "Voice interaction", "Purring responses"],
+    "short_tech_spec": {
+      "dimensions": "28 cm height, 17 cm width",
+      "mobility": "Smooth rolling movement",
+      "interaction": "Full-face display with kitten expressions, voice interaction",
+      "arms": "Paw-like arms for playful gestures",
+      "sensors": ["Voice recognition", "Proximity detection"],
+      "battery": "Rechargeable battery, 9-hour active time"
+    },
+    "detailed_image_prompt": "A cute kitten-themed robot with a full-face display showing animated kitten eyes and playful expressions. The body is sleek white with gray and pink accents, and the robot moves smoothly with rolling paws. It’s placed in a cozy, playful environment with soft lighting that highlights its cute kitten features."
+  },
+  {
+    "id": 103,
+    "robot_name": "PuppyPal Bot",
+    "robot_very_short_description": "A loyal puppy-themed robot that teaches kids about companionship and teamwork.",
+    "short_features_list": ["Companionship lessons", "Interactive games", "Voice interaction", "Barking responses"],
+    "short_tech_spec": {
+      "dimensions": "32 cm height, 20 cm width",
+      "mobility": "Wheeled feet for fast movement",
+      "interaction": "Full-face display with puppy expressions, voice interaction",
+      "arms": "Paw-like arms for fetching gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A playful puppy-themed robot with a full-face display showing large, bright puppy eyes and wagging tail animations. The body is white with brown and blue spots, and the robot’s arms simulate fetching motions. It is placed in a backyard setting with soft lighting that emphasizes its energetic and friendly design."
+  },
+  {
+    "id": 104,
+    "robot_name": "FoxyBot",
+    "robot_very_short_description": "A clever fox-themed robot that teaches kids about problem-solving and critical thinking.",
+    "short_features_list": ["Problem-solving games", "Interactive lessons", "Voice interaction", "Clever puzzles"],
+    "short_tech_spec": {
+      "dimensions": "30 cm height, 18 cm width",
+      "mobility": "Stationary with slight head and arm movement",
+      "interaction": "Full-face display with fox expressions, voice interaction",
+      "arms": "Simple arms for puzzle-solving gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 9-hour active time"
+    },
+    "detailed_image_prompt": "A smart-looking fox-themed robot with a full-face display showing sly, glowing eyes and animated fox ears. The body is sleek white with orange and black accents resembling a fox’s fur. It’s placed in a bright, intellectual environment with soft lighting that highlights its clever, puzzle-solving features."
+  },
+  {
+    "id": 105,
+    "robot_name": "PandaBot",
+    "robot_very_short_description": "A gentle panda-themed robot that teaches kids about kindness, sharing, and environmental care.",
+    "short_features_list": ["Kindness lessons", "Sharing games", "Voice interaction", "Environmental tips"],
+    "short_tech_spec": {
+      "dimensions": "34 cm height, 20 cm width",
+      "mobility": "Rolling wheels for smooth movement",
+      "interaction": "Full-face display with panda expressions, voice interaction",
+      "arms": "Paw-like arms for gentle gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A gentle panda-themed robot with a full-face display showing big, soft panda eyes and animated bamboo-munching motions. The body is white and black with soft, rounded edges, resembling a panda’s fur. It is shown in a peaceful, nature-themed room with soft lighting that highlights its calm, friendly appearance."
+  },
+  {
+    "id": 106,
+    "robot_name": "KoalaBuddy Bot",
+    "robot_very_short_description": "A koala-themed robot that teaches kids about relaxation and mindfulness through interactive games.",
+    "short_features_list": ["Mindfulness lessons", "Relaxation games", "Voice interaction", "Calming responses"],
+    "short_tech_spec": {
+      "dimensions": "30 cm height, 18 cm width",
+      "mobility": "Stationary with slow, calming movements",
+      "interaction": "Full-face display with koala expressions, voice interaction",
+      "arms": "Simple arms for slow, gentle gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 12-hour active time"
+    },
+    "detailed_image_prompt": "A relaxed, koala-themed robot with a full-face display showing peaceful koala eyes and animated ear movements. The body is soft gray and white with pastel accents, resembling a cuddly koala. It’s placed in a zen-inspired environment with calming, soft lighting that emphasizes its peaceful and mindful design."
+  },
+  {
+    "id": 107,
+    "robot_name": "TigerTrek Bot",
+    "robot_very_short_description": "A brave tiger-themed robot that teaches kids about adventure and exploration.",
+    "short_features_list": ["Adventure games", "Exploration lessons", "Voice interaction", "Tiger-themed challenges"],
+    "short_tech_spec": {
+      "dimensions": "33 cm height, 20 cm width",
+      "mobility": "Wheeled base for smooth exploration",
+      "interaction": "Full-face display with tiger expressions, voice interaction",
+      "arms": "Paw-like arms for adventure gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A brave tiger-themed robot with a full-face display showing fierce, glowing tiger eyes and animated stripes. The body is sleek with orange and black patterns resembling a tiger’s fur. It’s placed in a jungle-themed room with bright lighting that highlights its adventurous design and bold personality."
+  },
+  {
+    "id": 108,
+    "robot_name": "OwlEyes Bot",
+    "robot_very_short_description": "An owl-themed robot that teaches kids about wisdom and knowledge through fun trivia and challenges.",
+    "short_features_list": ["Knowledge games", "Trivia challenges", "Voice interaction", "Wisdom lessons"],
+    "short_tech_spec": {
+      "dimensions": "31 cm height, 18 cm width",
+      "mobility": "Stationary with rotating head and arms",
+      "interaction": "Full-face display with owl expressions, voice interaction",
+      "arms": "Small wings for pointing gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "A wise owl-themed robot with a full-face display showing large, glowing owl eyes and animated blinking. The body is sleek white with brown feathers and wing patterns, resembling an owl’s majestic look. It’s placed in a library-themed room with soft lighting that emphasizes its intellectual and educational features."
+  },
+  {
+    "id": 109,
+    "robot_name": "PenguinPal Bot",
+    "robot_very_short_description": "A playful penguin-themed robot that teaches kids about teamwork and friendship through interactive games.",
+    "short_features_list": ["Teamwork lessons", "Friendship games", "Voice interaction", "Penguin waddling actions"],
+    "short_tech_spec": {
+      "dimensions": "30 cm height, 18 cm width",
+      "mobility": "Waddling base for smooth movement",
+      "interaction": "Full-face display with penguin expressions, voice interaction",
+      "arms": "Flipper-like arms for playful gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 9-hour active time"
+    },
+    "detailed_image_prompt": "A playful penguin-themed robot with a full-face display showing bright, cheerful penguin eyes and animated waddling movements. The body is sleek white and black, with yellow beak accents resembling a cute penguin. It’s placed in an icy, playful environment with soft lighting that highlights its friendly, team-oriented design."
+  },
+  {
+    "id": 110,
+    "robot_name": "ElephantExplorer Bot",
+    "robot_very_short_description": "An adventurous elephant-themed robot that teaches kids about geography and exploration.",
+    "short_features_list": ["Geography lessons", "Exploration games", "Voice interaction", "Elephant-themed adventures"],
+    "short_tech_spec": {
+      "dimensions": "34 cm height, 22 cm width",
+      "mobility": "Wheeled base for smooth exploration",
+      "interaction": "Full-face display with elephant expressions, voice interaction",
+      "arms": "Trunk-like arm for exploration gestures",
+      "sensors": ["Voice recognition", "Proximity sensors"],
+      "battery": "Rechargeable battery, 10-hour active time"
+    },
+    "detailed_image_prompt": "An adventurous elephant-themed robot with a full-face display showing kind, animated elephant eyes and a moving trunk. The body is light gray with soft, rounded edges resembling an elephant. It’s placed in a safari-themed room with bright lighting that emphasizes its adventurous and exploratory design."
+  }
+
+
+
+
+]

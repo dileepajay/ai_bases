@@ -479,7 +479,7 @@
                                 <img src="images/resize/320/robot_${index}-0.jpg" alt="${robot.robot_name}" class="robot-image">
                             </div>
                             <div class="robot-details">
-                                <h3>${robot.robot_name}</h3>
+                                <h3>${index} ${robot.robot_name}</h3>
                                 <p>${robot.robot_very_short_description}</p>
                                 <ul class="features">
                                     ${robot.short_features_list_icons.map(feature => `<li>${feature.icon} ${feature.feature}</li>`).join('')}
